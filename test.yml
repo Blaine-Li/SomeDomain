@@ -14,6 +14,8 @@ dns:
     - 223.5.5.5
   enhanced-mode: fake-ip
   fake-ip-range: 198.18.0.1/16
+  fake-ip-filter:
+    - ac.ursusx.com
 {% endif %}
 
 {% if local.clash.new_field_name == "true" %}
