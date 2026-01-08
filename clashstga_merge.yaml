@@ -824,9 +824,6 @@ rules:
   - DOMAIN-SUFFIX,zhuihd.com,➡️ 国内
   - DOMAIN-SUFFIX,cmbchina.com,➡️ 国内
   - DOMAIN-SUFFIX,95516.com,➡️ 国内
-  - USER-AGENT,Bilibili*,➡️ 国内
-  - USER-AGENT,bili*,➡️ 国内
-  - USER-AGENT,bili-inter*,➡️ 国内
   - DOMAIN,apiintl.biliapi.net,➡️ 国内
   - DOMAIN,upos-hz-mirrorakam.akamaized.net,➡️ 国内
   - DOMAIN-SUFFIX,acg.tv,➡️ 国内
@@ -845,8 +842,6 @@ rules:
   - DOMAIN-SUFFIX,hdslb.com,➡️ 国内
   - DOMAIN-SUFFIX,im9.com,➡️ 国内
   - DOMAIN-SUFFIX,smtcdns.net,➡️ 国内
-  - USER-AGENT,QYPlayer*,➡️ 国内
-  - USER-AGENT,iQIYI*,➡️ 国内
   - DOMAIN,intel-cache.m.iqiyi.com,➡️ 国内
   - DOMAIN,intel-cache.video.iqiyi.com,➡️ 国内
   - DOMAIN,intl-rcd.iqiyi.com,➡️ 国内
@@ -863,8 +858,6 @@ rules:
   - IP-CIDR,223.119.62.225/28,➡️ 国内,no-resolve
   - URL-REGEX,^https?:\/\/int[\w-\.]+iqiyi\.com,➡️ 国内
   - DOMAIN-SUFFIX,api.mob.app.letv.com,➡️ 国内
-  - USER-AGENT,MOO*,➡️ 国内
-  - USER-AGENT,TencentMidasConnect*,➡️ 国内
   - DOMAIN-SUFFIX,v.smtcdns.com,➡️ 国内
   - DOMAIN-SUFFIX,vv.video.qq.com,➡️ 国内
   - DOMAIN-SUFFIX,youku.com,➡️ 国内
