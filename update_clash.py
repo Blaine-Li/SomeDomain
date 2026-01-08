@@ -11,6 +11,22 @@ FILES_TO_PROCESS = [
 # GitHub Proxy (可选)
 URL_PREFIX = "" 
 
+# ================= 核心常量定义 =================
+
+# 仅允许的规则类型（全部大写，用于忽略大小写匹配）
+VALID_RULE_TYPES = {
+    'DOMAIN', 'DOMAIN-SUFFIX', 'DOMAIN-KEYWORD', 'DOMAIN-WILDCARD', 'DOMAIN-REGEX', 'GEOSITE',
+    'IP-CIDR', 'IP-CIDR6', 'IP-SUFFIX', 'IP-ASN', 'GEOIP', 
+    'SRC-GEOIP', 'SRC-IP-ASN', 'SRC-IP-CIDR', 'SRC-IP-SUFFIX',
+    'DST-PORT', 'SRC-PORT',
+    'IN-PORT', 'IN-TYPE', 'IN-USER', 'IN-NAME',
+    'PROCESS-PATH', 'PROCESS-PATH-REGEX', 'PROCESS-NAME', 'PROCESS-NAME-REGEX',
+    'UID', 'NETWORK', 'DSCP',
+    'RULE-SET',
+    'AND', 'OR', 'NOT', 'SUB-RULE',
+    'MATCH'
+}
+
 # ================= 逻辑区域 =================
 
 def download_rule_provider(url):
@@ -53,18 +69,28 @@ def process_file(filename):
     
     print("    🔄 正在合并规则...")
     for rule in current_rules:
-        # 移除原规则中可能存在的引号
+        # 1. 基础清洗：移除引号
         rule = rule.replace("'", "").replace('"', "")
         
-        # rule 可能格式: "RULE-SET,p_ai_1,👽 AI"
+        # 2. 分割规则以获取类型
         parts = [p.strip() for p in rule.split(',')]
-        rule_type = parts[0]
-        
-        # 【过滤逻辑】如果是 USER-AGENT 类型的规则，直接跳过 (不论是本地规则还是引用规则)
-        if rule_type.upper() == 'USER-AGENT':
+        if not parts:
+            continue
+            
+        rule_type = parts[0].upper() # 统一转为大写比较
+
+        # 【核心过滤逻辑 1】检查本地规则是否在白名单内
+        # 注意：AND/OR 等复杂逻辑规则可能包含逗号，这里只检查第一个单词是否合法
+        # 如果是 complex payload (例如 AND,((DOMAIN...)))，parts[0] 依然是 AND，可以通过
+        if rule_type not in VALID_RULE_TYPES:
+            print(f"    ⚠️  跳过无效/不支持的本地规则类型: {rule_type}")
             continue
 
         if rule_type == 'RULE-SET':
+            # 处理规则集引用
+            if len(parts) < 3:
+                continue
+                
             provider_name = parts[1]
             policy_group = parts[2] # 获取策略组
             
@@ -77,20 +103,26 @@ def process_file(filename):
                 rule_lines = provider_cache[provider_name]
                 
                 for line in rule_lines:
-                    # 清洗行内容：移除引号
+                    # 清洗下载的内容
                     line = line.replace("'", "").replace('"', "")
-                    
                     line_parts = [p.strip() for p in line.split(',')]
                     
-                    # 【过滤逻辑】再次检查下载的内容里是否有 USER-AGENT
-                    if line_parts[0].upper() == 'USER-AGENT':
+                    if not line_parts:
+                        continue
+                        
+                    downloaded_rule_type = line_parts[0].upper()
+
+                    # 【核心过滤逻辑 2】检查下载的规则是否在白名单内
+                    if downloaded_rule_type not in VALID_RULE_TYPES:
+                        # 默默跳过，不打印日志以免刷屏（很多老列表会有 USER-AGENT）
                         continue
 
                     # 处理 no-resolve
+                    # Clash 逻辑：no-resolve 必须放在策略组之后
                     has_no_resolve = False
                     if 'no-resolve' in line_parts:
                         has_no_resolve = True
-                        line_parts.remove('no-resolve')
+                        line_parts = [p for p in line_parts if p != 'no-resolve'] # 移除它
                     
                     # 重新组合前面的部分 (类型,值)
                     base_line = ",".join(line_parts)
@@ -103,9 +135,10 @@ def process_file(filename):
             else:
                 print(f"    ⚠️  找不到 Provider 定义或 URL: {provider_name}")
         else:
-            # 对于非 RULE-SET 的普通规则，直接保留
+            # 对于非 RULE-SET 的普通规则（且已通过白名单检查），直接保留
             merged_rules.append(f"- {rule}")
 
+    # ================= 文件写入 =================
     # 读取头部并写入新文件
     with open(filename, 'r', encoding='utf-8') as f:
         raw_lines = f.readlines()
@@ -128,7 +161,6 @@ def process_file(filename):
         f.write("\n")
         f.write("rules:\n")
         for r in merged_rules:
-            # 直接写入字符串，不使用 yaml 库，确保不会被自动加上引号
             f.write(f"  {r}\n")
             
     print(f"    ✅ 生成文件: {output_filename} (共 {len(merged_rules)} 条规则)")
