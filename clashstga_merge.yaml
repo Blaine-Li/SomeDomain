@@ -856,7 +856,6 @@ rules:
   - IP-CIDR,118.26.32.0/23,➡️ 国内,no-resolve
   - IP-CIDR,118.26.120.0/24,➡️ 国内,no-resolve
   - IP-CIDR,223.119.62.225/28,➡️ 国内,no-resolve
-  - URL-REGEX,^https?:\/\/int[\w-\.]+iqiyi\.com,➡️ 国内
   - DOMAIN-SUFFIX,api.mob.app.letv.com,➡️ 国内
   - DOMAIN-SUFFIX,v.smtcdns.com,➡️ 国内
   - DOMAIN-SUFFIX,vv.video.qq.com,➡️ 国内
