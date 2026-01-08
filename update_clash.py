@@ -53,13 +53,20 @@ def process_file(filename):
     
     print("    🔄 正在合并规则...")
     for rule in current_rules:
+        # 移除原规则中可能存在的引号
+        rule = rule.replace("'", "").replace('"', "")
+        
         # rule 可能格式: "RULE-SET,p_ai_1,👽 AI"
         parts = [p.strip() for p in rule.split(',')]
         rule_type = parts[0]
         
+        # 【过滤逻辑】如果是 USER-AGENT 类型的规则，直接跳过 (不论是本地规则还是引用规则)
+        if rule_type.upper() == 'USER-AGENT':
+            continue
+
         if rule_type == 'RULE-SET':
             provider_name = parts[1]
-            policy_group = parts[2] # 获取策略组，例如 "👽 AI"
+            policy_group = parts[2] # 获取策略组
             
             provider_info = providers.get(provider_name)
             if provider_info and 'url' in provider_info:
@@ -69,13 +76,18 @@ def process_file(filename):
                 
                 rule_lines = provider_cache[provider_name]
                 
-                # ---------------- 核心修改逻辑开始 ----------------
                 for line in rule_lines:
-                    # 检查下载的行是否包含 no-resolve
-                    line_parts = [p.strip() for p in line.split(',')]
-                    has_no_resolve = False
+                    # 清洗行内容：移除引号
+                    line = line.replace("'", "").replace('"', "")
                     
-                    # 如果原行里有 no-resolve，先移除它
+                    line_parts = [p.strip() for p in line.split(',')]
+                    
+                    # 【过滤逻辑】再次检查下载的内容里是否有 USER-AGENT
+                    if line_parts[0].upper() == 'USER-AGENT':
+                        continue
+
+                    # 处理 no-resolve
+                    has_no_resolve = False
                     if 'no-resolve' in line_parts:
                         has_no_resolve = True
                         line_parts.remove('no-resolve')
@@ -85,13 +97,9 @@ def process_file(filename):
                     
                     # 拼接逻辑： 类型,值,策略组,no-resolve(如果有)
                     if has_no_resolve:
-                        # 结果: - IP-CIDR,1.2.3.4/32,👽 AI,no-resolve
                         merged_rules.append(f"- {base_line},{policy_group},no-resolve")
                     else:
-                        # 结果: - DOMAIN-SUFFIX,google.com,👽 AI
                         merged_rules.append(f"- {base_line},{policy_group}")
-                # ---------------- 核心修改逻辑结束 ----------------
-                        
             else:
                 print(f"    ⚠️  找不到 Provider 定义或 URL: {provider_name}")
         else:
@@ -120,6 +128,7 @@ def process_file(filename):
         f.write("\n")
         f.write("rules:\n")
         for r in merged_rules:
+            # 直接写入字符串，不使用 yaml 库，确保不会被自动加上引号
             f.write(f"  {r}\n")
             
     print(f"    ✅ 生成文件: {output_filename} (共 {len(merged_rules)} 条规则)")
