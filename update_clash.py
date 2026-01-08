@@ -4,10 +4,8 @@ import os
 
 # ================= 配置区域 =================
 
-# 1. 这里填写你仓库里原本的 Clash 配置文件名
-# 脚本会读取这个文件，根据里面的 rule-providers 下载内容
 FILES_TO_PROCESS = [
-    'clashstga.yaml'
+    'clashstga.yaml', 
 ]
 
 # GitHub Proxy (可选)
@@ -22,6 +20,7 @@ def download_rule_provider(url):
     try:
         resp = requests.get(full_url, timeout=15)
         resp.raise_for_status()
+        # 过滤空行和注释
         lines = [line.strip() for line in resp.text.splitlines() if line.strip() and not line.strip().startswith('#')]
         return lines
     except Exception as e:
@@ -54,12 +53,13 @@ def process_file(filename):
     
     print("    🔄 正在合并规则...")
     for rule in current_rules:
+        # rule 可能格式: "RULE-SET,p_ai_1,👽 AI"
         parts = [p.strip() for p in rule.split(',')]
         rule_type = parts[0]
         
         if rule_type == 'RULE-SET':
             provider_name = parts[1]
-            policy_group = parts[2]
+            policy_group = parts[2] # 获取策略组，例如 "👽 AI"
             
             provider_info = providers.get(provider_name)
             if provider_info and 'url' in provider_info:
@@ -68,13 +68,37 @@ def process_file(filename):
                     provider_cache[provider_name] = download_rule_provider(url)
                 
                 rule_lines = provider_cache[provider_name]
+                
+                # ---------------- 核心修改逻辑开始 ----------------
                 for line in rule_lines:
-                    merged_rules.append(f"- {line},{policy_group}")
+                    # 检查下载的行是否包含 no-resolve
+                    line_parts = [p.strip() for p in line.split(',')]
+                    has_no_resolve = False
+                    
+                    # 如果原行里有 no-resolve，先移除它
+                    if 'no-resolve' in line_parts:
+                        has_no_resolve = True
+                        line_parts.remove('no-resolve')
+                    
+                    # 重新组合前面的部分 (类型,值)
+                    base_line = ",".join(line_parts)
+                    
+                    # 拼接逻辑： 类型,值,策略组,no-resolve(如果有)
+                    if has_no_resolve:
+                        # 结果: - IP-CIDR,1.2.3.4/32,👽 AI,no-resolve
+                        merged_rules.append(f"- {base_line},{policy_group},no-resolve")
+                    else:
+                        # 结果: - DOMAIN-SUFFIX,google.com,👽 AI
+                        merged_rules.append(f"- {base_line},{policy_group}")
+                # ---------------- 核心修改逻辑结束 ----------------
+                        
             else:
                 print(f"    ⚠️  找不到 Provider 定义或 URL: {provider_name}")
         else:
+            # 对于非 RULE-SET 的普通规则，直接保留
             merged_rules.append(f"- {rule}")
 
+    # 读取头部并写入新文件
     with open(filename, 'r', encoding='utf-8') as f:
         raw_lines = f.readlines()
 
