@@ -1,0 +1,36 @@
+name: Update Clash Rules Merge
+
+on:
+  workflow_dispatch:      # 允许手动运行
+  schedule:
+    - cron: '0 22 */2 * *' # 每隔 2 天的 UTC 22点（北京时间早6点）运行
+
+permissions:
+  contents: write         # ⚠️ 重要：必须赋予写入权限，否则无法提交新文件
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        pip install requests pyyaml
+
+    - name: Run update script
+      run: |
+        python update_clash.py
+
+    - name: Commit and push changes
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: "Auto-generate merged rules [skip ci]"
+        file_pattern: '*_merge.yaml' # 只提交后缀为 _merge.yaml 的文件
