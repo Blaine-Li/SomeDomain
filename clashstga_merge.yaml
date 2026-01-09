@@ -13833,6 +13833,7 @@ rules:
   - DOMAIN-SUFFIX,ausbeatsbydrdre.com,🌍 国外
   - DOMAIN-SUFFIX,auth0.com,🌍 国外
   - DOMAIN-SUFFIX,authorxml.com,🌍 国外
+  - DOMAIN-SUFFIX,authpass.app,🌍 国外
   - DOMAIN-SUFFIX,authy.com,🌍 国外
   - DOMAIN-SUFFIX,autocad-schulungen.com,🌍 国外
   - DOMAIN-SUFFIX,autocad.com,🌍 国外
@@ -14970,6 +14971,7 @@ rules:
   - DOMAIN-SUFFIX,bingsandbox.com,🌍 国外
   - DOMAIN-SUFFIX,bingvisualsearch.com,🌍 国外
   - DOMAIN-SUFFIX,bingworld.com,🌍 国外
+  - DOMAIN-SUFFIX,bingx.com,🌍 国外
   - DOMAIN-SUFFIX,binoculus.com,🌍 国外
   - DOMAIN-SUFFIX,biobank.ac.uk,🌍 国外
   - DOMAIN-SUFFIX,biobankingsolutions.ac.uk,🌍 国外
@@ -21305,6 +21307,7 @@ rules:
   - DOMAIN-SUFFIX,genshin-porn.com,🌍 国外
   - DOMAIN-SUFFIX,genshinh.com,🌍 国外
   - DOMAIN-SUFFIX,gentoo.org,🌍 国外
+  - DOMAIN-SUFFIX,geobasket.ru,🌍 国外
   - DOMAIN-SUFFIX,geodesummit.com,🌍 国外
   - DOMAIN-SUFFIX,geohazard.ac.uk,🌍 国外
   - DOMAIN-SUFFIX,geolytics.com,🌍 国外
@@ -25416,6 +25419,7 @@ rules:
   - DOMAIN-SUFFIX,letsencrypt.org,🌍 国外
   - DOMAIN-SUFFIX,letsfuckme.net,🌍 国外
   - DOMAIN-SUFFIX,letsjerk.cc,🌍 国外
+  - DOMAIN-SUFFIX,letsmoveforabetterworld.com,🌍 国外
   - DOMAIN-SUFFIX,lettherebeporn.com,🌍 国外
   - DOMAIN-SUFFIX,lettol.ac.uk,🌍 国外
   - DOMAIN-SUFFIX,levelsex.com,🌍 国外
@@ -27961,6 +27965,7 @@ rules:
   - DOMAIN-SUFFIX,netcup.eu,🌍 国外
   - DOMAIN-SUFFIX,netcup.net,🌍 国外
   - DOMAIN-SUFFIX,netfapx.com,🌍 国外
+  - DOMAIN-SUFFIX,netfilter.org,🌍 国外
   - DOMAIN-SUFFIX,netflav1.com,🌍 国外
   - DOMAIN-SUFFIX,netflav5.com,🌍 国外
   - DOMAIN-SUFFIX,netflix.ca,🌍 国外
@@ -28138,8 +28143,10 @@ rules:
   - DOMAIN-SUFFIX,nfscdict.com,🌍 国外
   - DOMAIN-SUFFIX,nfscofficial.com,🌍 国外
   - DOMAIN-SUFFIX,nfsworld.com,🌍 国外
+  - DOMAIN-SUFFIX,nftables.org,🌍 国外
   - DOMAIN-SUFFIX,nftstatic.com,🌍 国外
   - DOMAIN-SUFFIX,ngc.ac.uk,🌍 国外
+  - DOMAIN-SUFFIX,ngenix.net,🌍 国外
   - DOMAIN-SUFFIX,ngeo.com,🌍 国外
   - DOMAIN-SUFFIX,ngfiles.com,🌍 国外
   - DOMAIN-SUFFIX,ngfl.ac.uk,🌍 国外
@@ -29500,6 +29507,7 @@ rules:
   - DOMAIN-SUFFIX,payroll.com,🌍 国外
   - DOMAIN-SUFFIX,payserve.com,🌍 国外
   - DOMAIN-SUFFIX,paysitesreviews.net,🌍 国外
+  - DOMAIN-SUFFIX,paywb.com,🌍 国外
   - DOMAIN-SUFFIX,payypal.com,🌍 国外
   - DOMAIN-SUFFIX,pbabes.com,🌍 国外
   - DOMAIN-SUFFIX,pbjar1205.pro,🌍 国外
@@ -31111,6 +31119,7 @@ rules:
   - DOMAIN-SUFFIX,resourceshare.ac.uk,🌍 国外
   - DOMAIN-SUFFIX,respawnbyrazer.com,🌍 国外
   - DOMAIN-SUFFIX,restore.ac.uk,🌍 国外
+  - DOMAIN-SUFFIX,restream-media.net,🌍 国外
   - DOMAIN-SUFFIX,results.ac.uk,🌍 国外
   - DOMAIN-SUFFIX,rethink.net,🌍 国外
   - DOMAIN-SUFFIX,retimer.com,🌍 国外
@@ -31413,6 +31422,7 @@ rules:
   - DOMAIN-SUFFIX,rutubelist.ru,🌍 国外
   - DOMAIN-SUFFIX,ruvideos.net,🌍 国外
   - DOMAIN-SUFFIX,rvc.ac.uk,🌍 国外
+  - DOMAIN-SUFFIX,rwb.ru,🌍 国外
   - DOMAIN-SUFFIX,rwcmd.ac.uk,🌍 国外
   - DOMAIN-SUFFIX,ryokoyomiuri.co.jp,🌍 国外
   - DOMAIN-SUFFIX,ryukyubank.co.jp,🌍 国外
@@ -33529,6 +33539,7 @@ rules:
   - DOMAIN-SUFFIX,tamesidecollege.ac.uk,🌍 国外
   - DOMAIN-SUFFIX,tamilsexvideos.cc,🌍 国外
   - DOMAIN-SUFFIX,tampabay.com,🌍 国外
+  - DOMAIN-SUFFIX,tamtam.chat,🌍 国外
   - DOMAIN-SUFFIX,tamworth.ac.uk,🌍 国外
   - DOMAIN-SUFFIX,tamworthandlichfield.ac.uk,🌍 国外
   - DOMAIN-SUFFIX,tandberg-china.com,🌍 国外
@@ -33598,6 +33609,12 @@ rules:
   - DOMAIN-SUFFIX,techliquidators.com,🌍 国外
   - DOMAIN-SUFFIX,techne.ac.uk,🌍 国外
   - DOMAIN-SUFFIX,technics.com,🌍 国外
+  - DOMAIN-SUFFIX,technogym.bg,🌍 国外
+  - DOMAIN-SUFFIX,technogym.ch,🌍 国外
+  - DOMAIN-SUFFIX,technogym.com,🌍 国外
+  - DOMAIN-SUFFIX,technogym.com.br,🌍 国外
+  - DOMAIN-SUFFIX,technogym.ru,🌍 国外
+  - DOMAIN-SUFFIX,technogym.su,🌍 国外
   - DOMAIN-SUFFIX,technologyandsociety.org,🌍 国外
   - DOMAIN-SUFFIX,techradar.com,🌍 国外
   - DOMAIN-SUFFIX,techstreet.com,🌍 国外
@@ -35816,12 +35833,16 @@ rules:
   - DOMAIN-SUFFIX,waverleyabbeycollege.ac.uk,🌍 国外
   - DOMAIN-SUFFIX,wawatv.net,🌍 国外
   - DOMAIN-SUFFIX,waze.com,🌍 国外
+  - DOMAIN-SUFFIX,wb-basket.ru,🌍 国外
+  - DOMAIN-SUFFIX,wb.ru,🌍 国外
   - DOMAIN-SUFFIX,wbagora.com,🌍 国外
   - DOMAIN-SUFFIX,wballiance.com,🌍 国外
+  - DOMAIN-SUFFIX,wbbasket.ru,🌍 国外
   - DOMAIN-SUFFIX,wbd.ms,🌍 国外
   - DOMAIN-SUFFIX,wbdnbo.net,🌍 国外
   - DOMAIN-SUFFIX,wbgames.com,🌍 国外
   - DOMAIN-SUFFIX,wbinsights.com,🌍 国外
+  - DOMAIN-SUFFIX,wbpay.ru,🌍 国外
   - DOMAIN-SUFFIX,wbs.ac.uk,🌍 国外
   - DOMAIN-SUFFIX,wbvm4s.com,🌍 国外
   - DOMAIN-SUFFIX,wcc.ac.uk,🌍 国外
@@ -35902,6 +35923,7 @@ rules:
   - DOMAIN-SUFFIX,wellcome.ac.uk,🌍 国外
   - DOMAIN-SUFFIX,wellfuckedwife.com,🌍 国外
   - DOMAIN-SUFFIX,wellmaturetube.com,🌍 国外
+  - DOMAIN-SUFFIX,wellnessinstitute.com,🌍 国外
   - DOMAIN-SUFFIX,welsh-dictionary.ac.uk,🌍 国外
   - DOMAIN-SUFFIX,welshmediumhe.ac.uk,🌍 国外
   - DOMAIN-SUFFIX,welshsaints.ac.uk,🌍 国外
@@ -36024,6 +36046,7 @@ rules:
   - DOMAIN-SUFFIX,whystudymaterials.ac.uk,🌍 国外
   - DOMAIN-SUFFIX,wi-fi.org,🌍 国外
   - DOMAIN-SUFFIX,wias.ac.uk,🌍 国外
+  - DOMAIN-SUFFIX,wibes.ru,🌍 国外
   - DOMAIN-SUFFIX,wicn.ac.uk,🌍 国外
   - DOMAIN-SUFFIX,widnesandruncornsixthformcollege.ac.uk,🌍 国外
   - DOMAIN-SUFFIX,widnesruncorn.ac.uk,🌍 国外
@@ -36062,6 +36085,7 @@ rules:
   - DOMAIN-SUFFIX,wikiporn.tv,🌍 国外
   - DOMAIN-SUFFIX,wikisexguide.com,🌍 国外
   - DOMAIN-SUFFIX,wilberforce.ac.uk,🌍 国外
+  - DOMAIN-SUFFIX,wildberries.ru,🌍 国外
   - DOMAIN-SUFFIX,wildcamporn.com,🌍 国外
   - DOMAIN-SUFFIX,wildfanny.com,🌍 国外
   - DOMAIN-SUFFIX,wildfreevideos.com,🌍 国外
@@ -36090,6 +36114,7 @@ rules:
   - DOMAIN-SUFFIX,windy.com,🌍 国外
   - DOMAIN-SUFFIX,winhec.com,🌍 国外
   - DOMAIN-SUFFIX,winhec.net,🌍 国外
+  - DOMAIN-SUFFIX,wink.ru,🌍 国外
   - DOMAIN-SUFFIX,winncop.ac.uk,🌍 国外
   - DOMAIN-SUFFIX,winningstudents-scotland.ac.uk,🌍 国外
   - DOMAIN-SUFFIX,winstanley.ac.uk,🌍 国外
