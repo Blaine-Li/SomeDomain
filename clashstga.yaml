@@ -30,23 +30,23 @@ dns:
 proxy-groups:
   # --- 上层功能组 (根据你的 custom_proxy_group) ---
   
-  - name: 👽 AI
+  - name: AI
     type: select
     proxies: [DIRECT, 所有-选择, 香港-自动, 台湾-自动, REJECT]
 
-  - name: 🌍 国外
+  - name: 国外
     type: select
     proxies: [DIRECT, 所有-选择, 香港-自动, 台湾-自动, REJECT]
 
-  - name: 🎬 Emby
+  - name: Emby
     type: select
     proxies: [Emby-专用, DIRECT]
 
-  - name: ➡️ 国内
+  - name: 国内
     type: select
     proxies: [DIRECT, 所有-选择, 香港-自动, 台湾-自动, REJECT]
 
-  - name: 🐟 漏网之鱼
+  - name: 漏网之鱼
     type: select
     proxies: [DIRECT, 所有-选择, 香港-自动, 台湾-自动, REJECT]
 
@@ -80,7 +80,7 @@ proxy-groups:
 # 3. 规则集提供者 (Rule Providers)
 # ---------------------------------------------------
 rule-providers:
-  # ➡️ 国内组源
+  # 国内组源
   p_domestic_mydomain:
     type: http
     behavior: classical
@@ -130,7 +130,7 @@ rule-providers:
     path: ./rules/ChinaIp.list
     interval: 86400
 
-  # 🎬 Emby源
+  # Emby源
   p_emby:
     type: http
     behavior: classical
@@ -138,7 +138,7 @@ rule-providers:
     path: ./rules/Emby.list
     interval: 86400
 
-  # 👽 AI源 (合并了你列表中指向 AI 组的所有 list)
+  # AI源 (合并了你列表中指向 AI 组的所有 list)
   p_ai_1:
     type: http
     behavior: classical
@@ -176,7 +176,7 @@ rule-providers:
     path: ./rules/PayPal.list
     interval: 86400
 
-  # 🌍 国外源
+  # 国外源
   p_foreign_youtube:
     type: http
     behavior: classical
@@ -236,36 +236,36 @@ rule-providers:
 #4. 规则匹配 (Rules)
 # ---------------------------------------------------
 rules:
-  # ➡️ 国内
-  - RULE-SET,p_domestic_mydomain,➡️ 国内
-  - RULE-SET,p_domestic_lan,➡️ 国内
-  - RULE-SET,p_domestic_unban,➡️ 国内
-  - RULE-SET,p_domestic_chinadomain,➡️ 国内
-  - RULE-SET,p_domestic_chinamedia,➡️ 国内
-  - RULE-SET,p_domestic_companyip,➡️ 国内
-  - RULE-SET,p_domestic_chinaip,➡️ 国内
+  # 国内
+  - RULE-SET,p_domestic_mydomain,国内
+  - RULE-SET,p_domestic_lan,国内
+  - RULE-SET,p_domestic_unban,国内
+  - RULE-SET,p_domestic_chinadomain,国内
+  - RULE-SET,p_domestic_chinamedia,国内
+  - RULE-SET,p_domestic_companyip,国内
+  - RULE-SET,p_domestic_chinaip,国内
 
-  # 🎬 Emby
-  - RULE-SET,p_emby,🎬 Emby
+  # Emby
+  - RULE-SET,p_emby,Emby
 
-  # 👽 AI (包含你归类到此组的 Twitter/FB/Whatsapp 等)
-  - RULE-SET,p_ai_1,👽 AI
-  - RULE-SET,p_ai_2,👽 AI
-  - RULE-SET,p_ai_twitter,👽 AI
-  - RULE-SET,p_ai_whatsapp,👽 AI
-  - RULE-SET,p_ai_facebook,👽 AI
-  - RULE-SET,p_ai_paypal,👽 AI
+  # AI (包含你归类到此组的 Twitter/FB/Whatsapp 等)
+  - RULE-SET,p_ai_1,AI
+  - RULE-SET,p_ai_2,AI
+  - RULE-SET,p_ai_twitter,AI
+  - RULE-SET,p_ai_whatsapp,AI
+  - RULE-SET,p_ai_facebook,AI
+  - RULE-SET,p_ai_paypal,AI
 
-  # 🌍 国外
-  - RULE-SET,p_foreign_youtube,🌍 国外
-  - RULE-SET,p_foreign_youtube_2,🌍 国外
-  - RULE-SET,p_foreign_hbo,🌍 国外
-  - RULE-SET,p_foreign_disney,🌍 国外
-  - RULE-SET,p_foreign_netflix,🌍 国外
-  - RULE-SET,p_foreign_spotify,🌍 国外
-  - RULE-SET,p_foreign_check,🌍 国外
-  - RULE-SET,p_foreign_proxy,🌍 国外
-  - RULE-SET,p_foreign_global,🌍 国外
+  # 国外
+  - RULE-SET,p_foreign_youtube,国外
+  - RULE-SET,p_foreign_youtube_2,国外
+  - RULE-SET,p_foreign_hbo,国外
+  - RULE-SET,p_foreign_disney,国外
+  - RULE-SET,p_foreign_netflix,国外
+  - RULE-SET,p_foreign_spotify,国外
+  - RULE-SET,p_foreign_check,国外
+  - RULE-SET,p_foreign_proxy,国外
+  - RULE-SET,p_foreign_global,国外
 
-  # 🐟 漏网之鱼
-  - MATCH,🐟 漏网之鱼
+  # 漏网之鱼
+  - MATCH,漏网之鱼
