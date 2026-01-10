@@ -12,16 +12,14 @@ external-controller: :9090
 dns:
   enable: true
   ipv6: false
-  enhanced-mode: fake-ip
-  fake-ip-range: 198.18.0.1/16
-  fake-ip-filter:
-    - "*"
-    - "+.lan"
-    - "+.local"
-    - "ac.ursusx.com" # 你特别指定的
   nameserver:
     - 114.114.114.114
     - 223.5.5.5
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  fake-ip-filter:
+    - "ac.ursusx.com"
+
 
 # ---------------------------------------------------
 # 2. 策略组 (Proxy Groups)
