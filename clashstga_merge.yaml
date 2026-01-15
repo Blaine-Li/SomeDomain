@@ -11220,6 +11220,7 @@ rules:
   - IP-CIDR,161.142.117.0/24,国外,no-resolve
   - IP-CIDR,46.3.240.0/24,国外,no-resolve
   - IP-CIDR,45.87.172.0/24,国外,no-resolve
+  - DOMAIN-SUFFIX,clash-cn.com,国外
   - DOMAIN-SUFFIX,luminati.io,国外
   - DOMAIN-SUFFIX,mifjun.com,国外
   - DOMAIN-SUFFIX,capcut.com,国外
@@ -18281,6 +18282,7 @@ rules:
   - DOMAIN-SUFFIX,dilcdn.com,国外
   - DOMAIN-SUFFIX,dilstoncollege.ac.uk,国外
   - DOMAIN-SUFFIX,dingchin.com.tw,国外
+  - DOMAIN-SUFFIX,dinopoloclub.com,国外
   - DOMAIN-SUFFIX,dinotube.com,国外
   - DOMAIN-SUFFIX,dippam.ac.uk,国外
   - DOMAIN-SUFFIX,dirac.ac.uk,国外
@@ -27130,6 +27132,7 @@ rules:
   - DOMAIN-SUFFIX,mobileview.page,国外
   - DOMAIN-SUFFIX,mobilevrxxx.com,国外
   - DOMAIN-SUFFIX,mobilitymoodplace.ac.uk,国外
+  - DOMAIN-SUFFIX,mobimon.com.tw,国外
   - DOMAIN-SUFFIX,mobmyanmar.com,国外
   - DOMAIN-SUFFIX,mochajs.org,国外
   - DOMAIN-SUFFIX,mocloudplus.com,国外
@@ -28375,6 +28378,9 @@ rules:
   - DOMAIN-SUFFIX,nikezoom.com,国外
   - DOMAIN-SUFFIX,nikkan-gendai.com,国外
   - DOMAIN-SUFFIX,nikkansports.com,国外
+  - DOMAIN-SUFFIX,nikke-de.com,国外
+  - DOMAIN-SUFFIX,nikke-fr.com,国外
+  - DOMAIN-SUFFIX,nikke-sea.com,国外
   - DOMAIN-SUFFIX,nikkei-cnbc.co.jp,国外
   - DOMAIN-SUFFIX,nikkei.co.jp,国外
   - DOMAIN-SUFFIX,nikkei.jp,国外
@@ -28567,6 +28573,7 @@ rules:
   - DOMAIN-SUFFIX,nowe.hk,国外
   - DOMAIN-SUFFIX,nowjav.com,国外
   - DOMAIN-SUFFIX,nox.ac.uk,国外
+  - DOMAIN-SUFFIX,noxygames.com,国外
   - DOMAIN-SUFFIX,nozomi.la,国外
   - DOMAIN-SUFFIX,npcrdc.ac.uk,国外
   - DOMAIN-SUFFIX,nphcardiac-research.ac.uk,国外
@@ -30851,6 +30858,8 @@ rules:
   - DOMAIN-SUFFIX,ravm.tv,国外
   - DOMAIN-SUFFIX,rawgithub.com,国外
   - DOMAIN-SUFFIX,raxcdn.com,国外
+  - DOMAIN-SUFFIX,rayark.download,国外
+  - DOMAIN-SUFFIX,rayark.net,国外
   - DOMAIN-SUFFIX,razer.com,国外
   - DOMAIN-SUFFIX,razerofficial.com,国外
   - DOMAIN-SUFFIX,razersupport.com,国外
@@ -32329,6 +32338,8 @@ rules:
   - DOMAIN-SUFFIX,signalusers.org,国外
   - DOMAIN-SUFFIX,sigops.org,国外
   - DOMAIN-SUFFIX,sigopt.com,国外
+  - DOMAIN-SUFFIX,sih-db.com,国外
+  - DOMAIN-SUFFIX,sih.app,国外
   - DOMAIN-SUFFIX,sihe.ac.uk,国外
   - DOMAIN-SUFFIX,sikh-uni.ac.uk,国外
   - DOMAIN-SUFFIX,sikiswap.com,国外
