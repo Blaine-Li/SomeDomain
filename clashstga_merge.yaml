@@ -28621,8 +28621,12 @@ rules:
   - DOMAIN-SUFFIX,ntdca.com,国外
   - DOMAIN-SUFFIX,ntdimg.com,国外
   - DOMAIN-SUFFIX,ntdtv-dc.com,国外
+  - DOMAIN-SUFFIX,ntdtv.co.il,国外
   - DOMAIN-SUFFIX,ntdtv.com,国外
+  - DOMAIN-SUFFIX,ntdtv.fr,国外
   - DOMAIN-SUFFIX,ntdtv.kr,国外
+  - DOMAIN-SUFFIX,ntdtv.se,国外
+  - DOMAIN-SUFFIX,ntdvideo.tw,国外
   - DOMAIN-SUFFIX,ntdvn.com,国外
   - DOMAIN-SUFFIX,ntec.ac.uk,国外
   - DOMAIN-SUFFIX,ntfs.ac.uk,国外
@@ -36660,6 +36664,7 @@ rules:
   - DOMAIN-SUFFIX,xtubebdsm.com,国外
   - DOMAIN-SUFFIX,xtubezoo.com,国外
   - DOMAIN-SUFFIX,xujan.com,国外
+  - DOMAIN-SUFFIX,xv-ru.com,国外
   - DOMAIN-SUFFIX,xv1.monster,国外
   - DOMAIN-SUFFIX,xvds.tv,国外
   - DOMAIN-SUFFIX,xvedo.net,国外
@@ -36671,7 +36676,9 @@ rules:
   - DOMAIN-SUFFIX,xvideo1.org,国外
   - DOMAIN-SUFFIX,xvideo2.org,国外
   - DOMAIN-SUFFIX,xvideoporno.tv,国外
+  - DOMAIN-SUFFIX,xvideos-ar.com,国外
   - DOMAIN-SUFFIX,xvideos-dl.top,国外
+  - DOMAIN-SUFFIX,xvideos-india.com,国外
   - DOMAIN-SUFFIX,xvideos-porn-video.com,国外
   - DOMAIN-SUFFIX,xvideos-xxxx.com,国外
   - DOMAIN-SUFFIX,xvideos.blog,国外
