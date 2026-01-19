@@ -11459,6 +11459,7 @@ rules:
   - DOMAIN,practivate.adobe.ipp,国外
   - DOMAIN,practivate.adobe.newoa,国外
   - DOMAIN,practivate.adobe.ntp,国外
+  - DOMAIN,pubg1.battleye.com,国外
   - DOMAIN,public-us-pingsx.api.clonoth.com,国外
   - DOMAIN,push-apple.com.akadns.net,国外
   - DOMAIN,qualcomm.sc.omtrdc.net,国外
@@ -25154,6 +25155,7 @@ rules:
   - DOMAIN-SUFFIX,kpht85.com,国外
   - DOMAIN-SUFFIX,kpinsurances.com,国外
   - DOMAIN-SUFFIX,kpptoto.info,国外
+  - DOMAIN-SUFFIX,kraftonde.com,国外
   - DOMAIN-SUFFIX,kraken.onl,国外
   - DOMAIN-SUFFIX,krakenjs.com,国外
   - DOMAIN-SUFFIX,krhentai.com,国外
@@ -27670,7 +27672,6 @@ rules:
   - DOMAIN-SUFFIX,mytimesplus.co.uk,国外
   - DOMAIN-SUFFIX,mytrannycams.com,国外
   - DOMAIN-SUFFIX,mytving.com,国外
-  - DOMAIN-SUFFIX,mytvsuper.com,国外
   - DOMAIN-SUFFIX,myvisaluxuryhotels.com,国外
   - DOMAIN-SUFFIX,myvodafone.com.au,国外
   - DOMAIN-SUFFIX,myvodafone.com.ws,国外
@@ -29865,6 +29866,7 @@ rules:
   - DOMAIN-SUFFIX,play4free.com,国外
   - DOMAIN-SUFFIX,playapex.com,国外
   - DOMAIN-SUFFIX,playbar.biz,国外
+  - DOMAIN-SUFFIX,playbattlegrounds.com,国外
   - DOMAIN-SUFFIX,playbydurex.com,国外
   - DOMAIN-SUFFIX,playcover.io,国外
   - DOMAIN-SUFFIX,playerjs.io,国外
@@ -30564,6 +30566,7 @@ rules:
   - DOMAIN-SUFFIX,ptt3.cc,国外
   - DOMAIN-SUFFIX,ptzwx.com,国外
   - DOMAIN-SUFFIX,pub.dev,国外
+  - DOMAIN-SUFFIX,pubg.com,国外
   - DOMAIN-SUFFIX,public-sex-porn.com,国外
   - DOMAIN-SUFFIX,public-trust.com,国外
   - DOMAIN-SUFFIX,publicagentxxx.com,国外
@@ -34443,7 +34446,6 @@ rules:
   - DOMAIN-SUFFIX,tutanota.de,国外
   - DOMAIN-SUFFIX,tvappstore.net,国外
   - DOMAIN-SUFFIX,tvb.com.au,国外
-  - DOMAIN-SUFFIX,tvbanywhere.com,国外
   - DOMAIN-SUFFIX,tvbanywhere.com.sg,国外
   - DOMAIN-SUFFIX,tvbeventpower.com.hk,国外
   - DOMAIN-SUFFIX,tvbusa.com,国外
@@ -37908,7 +37910,10 @@ rules:
   - DOMAIN-SUFFIX,animecrazy.net,国外
   - DOMAIN-SUFFIX,animeshippuuden.com,国外
   - DOMAIN-SUFFIX,aniscartujo.com,国外
+  - DOMAIN-SUFFIX,annas-archive.in,国外
+  - DOMAIN-SUFFIX,annas-archive.li,国外
   - DOMAIN-SUFFIX,annas-archive.org,国外
+  - DOMAIN-SUFFIX,annas-archive.pm,国外
   - DOMAIN-SUFFIX,annas-archive.se,国外
   - DOMAIN-SUFFIX,annatam.com,国外
   - DOMAIN-SUFFIX,anobii.com,国外
@@ -41270,6 +41275,7 @@ rules:
   - DOMAIN-SUFFIX,mytalkbox.com,国外
   - DOMAIN-SUFFIX,myteamspeak.com,国外
   - DOMAIN-SUFFIX,mytizi.com,国外
+  - DOMAIN-SUFFIX,mytvsuper.com,国外
   - DOMAIN-SUFFIX,mywife.cc,国外
   - DOMAIN-SUFFIX,mywww.biz,国外
   - DOMAIN-SUFFIX,myz.info,国外
@@ -43171,6 +43177,7 @@ rules:
   - DOMAIN-SUFFIX,tv.com,国外
   - DOMAIN-SUFFIX,tvants.com,国外
   - DOMAIN-SUFFIX,tvb.com,国外
+  - DOMAIN-SUFFIX,tvbanywhere.com,国外
   - DOMAIN-SUFFIX,tvboxnow.com,国外
   - DOMAIN-SUFFIX,tvbs.com.tw,国外
   - DOMAIN-SUFFIX,tvider.com,国外
