@@ -19447,6 +19447,8 @@ rules:
   - DOMAIN-SUFFIX,encoretvb.com,国外
   - DOMAIN-SUFFIX,encryptedsni.com,国外
   - DOMAIN-SUFFIX,encuentroscasualesoecuador.com,国外
+  - DOMAIN-SUFFIX,eneba.com,国外
+  - DOMAIN-SUFFIX,eneba.games,国外
   - DOMAIN-SUFFIX,enema-porn.com,国外
   - DOMAIN-SUFFIX,enema-videos.com,国外
   - DOMAIN-SUFFIX,enemabasics.com,国外
@@ -21302,6 +21304,7 @@ rules:
   - DOMAIN-SUFFIX,gentoo.org,国外
   - DOMAIN-SUFFIX,geobasket.ru,国外
   - DOMAIN-SUFFIX,geodesummit.com,国外
+  - DOMAIN-SUFFIX,geogebra.org,国外
   - DOMAIN-SUFFIX,geohazard.ac.uk,国外
   - DOMAIN-SUFFIX,geolytics.com,国外
   - DOMAIN-SUFFIX,geoport.com,国外
@@ -28929,6 +28932,7 @@ rules:
   - DOMAIN-SUFFIX,okx-dns.com,国外
   - DOMAIN-SUFFIX,okx-dns1.com,国外
   - DOMAIN-SUFFIX,okx-dns2.com,国外
+  - DOMAIN-SUFFIX,okx.cab,国外
   - DOMAIN-SUFFIX,olabloga.pl,国外
   - DOMAIN-SUFFIX,oldbury.ac.uk,国外
   - DOMAIN-SUFFIX,older-women-movies.com,国外
@@ -36088,6 +36092,7 @@ rules:
   - DOMAIN-SUFFIX,wiiugamepad.com,国外
   - DOMAIN-SUFFIX,wiivc.net,国外
   - DOMAIN-SUFFIX,wikawika.xyz,国外
+  - DOMAIN-SUFFIX,wiki.gg,国外
   - DOMAIN-SUFFIX,wikia.nocookie.net,国外
   - DOMAIN-SUFFIX,wikia.org,国外
   - DOMAIN-SUFFIX,wikidot.com,国外
