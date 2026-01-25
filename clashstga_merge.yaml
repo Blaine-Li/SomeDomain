@@ -14936,6 +14936,7 @@ rules:
   - DOMAIN-SUFFIX,binance.vision,国外
   - DOMAIN-SUFFIX,binanceapi.com,国外
   - DOMAIN-SUFFIX,binancecnt.com,国外
+  - DOMAIN-SUFFIX,binanceru.net,国外
   - DOMAIN-SUFFIX,binancezh.be,国外
   - DOMAIN-SUFFIX,binancezh.biz,国外
   - DOMAIN-SUFFIX,binancezh.co,国外
