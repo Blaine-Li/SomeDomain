@@ -11726,6 +11726,7 @@ rules:
   - DOMAIN-SUFFIX,2kgames.com,国外
   - DOMAIN-SUFFIX,2lib.org,国外
   - DOMAIN-SUFFIX,2mdn-cn.net,国外
+  - DOMAIN-SUFFIX,2mdn.net,国外
   - DOMAIN-SUFFIX,30plusgirls.com,国外
   - DOMAIN-SUFFIX,35s4.com,国外
   - DOMAIN-SUFFIX,360autodesk.com,国外
@@ -13736,11 +13737,13 @@ rules:
   - DOMAIN-SUFFIX,ateam-oracle.com,国外
   - DOMAIN-SUFFIX,athens.ac.uk,国外
   - DOMAIN-SUFFIX,atkgallery.com,国外
+  - DOMAIN-SUFFIX,atl-paas.net,国外
   - DOMAIN-SUFFIX,atlantaminidealers.com,国外
   - DOMAIN-SUFFIX,atlars.ac.uk,国外
   - DOMAIN-SUFFIX,atlas.ac.uk,国外
   - DOMAIN-SUFFIX,atlasdmt.com,国外
   - DOMAIN-SUFFIX,atlasonepoint.com,国外
+  - DOMAIN-SUFFIX,atlassian-dev.net,国外
   - DOMAIN-SUFFIX,atlassian.com,国外
   - DOMAIN-SUFFIX,atlassian.net,国外
   - DOMAIN-SUFFIX,atom.io,国外
@@ -20683,6 +20686,9 @@ rules:
   - DOMAIN-SUFFIX,fotolja.com,国外
   - DOMAIN-SUFFIX,fotoscaserasx.com,国外
   - DOMAIN-SUFFIX,foundationdb.org,国外
+  - DOMAIN-SUFFIX,foundationdns.com,国外
+  - DOMAIN-SUFFIX,foundationdns.net,国外
+  - DOMAIN-SUFFIX,foundationdns.org,国外
   - DOMAIN-SUFFIX,foundationyear.ac.uk,国外
   - DOMAIN-SUFFIX,fourthns.systems,国外
   - DOMAIN-SUFFIX,fox-corporation.com,国外
@@ -20943,7 +20949,6 @@ rules:
   - DOMAIN-SUFFIX,freesexyindians.org,国外
   - DOMAIN-SUFFIX,freesitexxx.com,国外
   - DOMAIN-SUFFIX,freessl.com,国外
-  - DOMAIN-SUFFIX,freeterabox.com,国外
   - DOMAIN-SUFFIX,freeuseporn.com,国外
   - DOMAIN-SUFFIX,freeviewplus.net.au,国外
   - DOMAIN-SUFFIX,freexvideos.org,国外
@@ -24637,6 +24642,7 @@ rules:
   - DOMAIN-SUFFIX,jinmantiankong.com,国外
   - DOMAIN-SUFFIX,jinnaju.com,国外
   - DOMAIN-SUFFIX,jinsilubanzhao.com,国外
+  - DOMAIN-SUFFIX,jira.com,国外
   - DOMAIN-SUFFIX,jisc-collections.ac.uk,国外
   - DOMAIN-SUFFIX,jisc-content.ac.uk,国外
   - DOMAIN-SUFFIX,jisc-liberate-migrate1.ac.uk,国外
@@ -32923,6 +32929,7 @@ rules:
   - DOMAIN-SUFFIX,srttu.edu,国外
   - DOMAIN-SUFFIX,sruc.ac.uk,国外
   - DOMAIN-SUFFIX,srwwu.uno,国外
+  - DOMAIN-SUFFIX,ss-inf.net,国外
   - DOMAIN-SUFFIX,ss2.us,国外
   - DOMAIN-SUFFIX,ss7.app,国外
   - DOMAIN-SUFFIX,ssdevrd.com,国外
@@ -37072,7 +37079,6 @@ rules:
   - DOMAIN-SUFFIX,yeyuehuachao11.com,国外
   - DOMAIN-SUFFIX,yeyuehuachao12.com,国外
   - DOMAIN-SUFFIX,yeyuehuachao13.com,国外
-  - DOMAIN-SUFFIX,yfsp.tv,国外
   - DOMAIN-SUFFIX,yft-mv.sbs,国外
   - DOMAIN-SUFFIX,ygugu4.com,国外
   - DOMAIN-SUFFIX,yhelln.ac.uk,国外
@@ -37647,7 +37653,6 @@ rules:
   - DOMAIN-SUFFIX,25u.com,国外
   - DOMAIN-SUFFIX,2du5.com,国外
   - DOMAIN-SUFFIX,2lipstube.com,国外
-  - DOMAIN-SUFFIX,2mdn.net,国外
   - DOMAIN-SUFFIX,2shared.com,国外
   - DOMAIN-SUFFIX,2waky.com,国外
   - DOMAIN-SUFFIX,3-a.net,国外
@@ -39562,6 +39567,7 @@ rules:
   - DOMAIN-SUFFIX,freess.org,国外
   - DOMAIN-SUFFIX,freessh.us,国外
   - DOMAIN-SUFFIX,freetcp.com,国外
+  - DOMAIN-SUFFIX,freeterabox.com,国外
   - DOMAIN-SUFFIX,freetibet.net,国外
   - DOMAIN-SUFFIX,freetibet.org,国外
   - DOMAIN-SUFFIX,freetibetanheroes.org,国外
@@ -42381,6 +42387,7 @@ rules:
   - DOMAIN-SUFFIX,sijihuisuo.com,国外
   - DOMAIN-SUFFIX,silkbook.com,国外
   - DOMAIN-SUFFIX,silvergatebank.com,国外
+  - DOMAIN-SUFFIX,simianx.ai,国外
   - DOMAIN-SUFFIX,simp.ly,国外
   - DOMAIN-SUFFIX,simplecd.me,国外
   - DOMAIN-SUFFIX,simplecd.org,国外
@@ -43953,6 +43960,7 @@ rules:
   - DOMAIN-SUFFIX,yesasia.com,国外
   - DOMAIN-SUFFIX,yesasia.com.hk,国外
   - DOMAIN-SUFFIX,yeyeclub.com,国外
+  - DOMAIN-SUFFIX,yfsp.tv,国外
   - DOMAIN-SUFFIX,ygto.com,国外
   - DOMAIN-SUFFIX,yhcw.net,国外
   - DOMAIN-SUFFIX,yibada.com,国外
