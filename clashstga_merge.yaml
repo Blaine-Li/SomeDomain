@@ -25775,6 +25775,7 @@ rules:
   - DOMAIN-SUFFIX,lou.ac.uk,国外
   - DOMAIN-SUFFIX,loucoll.ac.uk,国外
   - DOMAIN-SUFFIX,loughborough.ac.uk,国外
+  - DOMAIN-SUFFIX,louisvuitton.com,国外
   - DOMAIN-SUFFIX,love-sextoys.co.uk,国外
   - DOMAIN-SUFFIX,love4porn.com,国外
   - DOMAIN-SUFFIX,love6.tv,国外
@@ -29756,8 +29757,6 @@ rules:
   - DOMAIN-SUFFIX,piirus.ac.uk,国外
   - DOMAIN-SUFFIX,pikabu.monster,国外
   - DOMAIN-SUFFIX,pikpak.io,国外
-  - DOMAIN-SUFFIX,pikpak.me,国外
-  - DOMAIN-SUFFIX,pikpakdrive.com,国外
   - DOMAIN-SUFFIX,pilgrimageandcathedrals.ac.uk,国外
   - DOMAIN-SUFFIX,pilgrimagestudies.ac.uk,国外
   - DOMAIN-SUFFIX,pillbeatsblackfridaysale.com,国外
@@ -38119,6 +38118,7 @@ rules:
   - DOMAIN-SUFFIX,bbc.co.uk,国外
   - DOMAIN-SUFFIX,bbc.com,国外
   - DOMAIN-SUFFIX,bbc.in,国外
+  - DOMAIN-SUFFIX,bbc.pdn.tritondigital.com,国外
   - DOMAIN-SUFFIX,bbcchinese.com,国外
   - DOMAIN-SUFFIX,bbchat.tv,国外
   - DOMAIN-SUFFIX,bbci.co.uk,国外
