@@ -11224,6 +11224,7 @@ rules:
   - DOMAIN-SUFFIX,clash-cn.com,国外
   - DOMAIN-SUFFIX,luminati.io,国外
   - DOMAIN-SUFFIX,mifjun.com,国外
+  - DOMAIN-SUFFIX,nbr.co.nz,国外
   - DOMAIN-SUFFIX,capcut.com,国外
   - DOMAIN-SUFFIX,fastlydns.net,国外
   - DOMAIN-SUFFIX,bncrcloud.com,国外
@@ -15964,6 +15965,7 @@ rules:
   - DOMAIN-SUFFIX,bs-adreview.com,国外
   - DOMAIN-SUFFIX,bs-awh.ne.jp,国外
   - DOMAIN-SUFFIX,bsa.ac.uk,国外
+  - DOMAIN-SUFFIX,bsappapi.com,国外
   - DOMAIN-SUFFIX,bsaw.ac.uk,国外
   - DOMAIN-SUFFIX,bsbec.ac.uk,国外
   - DOMAIN-SUFFIX,bsdc.ac.uk,国外
@@ -29841,6 +29843,7 @@ rules:
   - DOMAIN-SUFFIX,pjbyj.top,国外
   - DOMAIN-SUFFIX,pjful-app.lol,国外
   - DOMAIN-SUFFIX,pjgirls.com,国外
+  - DOMAIN-SUFFIX,pjsekai.sega.jp,国外
   - DOMAIN-SUFFIX,pki-post.ch,国外
   - DOMAIN-SUFFIX,pki-posta.ch,国外
   - DOMAIN-SUFFIX,pki-poste.ch,国外
@@ -31507,6 +31510,7 @@ rules:
   - DOMAIN-SUFFIX,salebeatslasteststyle4you.com,国外
   - DOMAIN-SUFFIX,saleblackfridaydrebeats.com,国外
   - DOMAIN-SUFFIX,salecheaphandbags.com,国外
+  - DOMAIN-SUFFIX,salesforce-setup.com,国外
   - DOMAIN-SUFFIX,salesforce.com,国外
   - DOMAIN-SUFFIX,salesforce.org,国外
   - DOMAIN-SUFFIX,salesforceiq.com,国外
@@ -42723,6 +42727,7 @@ rules:
   - DOMAIN-SUFFIX,tagwa.org.au,国外
   - DOMAIN-SUFFIX,tagwalk.com,国外
   - DOMAIN-SUFFIX,tahr.org.tw,国外
+  - DOMAIN-SUFFIX,tails.net,国外
   - DOMAIN-SUFFIX,taipei.gov.tw,国外
   - DOMAIN-SUFFIX,taipeisociety.org,国外
   - DOMAIN-SUFFIX,taipeitimes.com,国外
