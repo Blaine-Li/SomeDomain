@@ -11225,6 +11225,7 @@ rules:
   - DOMAIN-SUFFIX,luminati.io,国外
   - DOMAIN-SUFFIX,mifjun.com,国外
   - DOMAIN-SUFFIX,nbr.co.nz,国外
+  - DOMAIN-SUFFIX,iill.top,国外
   - DOMAIN-SUFFIX,capcut.com,国外
   - DOMAIN-SUFFIX,fastlydns.net,国外
   - DOMAIN-SUFFIX,bncrcloud.com,国外
@@ -26143,6 +26144,8 @@ rules:
   - DOMAIN-SUFFIX,mantochichi.com,国外
   - DOMAIN-SUFFIX,manufacturingedc.ac.uk,国外
   - DOMAIN-SUFFIX,manurefetish.com,国外
+  - DOMAIN-SUFFIX,manus.im,国外
+  - DOMAIN-SUFFIX,manuscdn.com,国外
   - DOMAIN-SUFFIX,manytoon.com,国外
   - DOMAIN-SUFFIX,manyvids.com,国外
   - DOMAIN-SUFFIX,maoeraobjects.ac.uk,国外
@@ -30803,6 +30806,7 @@ rules:
   - DOMAIN-SUFFIX,radeon.com,国外
   - DOMAIN-SUFFIX,radgametools.com,国外
   - DOMAIN-SUFFIX,radian6.com,国外
+  - DOMAIN-SUFFIX,radiko-cf.com,国外
   - DOMAIN-SUFFIX,radiofarda.com,国外
   - DOMAIN-SUFFIX,radiomango.fm,国外
   - DOMAIN-SUFFIX,radiomarsho.com,国外
@@ -32432,6 +32436,7 @@ rules:
   - DOMAIN-SUFFIX,sketchbooknews.com,国外
   - DOMAIN-SUFFIX,sketchbookpro.com,国外
   - DOMAIN-SUFFIX,sketchfab.com,国外
+  - DOMAIN-SUFFIX,skills.sh,国外
   - DOMAIN-SUFFIX,skillsbridge.ac.uk,国外
   - DOMAIN-SUFFIX,skillscompetitionwales.ac.uk,国外
   - DOMAIN-SUFFIX,skillsgroupuk.ac.uk,国外
@@ -32519,6 +32524,7 @@ rules:
   - DOMAIN-SUFFIX,smartonerobotics.com,国外
   - DOMAIN-SUFFIX,smartonesolutions.com.hk,国外
   - DOMAIN-SUFFIX,smartonesolutions.hk,国外
+  - DOMAIN-SUFFIX,smartstream.ne.jp,国外
   - DOMAIN-SUFFIX,smashed.xxx,国外
   - DOMAIN-SUFFIX,smbc.co.jp,国外
   - DOMAIN-SUFFIX,smbctb.co.jp,国外
@@ -38239,6 +38245,7 @@ rules:
   - DOMAIN-SUFFIX,bitshare.com,国外
   - DOMAIN-SUFFIX,bitsnoop.com,国外
   - DOMAIN-SUFFIX,bitterwinter.org,国外
+  - DOMAIN-SUFFIX,bittorrent.com,国外
   - DOMAIN-SUFFIX,bitvise.com,国外
   - DOMAIN-SUFFIX,bitz.ai,国外
   - DOMAIN-SUFFIX,bizhat.com,国外
@@ -39903,6 +39910,7 @@ rules:
   - DOMAIN-SUFFIX,greenvpn.org,国外
   - DOMAIN-SUFFIX,grindr.com,国外
   - DOMAIN-SUFFIX,grok.com,国外
+  - DOMAIN-SUFFIX,grokipedia.com,国外
   - DOMAIN-SUFFIX,grotty-monday.com,国外
   - DOMAIN-SUFFIX,ground.news,国外
   - DOMAIN-SUFFIX,gs-discuss.com,国外
@@ -40003,6 +40011,7 @@ rules:
   - DOMAIN-SUFFIX,helpshift.com,国外
   - DOMAIN-SUFFIX,helpster.de,国外
   - DOMAIN-SUFFIX,helpzhuling.org,国外
+  - DOMAIN-SUFFIX,hembed.com,国外
   - DOMAIN-SUFFIX,hentai.to,国外
   - DOMAIN-SUFFIX,hentaitube.tv,国外
   - DOMAIN-SUFFIX,hentaivideoworld.com,国外
@@ -43430,6 +43439,7 @@ rules:
   - DOMAIN-SUFFIX,v.gd,国外
   - DOMAIN-SUFFIX,v.roucdn,国外
   - DOMAIN-SUFFIX,v2.help,国外
+  - DOMAIN-SUFFIX,v2.hysteria.network,国外
   - DOMAIN-SUFFIX,v2ex.co,国外
   - DOMAIN-SUFFIX,v2ex.com,国外
   - DOMAIN-SUFFIX,v2fly.org,国外
