@@ -16,6 +16,7 @@ dns:
   fake-ip-range: 198.18.0.1/16
   fake-ip-filter:
     - ac.ursusx.com
+    - frp-put.com
 {% endif %}
 
 {% if local.clash.new_field_name == "true" %}
