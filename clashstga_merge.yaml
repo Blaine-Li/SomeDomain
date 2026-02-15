@@ -11493,6 +11493,7 @@ rules:
   - DOMAIN,tesla-cdn.thron.com,国外
   - DOMAIN,time.windows.com,国外
   - DOMAIN,translomatic.foxfortmobile.com,国外
+  - DOMAIN,ubisoft.siteintercept.qualtrics.com,国外
   - DOMAIN,ut1-time.colorado.edu,国外
   - DOMAIN,utcnist.colorado.edu,国外
   - DOMAIN,utcnist2.colorado.edu,国外
@@ -13187,6 +13188,7 @@ rules:
   - DOMAIN-SUFFIX,apis.ac.uk,国外
   - DOMAIN-SUFFIX,apisof.net,国外
   - DOMAIN-SUFFIX,apkfind.com,国外
+  - DOMAIN-SUFFIX,apkpures.xyz,国外
   - DOMAIN-SUFFIX,aple.com,国外
   - DOMAIN-SUFFIX,aplestore.com,国外
   - DOMAIN-SUFFIX,aplleipods.com,国外
@@ -13781,6 +13783,7 @@ rules:
   - DOMAIN-SUFFIX,attcollaborate.com,国外
   - DOMAIN-SUFFIX,attdns.com,国外
   - DOMAIN-SUFFIX,attdns.net,国外
+  - DOMAIN-SUFFIX,attestation.app,国外
   - DOMAIN-SUFFIX,attexperts.com,国外
   - DOMAIN-SUFFIX,attglobal.net,国外
   - DOMAIN-SUFFIX,atthelimits.ac.uk,国外
@@ -22014,6 +22017,19 @@ rules:
   - DOMAIN-SUFFIX,grantleyhall.ac.uk,国外
   - DOMAIN-SUFFIX,granulate.io,国外
   - DOMAIN-SUFFIX,graphenecentre.ac.uk,国外
+  - DOMAIN-SUFFIX,grapheneos.app,国外
+  - DOMAIN-SUFFIX,grapheneos.ca,国外
+  - DOMAIN-SUFFIX,grapheneos.com,国外
+  - DOMAIN-SUFFIX,grapheneos.dev,国外
+  - DOMAIN-SUFFIX,grapheneos.foundation,国外
+  - DOMAIN-SUFFIX,grapheneos.info,国外
+  - DOMAIN-SUFFIX,grapheneos.net,国外
+  - DOMAIN-SUFFIX,grapheneos.network,国外
+  - DOMAIN-SUFFIX,grapheneos.online,国外
+  - DOMAIN-SUFFIX,grapheneos.org,国外
+  - DOMAIN-SUFFIX,grapheneos.ovh,国外
+  - DOMAIN-SUFFIX,grapheneos.page,国外
+  - DOMAIN-SUFFIX,grapheneos.social,国外
   - DOMAIN-SUFFIX,graphengine.io,国外
   - DOMAIN-SUFFIX,gravitytank.com,国外
   - DOMAIN-SUFFIX,gray.ac.uk,国外
@@ -31855,6 +31871,7 @@ rules:
   - DOMAIN-SUFFIX,seacams.ac.uk,国外
   - DOMAIN-SUFFIX,seagroup.com,国外
   - DOMAIN-SUFFIX,seaha-cdt.ac.uk,国外
+  - DOMAIN-SUFFIX,seamlessupdate.app,国外
   - DOMAIN-SUFFIX,seamonkey-project.org,国外
   - DOMAIN-SUFFIX,seancody.com,国外
   - DOMAIN-SUFFIX,seaofsolitude.com,国外
@@ -34154,6 +34171,7 @@ rules:
   - DOMAIN-SUFFIX,tomibank.co.jp,国外
   - DOMAIN-SUFFIX,tomovie.net,国外
   - DOMAIN-SUFFIX,tomsguide.com,国外
+  - DOMAIN-SUFFIX,ton.org,国外
   - DOMAIN-SUFFIX,tonec.com,国外
   - DOMAIN-SUFFIX,tonicmovies.com,国外
   - DOMAIN-SUFFIX,toolforge.org,国外
@@ -34992,6 +35010,7 @@ rules:
   - DOMAIN-SUFFIX,valuegb.com,国外
   - DOMAIN-SUFFIX,vam.ac.uk,国外
   - DOMAIN-SUFFIX,vamsas.ac.uk,国外
+  - DOMAIN-SUFFIX,vanadium.app,国外
   - DOMAIN-SUFFIX,vancouverbmwretailers.ca,国外
   - DOMAIN-SUFFIX,vanish.at,国外
   - DOMAIN-SUFFIX,vanish.be,国外
@@ -43647,6 +43666,7 @@ rules:
   - DOMAIN-SUFFIX,wallpapercasa.com,国外
   - DOMAIN-SUFFIX,wallproxy.com,国外
   - DOMAIN-SUFFIX,wallsttv.com,国外
+  - DOMAIN-SUFFIX,wallzhihu.com,国外
   - DOMAIN-SUFFIX,waltermartin.com,国外
   - DOMAIN-SUFFIX,waltermartin.org,国外
   - DOMAIN-SUFFIX,wan-press.org,国外
