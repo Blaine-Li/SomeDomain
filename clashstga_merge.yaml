@@ -15127,6 +15127,7 @@ rules:
   - DOMAIN-SUFFIX,bitchesgirls.com,国外
   - DOMAIN-SUFFIX,bitchmomporn.com,国外
   - DOMAIN-SUFFIX,bitcoin.org,国外
+  - DOMAIN-SUFFIX,bitcoincore.org,国外
   - DOMAIN-SUFFIX,bitdefender.com,国外
   - DOMAIN-SUFFIX,bite.ac.uk,国外
   - DOMAIN-SUFFIX,bitflyer.com,国外
@@ -32010,8 +32011,10 @@ rules:
   - DOMAIN-SUFFIX,secretubes.com,国外
   - DOMAIN-SUFFIX,sectigo.com,国外
   - DOMAIN-SUFFIX,secure-paypal.info,国外
+  - DOMAIN-SUFFIX,securecloudtransformation.com,国外
   - DOMAIN-SUFFIX,secureharvests.ac.uk,国外
   - DOMAIN-SUFFIX,securepaypal.info,国外
+  - DOMAIN-SUFFIX,securitypreview.com,国外
   - DOMAIN-SUFFIX,seda.ac.uk,国外
   - DOMAIN-SUFFIX,sedc.ac.uk,国外
   - DOMAIN-SUFFIX,sedg.ac.uk,国外
@@ -33248,6 +33251,7 @@ rules:
   - DOMAIN-SUFFIX,starcraft2.com,国外
   - DOMAIN-SUFFIX,starfieldtech.com,国外
   - DOMAIN-SUFFIX,starfox.com,国外
+  - DOMAIN-SUFFIX,stargazer-games.com,国外
   - DOMAIN-SUFFIX,stark-verlag.ch,国外
   - DOMAIN-SUFFIX,starlink.ac.uk,国外
   - DOMAIN-SUFFIX,starott.com,国外
@@ -33302,6 +33306,8 @@ rules:
   - DOMAIN-SUFFIX,steelbrick.com,国外
   - DOMAIN-SUFFIX,steemitwallet.com,国外
   - DOMAIN-SUFFIX,steezylist.com,国外
+  - DOMAIN-SUFFIX,stellasora.global,国外
+  - DOMAIN-SUFFIX,stellasora.jp,国外
   - DOMAIN-SUFFIX,stem.ac.uk,国外
   - DOMAIN-SUFFIX,stemacademy.ac.uk,国外
   - DOMAIN-SUFFIX,stemequals.ac.uk,国外
@@ -34192,6 +34198,7 @@ rules:
   - DOMAIN-SUFFIX,thottok.com,国外
   - DOMAIN-SUFFIX,thotvids.com,国外
   - DOMAIN-SUFFIX,threadingbuildingblocks.org,国外
+  - DOMAIN-SUFFIX,threatlabz.com,国外
   - DOMAIN-SUFFIX,thri.xxx,国外
   - DOMAIN-SUFFIX,thrixxx.com,国外
   - DOMAIN-SUFFIX,thtmod1.com,国外
@@ -37304,6 +37311,7 @@ rules:
   - DOMAIN-SUFFIX,ymhsf1.top,国外
   - DOMAIN-SUFFIX,ync.ne.jp,国外
   - DOMAIN-SUFFIX,ynoproject.net,国外
+  - DOMAIN-SUFFIX,yo-star.com,国外
   - DOMAIN-SUFFIX,yo1health.com,国外
   - DOMAIN-SUFFIX,yogalayout.com,国外
   - DOMAIN-SUFFIX,yogify.com,国外
@@ -37325,6 +37333,9 @@ rules:
   - DOMAIN-SUFFIX,yorkstonemasonrycove.ac.uk,国外
   - DOMAIN-SUFFIX,yorozoonews.jp,国外
   - DOMAIN-SUFFIX,yoshisnewisland.com,国外
+  - DOMAIN-SUFFIX,yostar-pictures.co.jp,国外
+  - DOMAIN-SUFFIX,yostar.co.jp,国外
+  - DOMAIN-SUFFIX,yostarplat.com,国外
   - DOMAIN-SUFFIX,youassporn.com,国外
   - DOMAIN-SUFFIX,youav.com,国外
   - DOMAIN-SUFFIX,youflix.is,国外
@@ -37660,6 +37671,8 @@ rules:
   - DOMAIN-SUFFIX,zdnet.com,国外
   - DOMAIN-SUFFIX,zdnet.redvideo.io,国外
   - DOMAIN-SUFFIX,zdusercontent.com,国外
+  - DOMAIN-SUFFIX,zdxbeta.net,国外
+  - DOMAIN-SUFFIX,zdxcloud.net,国外
   - DOMAIN-SUFFIX,zee.com,国外
   - DOMAIN-SUFFIX,zee5.com,国外
   - DOMAIN-SUFFIX,zee5.in,国外
@@ -37761,7 +37774,19 @@ rules:
   - DOMAIN-SUFFIX,zopim.com,国外
   - DOMAIN-SUFFIX,zorglist.com,国外
   - DOMAIN-SUFFIX,zotero.org,国外
+  - DOMAIN-SUFFIX,zpagov.net,国外
+  - DOMAIN-SUFFIX,zpath.com,国外
   - DOMAIN-SUFFIX,zqqpwz.com,国外
+  - DOMAIN-SUFFIX,zscaler.com,国外
+  - DOMAIN-SUFFIX,zscaler.jp,国外
+  - DOMAIN-SUFFIX,zscaler.net,国外
+  - DOMAIN-SUFFIX,zscalerbeta.net,国外
+  - DOMAIN-SUFFIX,zscalergov.net,国外
+  - DOMAIN-SUFFIX,zscalerone.net,国外
+  - DOMAIN-SUFFIX,zscalershift.com,国外
+  - DOMAIN-SUFFIX,zscalerthree.net,国外
+  - DOMAIN-SUFFIX,zscalertwo.net,国外
+  - DOMAIN-SUFFIX,zscloud.net,国外
   - DOMAIN-SUFFIX,zsh.org,国外
   - DOMAIN-SUFFIX,zsuxtx-ktv.shop,国外
   - DOMAIN-SUFFIX,zteman.net,国外
@@ -41348,6 +41373,7 @@ rules:
   - DOMAIN-SUFFIX,morningsun.org,国外
   - DOMAIN-SUFFIX,moroneta.com,国外
   - DOMAIN-SUFFIX,mos.ru,国外
+  - DOMAIN-SUFFIX,mosavi.io,国外
   - DOMAIN-SUFFIX,mosucloud.site,国外
   - DOMAIN-SUFFIX,motherless.com,国外
   - DOMAIN-SUFFIX,motiyun.com,国外
