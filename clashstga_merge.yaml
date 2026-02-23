@@ -34995,7 +34995,6 @@ rules:
   - DOMAIN-SUFFIX,unistats.ac.uk,国外
   - DOMAIN-SUFFIX,unisurreydirect.ac.uk,国外
   - DOMAIN-SUFFIX,uniswales.ac.uk,国外
-  - DOMAIN-SUFFIX,uniswap.org,国外
   - DOMAIN-SUFFIX,unitedcollegegroup.ac.uk,国外
   - DOMAIN-SUFFIX,unitedcollegesgroup.ac.uk,国外
   - DOMAIN-SUFFIX,unity.ac.uk,国外
@@ -38093,6 +38092,7 @@ rules:
   - DOMAIN-SUFFIX,akamaistream.net,国外
   - DOMAIN-SUFFIX,akiba-online.com,国外
   - DOMAIN-SUFFIX,akiba-web.com,国外
+  - DOMAIN-SUFFIX,akile.io,国外
   - DOMAIN-SUFFIX,akinator.com,国外
   - DOMAIN-SUFFIX,akow.org,国外
   - DOMAIN-SUFFIX,al-islam.com,国外
@@ -38296,6 +38296,7 @@ rules:
   - DOMAIN-SUFFIX,aspistrategist.org.au,国外
   - DOMAIN-SUFFIX,aspnetcdn.com,国外
   - DOMAIN-SUFFIX,assembla.com,国外
+  - DOMAIN-SUFFIX,assets.nxtrace.org,国外
   - DOMAIN-SUFFIX,assimp.org,国外
   - DOMAIN-SUFFIX,astrill.com,国外
   - DOMAIN-SUFFIX,async.be,国外
@@ -41245,6 +41246,7 @@ rules:
   - DOMAIN-SUFFIX,mediafreakcity.com,国外
   - DOMAIN-SUFFIX,mediawiki.org,国外
   - DOMAIN-SUFFIX,medium.com,国外
+  - DOMAIN-SUFFIX,meee.com.tw,国外
   - DOMAIN-SUFFIX,meetav.com,国外
   - DOMAIN-SUFFIX,meetup.com,国外
   - DOMAIN-SUFFIX,mefeedia.com,国外
@@ -41859,6 +41861,7 @@ rules:
   - DOMAIN-SUFFIX,open.com.hk,国外
   - DOMAIN-SUFFIX,openallweb.com,国外
   - DOMAIN-SUFFIX,openbase.com,国外
+  - DOMAIN-SUFFIX,opencritic.com,国外
   - DOMAIN-SUFFIX,opendemocracy.net,国外
   - DOMAIN-SUFFIX,opendn.xyz,国外
   - DOMAIN-SUFFIX,openervpn.in,国外
@@ -43586,6 +43589,7 @@ rules:
   - DOMAIN-SUFFIX,unification.net,国外
   - DOMAIN-SUFFIX,unification.org.tw,国外
   - DOMAIN-SUFFIX,unirule.cloud,国外
+  - DOMAIN-SUFFIX,uniswap.org,国外
   - DOMAIN-SUFFIX,unitedsocialpress.com,国外
   - DOMAIN-SUFFIX,unity3d.com,国外
   - DOMAIN-SUFFIX,unix100.com,国外
@@ -44053,6 +44057,7 @@ rules:
   - DOMAIN-SUFFIX,wuyanblog.com,国外
   - DOMAIN-SUFFIX,wwe.com,国外
   - DOMAIN-SUFFIX,wwitv.com,国外
+  - DOMAIN-SUFFIX,www.clashverge.dev,国外
   - DOMAIN-SUFFIX,www1.biz,国外
   - DOMAIN-SUFFIX,wwwhost.biz,国外
   - DOMAIN-SUFFIX,wxw.cat,国外
