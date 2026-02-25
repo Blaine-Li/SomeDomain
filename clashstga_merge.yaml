@@ -27253,6 +27253,8 @@ rules:
   - DOMAIN-SUFFIX,mitnaka.com,国外
   - DOMAIN-SUFFIX,mitpressjournals.org,国外
   - DOMAIN-SUFFIX,mixasiansex.com,国外
+  - DOMAIN-SUFFIX,mixi.co.jp,国外
+  - DOMAIN-SUFFIX,mixi.net,国外
   - DOMAIN-SUFFIX,mixlr.com,国外
   - DOMAIN-SUFFIX,mixmaturesex.com,国外
   - DOMAIN-SUFFIX,mixvintagesex.com,国外
@@ -29475,6 +29477,7 @@ rules:
   - DOMAIN-SUFFIX,pa9pal.com,国外
   - DOMAIN-SUFFIX,paaypal.com,国外
   - DOMAIN-SUFFIX,pacifickitchenandhome.com,国外
+  - DOMAIN-SUFFIX,packagecloud.io,国外
   - DOMAIN-SUFFIX,packaging-cadcam.com,国外
   - DOMAIN-SUFFIX,packagingcadcam.com,国外
   - DOMAIN-SUFFIX,packagist.org,国外
@@ -39799,6 +39802,7 @@ rules:
   - DOMAIN-SUFFIX,freechinaforum.org,国外
   - DOMAIN-SUFFIX,freechinaweibo.com,国外
   - DOMAIN-SUFFIX,freedl.org,国外
+  - DOMAIN-SUFFIX,freedom.gov,国外
   - DOMAIN-SUFFIX,freedomchina.info,国外
   - DOMAIN-SUFFIX,freedomcollection.org,国外
   - DOMAIN-SUFFIX,freedomhongkong.org,国外
