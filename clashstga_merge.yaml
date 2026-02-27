@@ -12120,6 +12120,7 @@ rules:
   - DOMAIN-SUFFIX,aboutamazon.it,国外
   - DOMAIN-SUFFIX,aboutamazon.jp,国外
   - DOMAIN-SUFFIX,aboutamazon.pl,国外
+  - DOMAIN-SUFFIX,aboutamazon.sg,国外
   - DOMAIN-SUFFIX,aboutfacebook.com,国外
   - DOMAIN-SUFFIX,aboutgfw.com,国外
   - DOMAIN-SUFFIX,aboutmcdonalds.com,国外
@@ -13041,21 +13042,32 @@ rules:
   - DOMAIN-SUFFIX,amazon-launchpad.com,国外
   - DOMAIN-SUFFIX,amazon.ae,国外
   - DOMAIN-SUFFIX,amazon.ca,国外
+  - DOMAIN-SUFFIX,amazon.cl,国外
   - DOMAIN-SUFFIX,amazon.co.uk,国外
+  - DOMAIN-SUFFIX,amazon.co.za,国外
   - DOMAIN-SUFFIX,amazon.com.au,国外
+  - DOMAIN-SUFFIX,amazon.com.be,国外
   - DOMAIN-SUFFIX,amazon.com.br,国外
+  - DOMAIN-SUFFIX,amazon.com.co,国外
   - DOMAIN-SUFFIX,amazon.com.mx,国外
+  - DOMAIN-SUFFIX,amazon.com.ng,国外
   - DOMAIN-SUFFIX,amazon.com.tr,国外
   - DOMAIN-SUFFIX,amazon.de,国外
   - DOMAIN-SUFFIX,amazon.dev,国外
+  - DOMAIN-SUFFIX,amazon.eg,国外
   - DOMAIN-SUFFIX,amazon.es,国外
   - DOMAIN-SUFFIX,amazon.fr,国外
+  - DOMAIN-SUFFIX,amazon.ie,国外
   - DOMAIN-SUFFIX,amazon.in,国外
   - DOMAIN-SUFFIX,amazon.it,国外
   - DOMAIN-SUFFIX,amazon.jobs,国外
   - DOMAIN-SUFFIX,amazon.jp,国外
+  - DOMAIN-SUFFIX,amazon.lu,国外
   - DOMAIN-SUFFIX,amazon.nl,国外
+  - DOMAIN-SUFFIX,amazon.pl,国外
   - DOMAIN-SUFFIX,amazon.red,国外
+  - DOMAIN-SUFFIX,amazon.sa,国外
+  - DOMAIN-SUFFIX,amazon.se,国外
   - DOMAIN-SUFFIX,amazon.sg,国外
   - DOMAIN-SUFFIX,amazonalexavoxcon.com,国外
   - DOMAIN-SUFFIX,amazonauthorinsights.com,国外
@@ -14204,6 +14216,7 @@ rules:
   - DOMAIN-SUFFIX,awsthinkbox.com,国外
   - DOMAIN-SUFFIX,awstrack.me,国外
   - DOMAIN-SUFFIX,awstrust.com,国外
+  - DOMAIN-SUFFIX,awswaf.com,国外
   - DOMAIN-SUFFIX,awwcn.buzz,国外
   - DOMAIN-SUFFIX,awwcn.xyz,国外
   - DOMAIN-SUFFIX,awxcdn.com,国外
@@ -32039,6 +32052,7 @@ rules:
   - DOMAIN-SUFFIX,search25.ac.uk,国外
   - DOMAIN-SUFFIX,seas.ac.uk,国外
   - DOMAIN-SUFFIX,seasidestory.tokyo,国外
+  - DOMAIN-SUFFIX,seattlespheres.com,国外
   - DOMAIN-SUFFIX,secom.co.jp,国外
   - DOMAIN-SUFFIX,secomtrust.net,国外
   - DOMAIN-SUFFIX,second-ns.com,国外
@@ -36743,6 +36757,7 @@ rules:
   - DOMAIN-SUFFIX,xiaoou.tv,国外
   - DOMAIN-SUFFIX,xiaoshuobb.life,国外
   - DOMAIN-SUFFIX,xiaoyaoge.xyz,国外
+  - DOMAIN-SUFFIX,xie56.xyz,国外
   - DOMAIN-SUFFIX,xinaia-av.buzz,国外
   - DOMAIN-SUFFIX,xindelu.com,国外
   - DOMAIN-SUFFIX,xinfhw.com,国外
