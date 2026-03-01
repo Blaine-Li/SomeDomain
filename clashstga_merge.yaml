@@ -37311,6 +37311,7 @@ rules:
   - DOMAIN-SUFFIX,yandexcloud.net,国外
   - DOMAIN-SUFFIX,yandexcom.net,国外
   - DOMAIN-SUFFIX,yandexmetrica.com,国外
+  - DOMAIN-SUFFIX,yandexwebcache.net,国外
   - DOMAIN-SUFFIX,yandexwebcache.org,国外
   - DOMAIN-SUFFIX,yaohubaba.com,国外
   - DOMAIN-SUFFIX,yaoimangaonline.com,国外
