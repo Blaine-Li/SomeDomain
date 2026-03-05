@@ -18361,6 +18361,7 @@ rules:
   - DOMAIN-SUFFIX,diablo3.com,国外
   - DOMAIN-SUFFIX,diabloimmortal.com,国外
   - DOMAIN-SUFFIX,diabrowser.com,国外
+  - DOMAIN-SUFFIX,diabrowser.engineering,国外
   - DOMAIN-SUFFIX,dialga.com,国外
   - DOMAIN-SUFFIX,dialogflow.com,国外
   - DOMAIN-SUFFIX,diamantewebcam.com,国外
@@ -18626,6 +18627,7 @@ rules:
   - DOMAIN-SUFFIX,dl-iphone.com,国外
   - DOMAIN-SUFFIX,dl.ac.uk,国外
   - DOMAIN-SUFFIX,dl4d.ac.uk,国外
+  - DOMAIN-SUFFIX,dlaf.jp,国外
   - DOMAIN-SUFFIX,dlap001.xyz,国外
   - DOMAIN-SUFFIX,dlap301.com,国外
   - DOMAIN-SUFFIX,dldlinks.com,国外
@@ -23792,6 +23794,7 @@ rules:
   - DOMAIN-SUFFIX,ilife.eu,国外
   - DOMAIN-SUFFIX,ilife.gr,国外
   - DOMAIN-SUFFIX,ilife.wang,国外
+  - DOMAIN-SUFFIX,illgames.jp,国外
   - DOMAIN-SUFFIX,illianacomputerrecycling.com,国外
   - DOMAIN-SUFFIX,illusion.co.jp,国外
   - DOMAIN-SUFFIX,illusion.jp,国外
@@ -24593,6 +24596,7 @@ rules:
   - DOMAIN-SUFFIX,janetcollaborate.ac.uk,国外
   - DOMAIN-SUFFIX,janor6.net,国外
   - DOMAIN-SUFFIX,japan-forward.com,国外
+  - DOMAIN-SUFFIX,japan-illgames.com,国外
   - DOMAIN-SUFFIX,japan18tube.com,国外
   - DOMAIN-SUFFIX,japanbeast.com,国外
   - DOMAIN-SUFFIX,japanese-scat.net,国外
@@ -24795,6 +24799,7 @@ rules:
   - DOMAIN-SUFFIX,jessicaturner.co.uk,国外
   - DOMAIN-SUFFIX,jessicaturner.com,国外
   - DOMAIN-SUFFIX,jetbrains.ai,国外
+  - DOMAIN-SUFFIX,jetbrains.cloud,国外
   - DOMAIN-SUFFIX,jetbrains.com,国外
   - DOMAIN-SUFFIX,jetbrains.net,国外
   - DOMAIN-SUFFIX,jetbrains.space,国外
@@ -34610,6 +34615,7 @@ rules:
   - DOMAIN-SUFFIX,tsuradou.noonvob.com,国外
   - DOMAIN-SUFFIX,tsyum.com,国外
   - DOMAIN-SUFFIX,ttc.ac.uk,国外
+  - DOMAIN-SUFFIX,ttcdn-us.com,国外
   - DOMAIN-SUFFIX,tte-lisa.ac.uk,国外
   - DOMAIN-SUFFIX,tteshop.com,国外
   - DOMAIN-SUFFIX,ttetraining.ac.uk,国外
@@ -38282,6 +38288,7 @@ rules:
   - DOMAIN-SUFFIX,archives.gov,国外
   - DOMAIN-SUFFIX,arctosia.com,国外
   - DOMAIN-SUFFIX,areca-backup.org,国外
+  - DOMAIN-SUFFIX,arena.ai,国外
   - DOMAIN-SUFFIX,arena.taipei,国外
   - DOMAIN-SUFFIX,arethusa.su,国外
   - DOMAIN-SUFFIX,arlingtoncemetery.mil,国外
@@ -38295,6 +38302,7 @@ rules:
   - DOMAIN-SUFFIX,artsy.net,国外
   - DOMAIN-SUFFIX,arunachalforests.gov.in,国外
   - DOMAIN-SUFFIX,arvanstorage.ir,国外
+  - DOMAIN-SUFFIX,arweave.org,国外
   - DOMAIN-SUFFIX,asacp.org,国外
   - DOMAIN-SUFFIX,asdfg.jp,国外
   - DOMAIN-SUFFIX,asg.to,国外
@@ -44018,6 +44026,7 @@ rules:
   - DOMAIN-SUFFIX,wireguard.com,国外
   - DOMAIN-SUFFIX,wisdompubs.org,国外
   - DOMAIN-SUFFIX,wisevid.com,国外
+  - DOMAIN-SUFFIX,wispbyte.com,国外
   - DOMAIN-SUFFIX,wistia.com,国外
   - DOMAIN-SUFFIX,witnessleeteaching.com,国外
   - DOMAIN-SUFFIX,witopia.net,国外
