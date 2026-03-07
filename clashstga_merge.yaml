@@ -11507,6 +11507,7 @@ rules:
   - DOMAIN,www-cdn.icloud.com.akadns.net,国外
   - DOMAIN,yandex-pogoda.static-storage.net,国外
   - DOMAIN,yangzhi.app,国外
+  - DOMAIN,youla-web-static.mrgcdn.ru,国外
   - DOMAIN,ztedevices.com,国外
   - DOMAIN,api.waqi.info,国外
   - DOMAIN,aqi.aqicn.org,国外
@@ -27685,6 +27686,7 @@ rules:
   - DOMAIN-SUFFIX,mut.ch,国外
   - DOMAIN-SUFFIX,muthead.com,国外
   - DOMAIN-SUFFIX,muther.ac.uk,国外
+  - DOMAIN-SUFFIX,muvluv-girls-garden.com,国外
   - DOMAIN-SUFFIX,muycerdas.xxx,国外
   - DOMAIN-SUFFIX,muyzorras.com,国外
   - DOMAIN-SUFFIX,mvdis.gov.tw,国外
@@ -29261,6 +29263,7 @@ rules:
   - DOMAIN-SUFFIX,onlyams.com,国外
   - DOMAIN-SUFFIX,onlycartoonsex.com,国外
   - DOMAIN-SUFFIX,onlydudes.com,国外
+  - DOMAIN-SUFFIX,onlyfans.com,国外
   - DOMAIN-SUFFIX,onlyfanspw.com,国外
   - DOMAIN-SUFFIX,onlyfreelatinaporn.com,国外
   - DOMAIN-SUFFIX,onlyhdporn.com,国外
@@ -30113,6 +30116,10 @@ rules:
   - DOMAIN-SUFFIX,pleasurebabe.com,国外
   - DOMAIN-SUFFIX,pleasuregirl.net,国外
   - DOMAIN-SUFFIX,pleasuremore.com,国外
+  - DOMAIN-SUFFIX,plex.com,国外
+  - DOMAIN-SUFFIX,plex.services,国外
+  - DOMAIN-SUFFIX,plex.tv,国外
+  - DOMAIN-SUFFIX,plexapp.com,国外
   - DOMAIN-SUFFIX,plixi.com,国外
   - DOMAIN-SUFFIX,plos.org,国外
   - DOMAIN-SUFFIX,plug-into.com,国外
@@ -32114,6 +32121,7 @@ rules:
   - DOMAIN-SUFFIX,semanticscholar.org,国外
   - DOMAIN-SUFFIX,sena.co.kr,国外
   - DOMAIN-SUFFIX,senatehouselibrary.ac.uk,国外
+  - DOMAIN-SUFFIX,sendvid.com,国外
   - DOMAIN-SUFFIX,seneporno.com,国外
   - DOMAIN-SUFFIX,seniortgp.com,国外
   - DOMAIN-SUFFIX,senpaiheat.com,国外
@@ -35139,6 +35147,7 @@ rules:
   - DOMAIN-SUFFIX,usvimosquitoproject.com,国外
   - DOMAIN-SUFFIX,usw.ac.uk,国外
   - DOMAIN-SUFFIX,utcreading.ac.uk,国外
+  - DOMAIN-SUFFIX,utdstc.com,国外
   - DOMAIN-SUFFIX,uug22.com,国外
   - DOMAIN-SUFFIX,uug23.com,国外
   - DOMAIN-SUFFIX,uug25.com,国外
@@ -37414,6 +37423,8 @@ rules:
   - DOMAIN-SUFFIX,youflix.is,国外
   - DOMAIN-SUFFIX,youjism.com,国外
   - DOMAIN-SUFFIX,youjizz.sex,国外
+  - DOMAIN-SUFFIX,youla.io,国外
+  - DOMAIN-SUFFIX,youla.ru,国外
   - DOMAIN-SUFFIX,youmind.ai,国外
   - DOMAIN-SUFFIX,youmind.site,国外
   - DOMAIN-SUFFIX,young-amateur-movies.com,国外
@@ -39360,6 +39371,7 @@ rules:
   - DOMAIN-SUFFIX,doujincafe.com,国外
   - DOMAIN-SUFFIX,dowei.org,国外
   - DOMAIN-SUFFIX,dowjones.com,国外
+  - DOMAIN-SUFFIX,download.dappcdn.com,国外
   - DOMAIN-SUFFIX,dphk.org,国外
   - DOMAIN-SUFFIX,dpool.top,国外
   - DOMAIN-SUFFIX,dpp.org.tw,国外
