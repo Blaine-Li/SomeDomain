@@ -121,6 +121,7 @@ rules:
   - DOMAIN-SUFFIX,gh.ursusx.com,国内
   - DOMAIN-SUFFIX,ft07.com,国内
   - DOMAIN-SUFFIX,frp-any.com,国内
+  - DOMAIN-SUFFIX,uunat.com,国内
   - DOMAIN-SUFFIX,acl4.ssr,国内
   - DOMAIN-SUFFIX,ip6-localhost,国内
   - DOMAIN-SUFFIX,ip6-loopback,国内
@@ -11754,6 +11755,7 @@ rules:
   - DOMAIN-SUFFIX,2mdn-cn.net,国外
   - DOMAIN-SUFFIX,2mdn.net,国外
   - DOMAIN-SUFFIX,30plusgirls.com,国外
+  - DOMAIN-SUFFIX,32bm.cc,国外
   - DOMAIN-SUFFIX,35s4.com,国外
   - DOMAIN-SUFFIX,360autodesk.com,国外
   - DOMAIN-SUFFIX,360nexus.com,国外
@@ -13316,6 +13318,7 @@ rules:
   - DOMAIN-SUFFIX,app-analytics-services.com,国外
   - DOMAIN-SUFFIX,app-dynamics.com,国外
   - DOMAIN-SUFFIX,app-measurement-cn.com,国外
+  - DOMAIN-SUFFIX,app-pay.jp,国外
   - DOMAIN-SUFFIX,app-store.wang,国外
   - DOMAIN-SUFFIX,app0le.com,国外
   - DOMAIN-SUFFIX,app756.com,国外
@@ -14338,6 +14341,7 @@ rules:
   - DOMAIN-SUFFIX,bafa.ac.uk,国外
   - DOMAIN-SUFFIX,bag-glasses1.com,国外
   - DOMAIN-SUFFIX,bahcesehir.ac.uk,国外
+  - DOMAIN-SUFFIX,bai29.xyz,国外
   - DOMAIN-SUFFIX,baicaonetwork.com,国外
   - DOMAIN-SUFFIX,baice.ac.uk,国外
   - DOMAIN-SUFFIX,bailer.ac.uk,国外
@@ -16335,6 +16339,7 @@ rules:
   - DOMAIN-SUFFIX,cafmad.ac.uk,国外
   - DOMAIN-SUFFIX,cafr.ca,国外
   - DOMAIN-SUFFIX,cafre.ac.uk,国外
+  - DOMAIN-SUFFIX,cai21.xyz,国外
   - DOMAIN-SUFFIX,caice.com,国外
   - DOMAIN-SUFFIX,caijinglengyan.com,国外
   - DOMAIN-SUFFIX,caime.xyz,国外
@@ -19079,6 +19084,7 @@ rules:
   - DOMAIN-SUFFIX,dynamobuilds.com,国外
   - DOMAIN-SUFFIX,dynamopackages.com,国外
   - DOMAIN-SUFFIX,dynamoreach.com,国外
+  - DOMAIN-SUFFIX,dynatrace.com,国外
   - DOMAIN-SUFFIX,dyncdn.me,国外
   - DOMAIN-SUFFIX,dyttapi.com,国外
   - DOMAIN-SUFFIX,dyttapis.com,国外
@@ -20329,6 +20335,7 @@ rules:
   - DOMAIN-SUFFIX,familypies.net,国外
   - DOMAIN-SUFFIX,familyporn.tv,国外
   - DOMAIN-SUFFIX,familypornhd.com,国外
+  - DOMAIN-SUFFIX,familysearch.org,国外
   - DOMAIN-SUFFIX,familysexsimulator.com,国外
   - DOMAIN-SUFFIX,familysimulator.com,国外
   - DOMAIN-SUFFIX,familysimulator.io,国外
@@ -28573,6 +28580,7 @@ rules:
   - DOMAIN-SUFFIX,nikestyles.com,国外
   - DOMAIN-SUFFIX,nikeswim.com,国外
   - DOMAIN-SUFFIX,niketaiwan.net,国外
+  - DOMAIN-SUFFIX,niketracking.com,国外
   - DOMAIN-SUFFIX,niketradeweb.com,国外
   - DOMAIN-SUFFIX,niketrainer.com,国外
   - DOMAIN-SUFFIX,niketrainers.com,国外
@@ -31437,6 +31445,7 @@ rules:
   - DOMAIN-SUFFIX,rightster.com,国外
   - DOMAIN-SUFFIX,rimg.com.tw,国外
   - DOMAIN-SUFFIX,rin.ac.uk,国外
+  - DOMAIN-SUFFIX,rinvdh7.xyz,国外
   - DOMAIN-SUFFIX,riot-games.com,国外
   - DOMAIN-SUFFIX,riot.com,国外
   - DOMAIN-SUFFIX,riot.im,国外
@@ -31775,6 +31784,7 @@ rules:
   - DOMAIN-SUFFIX,samsunggalaxyfriends.com,国外
   - DOMAIN-SUFFIX,samsunghealth.com,国外
   - DOMAIN-SUFFIX,samsungiotcloud.com,国外
+  - DOMAIN-SUFFIX,samsungiots.com,国外
   - DOMAIN-SUFFIX,samsungknox.com,国外
   - DOMAIN-SUFFIX,samsungosp.com,国外
   - DOMAIN-SUFFIX,samsungqbe.com,国外
@@ -32762,6 +32772,7 @@ rules:
   - DOMAIN-SUFFIX,smartonesolutions.com.hk,国外
   - DOMAIN-SUFFIX,smartonesolutions.hk,国外
   - DOMAIN-SUFFIX,smartstream.ne.jp,国外
+  - DOMAIN-SUFFIX,smartthings.com,国外
   - DOMAIN-SUFFIX,smashed.xxx,国外
   - DOMAIN-SUFFIX,smbc.co.jp,国外
   - DOMAIN-SUFFIX,smbctb.co.jp,国外
@@ -42659,6 +42670,7 @@ rules:
   - DOMAIN-SUFFIX,shipcamouflage.com,国外
   - DOMAIN-SUFFIX,shireyishunjian.com,国外
   - DOMAIN-SUFFIX,shitaotv.org,国外
+  - DOMAIN-SUFFIX,shitjournal.org,国外
   - DOMAIN-SUFFIX,shixiao.org,国外
   - DOMAIN-SUFFIX,shizhao.org,国外
   - DOMAIN-SUFFIX,shkspr.mobi,国外
