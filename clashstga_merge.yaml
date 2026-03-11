@@ -17852,6 +17852,7 @@ rules:
   - DOMAIN-SUFFIX,cuv.ac.uk,国外
   - DOMAIN-SUFFIX,cuwm.ac.uk,国外
   - DOMAIN-SUFFIX,cvcp.ac.uk,国外
+  - DOMAIN-SUFFIX,cve.org,国外
   - DOMAIN-SUFFIX,cvma.ac.uk,国外
   - DOMAIN-SUFFIX,cvr.ac.uk,国外
   - DOMAIN-SUFFIX,cvs.ac.uk,国外
