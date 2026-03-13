@@ -17185,9 +17185,11 @@ rules:
   - DOMAIN-SUFFIX,classicnike.com,国外
   - DOMAIN-SUFFIX,classics.ac.uk,国外
   - DOMAIN-SUFFIX,classymomsex.com,国外
+  - DOMAIN-SUFFIX,clau.de,国外
   - DOMAIN-SUFFIX,claude.ai,国外
   - DOMAIN-SUFFIX,claudemcpclient.com,国外
   - DOMAIN-SUFFIX,claudeusercontent.com,国外
+  - DOMAIN-SUFFIX,clawhub.ai,国外
   - DOMAIN-SUFFIX,clc-london.ac.uk,国外
   - DOMAIN-SUFFIX,clco.cc,国外
   - DOMAIN-SUFFIX,clean-cooling.ac.uk,国外
@@ -22281,6 +22283,7 @@ rules:
   - DOMAIN-SUFFIX,h-webtoon.com,国外
   - DOMAIN-SUFFIX,h0930.com,国外
   - DOMAIN-SUFFIX,h18ani1.vip,国外
+  - DOMAIN-SUFFIX,h2o.ai,国外
   - DOMAIN-SUFFIX,h2porn.com,国外
   - DOMAIN-SUFFIX,habr.com,国外
   - DOMAIN-SUFFIX,habrastorage.org,国外
@@ -29306,6 +29309,7 @@ rules:
   - DOMAIN-SUFFIX,openart.ai,国外
   - DOMAIN-SUFFIX,openbook.org.tw,国外
   - DOMAIN-SUFFIX,opencas.io,国外
+  - DOMAIN-SUFFIX,openclaw.ai,国外
   - DOMAIN-SUFFIX,opencollective.com,国外
   - DOMAIN-SUFFIX,opencreate.org,国外
   - DOMAIN-SUFFIX,opendesktop.org,国外
@@ -32640,6 +32644,7 @@ rules:
   - DOMAIN-SUFFIX,sinica.ac.uk,国外
   - DOMAIN-SUFFIX,sino-cs.ac.uk,国外
   - DOMAIN-SUFFIX,sinto.ac.uk,国外
+  - DOMAIN-SUFFIX,sinyalee.com,国外
   - DOMAIN-SUFFIX,sip.ac.uk,国外
   - DOMAIN-SUFFIX,sipher.ac.uk,国外
   - DOMAIN-SUFFIX,siport.com,国外
