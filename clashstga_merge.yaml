@@ -12070,7 +12070,6 @@ rules:
   - DOMAIN-SUFFIX,aapl.tw,国外
   - DOMAIN-SUFFIX,aaschool.ac.uk,国外
   - DOMAIN-SUFFIX,aau.ac.uk,国外
-  - DOMAIN-SUFFIX,aave.com,国外
   - DOMAIN-SUFFIX,aavs.xyz,国外
   - DOMAIN-SUFFIX,abank.com.mm,国外
   - DOMAIN-SUFFIX,abb.travel,国外
@@ -34325,6 +34324,11 @@ rules:
   - DOMAIN-SUFFIX,tiktokv.eu,国外
   - DOMAIN-SUFFIX,tiktokw.eu,国外
   - DOMAIN-SUFFIX,tiktokw.us,国外
+  - DOMAIN-SUFFIX,tilda.cc,国外
+  - DOMAIN-SUFFIX,tilda.ru,国外
+  - DOMAIN-SUFFIX,tilda.ws,国外
+  - DOMAIN-SUFFIX,tildaapi.com,国外
+  - DOMAIN-SUFFIX,tildacdn.com,国外
   - DOMAIN-SUFFIX,tilehill.ac.uk,国外
   - DOMAIN-SUFFIX,time.gov,国外
   - DOMAIN-SUFFIX,time.nrc.ca,国外
@@ -38067,6 +38071,7 @@ rules:
   - DOMAIN-SUFFIX,9to5mac.com,国外
   - DOMAIN-SUFFIX,a-normal-day.com,国外
   - DOMAIN-SUFFIX,aamacau.com,国外
+  - DOMAIN-SUFFIX,aave.com,国外
   - DOMAIN-SUFFIX,abc.com,国外
   - DOMAIN-SUFFIX,abc.net.au,国外
   - DOMAIN-SUFFIX,abc.xyz,国外
