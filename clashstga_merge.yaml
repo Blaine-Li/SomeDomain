@@ -29330,6 +29330,7 @@ rules:
   - DOMAIN-SUFFIX,openlibrary.org,国外
   - DOMAIN-SUFFIX,openmaps.org,国外
   - DOMAIN-SUFFIX,openreality.com,国外
+  - DOMAIN-SUFFIX,openrec.tv,国外
   - DOMAIN-SUFFIX,openresty.org,国外
   - DOMAIN-SUFFIX,openreview.net,国外
   - DOMAIN-SUFFIX,openrouter.ai,国外
@@ -29510,8 +29511,15 @@ rules:
   - DOMAIN-SUFFIX,ozeex.com,国外
   - DOMAIN-SUFFIX,ozodi.org,国外
   - DOMAIN-SUFFIX,ozodlik.org,国外
+  - DOMAIN-SUFFIX,ozon.by,国外
+  - DOMAIN-SUFFIX,ozon.com,国外
+  - DOMAIN-SUFFIX,ozon.com.by,国外
+  - DOMAIN-SUFFIX,ozon.com.kz,国外
+  - DOMAIN-SUFFIX,ozon.kz,国外
   - DOMAIN-SUFFIX,ozon.ru,国外
+  - DOMAIN-SUFFIX,ozon.tm,国外
   - DOMAIN-SUFFIX,ozone.ru,国外
+  - DOMAIN-SUFFIX,ozonru.me,国外
   - DOMAIN-SUFFIX,ozonusercontent.com,国外
   - DOMAIN-SUFFIX,p-cdn.us,国外
   - DOMAIN-SUFFIX,pa9pal.com,国外
@@ -42537,6 +42545,7 @@ rules:
   - DOMAIN-SUFFIX,s-cute.com,国外
   - DOMAIN-SUFFIX,s-dragon.org,国外
   - DOMAIN-SUFFIX,s-nbcnews.com,国外
+  - DOMAIN-SUFFIX,s.rmimg.com,国外
   - DOMAIN-SUFFIX,s.team,国外
   - DOMAIN-SUFFIX,s1heng.com,国外
   - DOMAIN-SUFFIX,s1s1s1.com,国外
@@ -44205,6 +44214,7 @@ rules:
   - DOMAIN-SUFFIX,xml-training-guide.com,国外
   - DOMAIN-SUFFIX,xmovies.com,国外
   - DOMAIN-SUFFIX,xn--11xs86f.icu,国外
+  - DOMAIN-SUFFIX,xn--1jqvh729avzfcy2d8ummib.com,国外
   - DOMAIN-SUFFIX,xn--4gq171p.com,国外
   - DOMAIN-SUFFIX,xn--90wwvt03e.com,国外
   - DOMAIN-SUFFIX,xn--9iqy04a7fi01l.com,国外
