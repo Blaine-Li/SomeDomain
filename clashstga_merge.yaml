@@ -122,6 +122,9 @@ rules:
   - DOMAIN-SUFFIX,ft07.com,国内
   - DOMAIN-SUFFIX,frp-any.com,国内
   - DOMAIN-SUFFIX,uunat.com,国内
+  - DOMAIN-SUFFIX,za.group,国内
+  - DOMAIN-SUFFIX,zajourney.com,国内
+  - DOMAIN-SUFFIX,zaticdn.com,国内
   - DOMAIN-SUFFIX,acl4.ssr,国内
   - DOMAIN-SUFFIX,ip6-localhost,国内
   - DOMAIN-SUFFIX,ip6-loopback,国内
@@ -17054,6 +17057,7 @@ rules:
   - DOMAIN-SUFFIX,chuls.ac.uk,国外
   - DOMAIN-SUFFIX,chuneo.xyz,国外
   - DOMAIN-SUFFIX,chunja19.net,国外
+  - DOMAIN-SUFFIX,chunkbase.com,国外
   - DOMAIN-SUFFIX,chuokoron.jp,国外
   - DOMAIN-SUFFIX,chuporno.com,国外
   - DOMAIN-SUFFIX,churchill.ac.uk,国外
@@ -19753,6 +19757,7 @@ rules:
   - DOMAIN-SUFFIX,equal.ac.uk,国外
   - DOMAIN-SUFFIX,equalityhigher.ac.uk,国外
   - DOMAIN-SUFFIX,equator.ac.uk,国外
+  - DOMAIN-SUFFIX,equinox.io,国外
   - DOMAIN-SUFFIX,equistudy.ac.uk,国外
   - DOMAIN-SUFFIX,era.ac.uk,国外
   - DOMAIN-SUFFIX,erabaru.net,国外
@@ -26996,6 +27001,7 @@ rules:
   - DOMAIN-SUFFIX,minecraft-services.net,国外
   - DOMAIN-SUFFIX,minecraft.net,国外
   - DOMAIN-SUFFIX,minecraft.wiki,国外
+  - DOMAIN-SUFFIX,minecraftforge.net,国外
   - DOMAIN-SUFFIX,minecraftservices.com,国外
   - DOMAIN-SUFFIX,minecraftshop.com,国外
   - DOMAIN-SUFFIX,mineofinfo.ac.uk,国外
@@ -27947,6 +27953,7 @@ rules:
   - DOMAIN-SUFFIX,nakednews.com,国外
   - DOMAIN-SUFFIX,naln.ac.uk,国外
   - DOMAIN-SUFFIX,nam.ac.uk,国外
+  - DOMAIN-SUFFIX,namemc.com,国外
   - DOMAIN-SUFFIX,namemybeats.com,国外
   - DOMAIN-SUFFIX,namethatporn.com,国外
   - DOMAIN-SUFFIX,namethatpornad.com,国外
@@ -28398,6 +28405,7 @@ rules:
   - DOMAIN-SUFFIX,nginx.org,国外
   - DOMAIN-SUFFIX,nginxconfig.io,国外
   - DOMAIN-SUFFIX,ngodupdongchung.com,国外
+  - DOMAIN-SUFFIX,ngrok-agent.com,国外
   - DOMAIN-SUFFIX,ngrok-free.app,国外
   - DOMAIN-SUFFIX,ngrok-free.dev,国外
   - DOMAIN-SUFFIX,ngrok-free.pizza,国外
@@ -29367,6 +29375,7 @@ rules:
   - DOMAIN-SUFFIX,optica.org,国外
   - DOMAIN-SUFFIX,opticore.com,国外
   - DOMAIN-SUFFIX,opticsforthecloud.net,国外
+  - DOMAIN-SUFFIX,optifine.net,国外
   - DOMAIN-SUFFIX,optima-cdt.ac.uk,国外
   - DOMAIN-SUFFIX,optimumssl.com,国外
   - DOMAIN-SUFFIX,opwall.ac.uk,国外
@@ -30902,6 +30911,7 @@ rules:
   - DOMAIN-SUFFIX,qbmengmei6.mom,国外
   - DOMAIN-SUFFIX,qbsc.ac.uk,国外
   - DOMAIN-SUFFIX,qckprn.com,国外
+  - DOMAIN-SUFFIX,qcomgeo2.com,国外
   - DOMAIN-SUFFIX,qctconnect.com,国外
   - DOMAIN-SUFFIX,qdiehzz7.me,国外
   - DOMAIN-SUFFIX,qdmomentum.com,国外
@@ -30954,6 +30964,7 @@ rules:
   - DOMAIN-SUFFIX,quadraminstitute.ac.uk,国外
   - DOMAIN-SUFFIX,quadrat.ac.uk,国外
   - DOMAIN-SUFFIX,qualcomm-email.com,国外
+  - DOMAIN-SUFFIX,qualcomm-inc.com,国外
   - DOMAIN-SUFFIX,qualcomm.co.id,国外
   - DOMAIN-SUFFIX,qualcomm.co.in,国外
   - DOMAIN-SUFFIX,qualcomm.co.jp,国外
@@ -33138,6 +33149,7 @@ rules:
   - DOMAIN-SUFFIX,spicywriter.com,国外
   - DOMAIN-SUFFIX,spider.ac.uk,国外
   - DOMAIN-SUFFIX,spiegel.de,国外
+  - DOMAIN-SUFFIX,spigotmc.org,国外
   - DOMAIN-SUFFIX,spinesurgeons.ac.uk,国外
   - DOMAIN-SUFFIX,spiritclubs.com,国外
   - DOMAIN-SUFFIX,spiritofecstasy.com,国外
@@ -33987,6 +33999,8 @@ rules:
   - DOMAIN-SUFFIX,tejaratbank.ir,国外
   - DOMAIN-SUFFIX,tel.ac.uk,国外
   - DOMAIN-SUFFIX,telebay.com,国外
+  - DOMAIN-SUFFIX,telega.info,国外
+  - DOMAIN-SUFFIX,telega.me,国外
   - DOMAIN-SUFFIX,telegram-cdn.org,国外
   - DOMAIN-SUFFIX,telegram-porn.com,国外
   - DOMAIN-SUFFIX,telegram.dog,国外
@@ -44221,6 +44235,7 @@ rules:
   - DOMAIN-SUFFIX,xn--9pr62r24a.com,国外
   - DOMAIN-SUFFIX,xn--czq75pvv1aj5c.org,国外
   - DOMAIN-SUFFIX,xn--i2ru8q2qg.com,国外
+  - DOMAIN-SUFFIX,xn--kcrv3utim32hx9f6qe.com,国外
   - DOMAIN-SUFFIX,xn--ngstr-lra8j.com,国外
   - DOMAIN-SUFFIX,xn--noss43i.com,国外
   - DOMAIN-SUFFIX,xn--oiq.cc,国外
