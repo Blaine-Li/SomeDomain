@@ -125,6 +125,7 @@ rules:
   - DOMAIN-SUFFIX,za.group,国内
   - DOMAIN-SUFFIX,zajourney.com,国内
   - DOMAIN-SUFFIX,zaticdn.com,国内
+  - DOMAIN-SUFFIX,zafinsvc.com,国内
   - DOMAIN-SUFFIX,acl4.ssr,国内
   - DOMAIN-SUFFIX,ip6-localhost,国内
   - DOMAIN-SUFFIX,ip6-loopback,国内
@@ -42559,7 +42560,6 @@ rules:
   - DOMAIN-SUFFIX,s-cute.com,国外
   - DOMAIN-SUFFIX,s-dragon.org,国外
   - DOMAIN-SUFFIX,s-nbcnews.com,国外
-  - DOMAIN-SUFFIX,s.rmimg.com,国外
   - DOMAIN-SUFFIX,s.team,国外
   - DOMAIN-SUFFIX,s1heng.com,国外
   - DOMAIN-SUFFIX,s1s1s1.com,国外
