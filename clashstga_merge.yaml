@@ -27411,7 +27411,6 @@ rules:
   - DOMAIN-SUFFIX,misskey.yukineko.me,国外
   - DOMAIN-SUFFIX,misskeyusercontent.jp,国外
   - DOMAIN-SUFFIX,mist.ac.uk,国外
-  - DOMAIN-SUFFIX,mistral.ai,国外
   - DOMAIN-SUFFIX,mistresskym.com,国外
   - DOMAIN-SUFFIX,mit.net,国外
   - DOMAIN-SUFFIX,miteam.com,国外
@@ -41696,6 +41695,7 @@ rules:
   - DOMAIN-SUFFIX,missav.com,国外
   - DOMAIN-SUFFIX,missav.ws,国外
   - DOMAIN-SUFFIX,mist.vip,国外
+  - DOMAIN-SUFFIX,mistral.ai,国外
   - DOMAIN-SUFFIX,mit.edu,国外
   - DOMAIN-SUFFIX,mitao.com.tw,国外
   - DOMAIN-SUFFIX,mitbbs.com,国外
