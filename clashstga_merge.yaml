@@ -8572,6 +8572,7 @@ rules:
   - DOMAIN-SUFFIX,perplexity.ai,AI
   - DOMAIN-SUFFIX,notebooklm.google.com,AI
   - DOMAIN-SUFFIX,aistudio.google.com,AI
+  - DOMAIN-SUFFIX,polymarket.com,AI
   - DOMAIN-SUFFIX,ads-twitter.com,AI
   - DOMAIN-SUFFIX,cms-twdigitalassets.com,AI
   - DOMAIN-SUFFIX,grok.com,AI
@@ -11455,14 +11456,19 @@ rules:
   - DOMAIN,muse.jhu.edu,国外
   - DOMAIN,nationalaustraliaban.tt.omtrdc.net,国外
   - DOMAIN,ntp-c.colorado.edu,国外
+  - DOMAIN,ntp.time.nl,国外
   - DOMAIN,ntp0.ntp-servers.net,国外
   - DOMAIN,ntp1.ntp-servers.net,国外
+  - DOMAIN,ntp1.time.nl,国外
   - DOMAIN,ntp2.ntp-servers.net,国外
+  - DOMAIN,ntp2.time.nl,国外
   - DOMAIN,ntp3.ntp-servers.net,国外
   - DOMAIN,ntp4.ntp-servers.net,国外
   - DOMAIN,ntp5.ntp-servers.net,国外
   - DOMAIN,ntp6.ntp-servers.net,国外
   - DOMAIN,ntp7.ntp-servers.net,国外
+  - DOMAIN,ntppool1.time.nl,国外
+  - DOMAIN,ntppool2.time.nl,国外
   - DOMAIN,nvidia.tt.omtrdc.net,国外
   - DOMAIN,ood.opsource.net,国外
   - DOMAIN,practivate.adobe,国外
@@ -16335,6 +16341,7 @@ rules:
   - DOMAIN-SUFFIX,caadoc.ac.uk,国外
   - DOMAIN-SUFFIX,caagcc.ac.uk,国外
   - DOMAIN-SUFFIX,caban.ac.uk,国外
+  - DOMAIN-SUFFIX,cabconnect.org,国外
   - DOMAIN-SUFFIX,cableav.xyz,国外
   - DOMAIN-SUFFIX,cabletv.com.hk,国外
   - DOMAIN-SUFFIX,cabletvdirectv.com,国外
@@ -16471,6 +16478,7 @@ rules:
   - DOMAIN-SUFFIX,candypleasure.com,国外
   - DOMAIN-SUFFIX,cannington.ac.uk,国外
   - DOMAIN-SUFFIX,cannock.ac.uk,国外
+  - DOMAIN-SUFFIX,canny.io,国外
   - DOMAIN-SUFFIX,canolfansgiliaucadarn.ac.uk,国外
   - DOMAIN-SUFFIX,canolfanyramgylcheddolcymru.ac.uk,国外
   - DOMAIN-SUFFIX,canon-cee.com,国外
@@ -18925,6 +18933,7 @@ rules:
   - DOMAIN-SUFFIX,drg.ac.uk,国外
   - DOMAIN-SUFFIX,dri.ac.uk,国外
   - DOMAIN-SUFFIX,drindod.ac.uk,国外
+  - DOMAIN-SUFFIX,driveawaytaxi.org,国外
   - DOMAIN-SUFFIX,driverxxx.com,国外
   - DOMAIN-SUFFIX,drivevideo.xyz,国外
   - DOMAIN-SUFFIX,driving.co.uk,国外
@@ -19741,6 +19750,9 @@ rules:
   - DOMAIN-SUFFIX,enterprisessl.com,国外
   - DOMAIN-SUFFIX,entrust.com,国外
   - DOMAIN-SUFFIX,entrustdatacard.com,国外
+  - DOMAIN-SUFFIX,envato-static.com,国外
+  - DOMAIN-SUFFIX,envato.com,国外
+  - DOMAIN-SUFFIX,envatousercontent.com,国外
   - DOMAIN-SUFFIX,enveast.ac.uk,国外
   - DOMAIN-SUFFIX,environment-health.ac.uk,国外
   - DOMAIN-SUFFIX,eotarchive.org,国外
@@ -21859,6 +21871,7 @@ rules:
   - DOMAIN-SUFFIX,gog-statics.com,国外
   - DOMAIN-SUFFIX,gog.com,国外
   - DOMAIN-SUFFIX,gogeo.ac.uk,国外
+  - DOMAIN-SUFFIX,gogettaxi.org,国外
   - DOMAIN-SUFFIX,gogle.com,国外
   - DOMAIN-SUFFIX,gogo-load.com,国外
   - DOMAIN-SUFFIX,gogoanime.vc,国外
@@ -22209,6 +22222,7 @@ rules:
   - DOMAIN-SUFFIX,gotporn.com,国外
   - DOMAIN-SUFFIX,gotraffic.net,国外
   - DOMAIN-SUFFIX,gouhuo.qq.com,国外
+  - DOMAIN-SUFFIX,goup.ai,国外
   - DOMAIN-SUFFIX,gouri.xyz,国外
   - DOMAIN-SUFFIX,governmentengineer.com,国外
   - DOMAIN-SUFFIX,govforce.com,国外
@@ -22523,6 +22537,7 @@ rules:
   - DOMAIN-SUFFIX,haydaygame.com,国外
   - DOMAIN-SUFFIX,hayle.ac.uk,国外
   - DOMAIN-SUFFIX,haywardsheath.ac.uk,国外
+  - DOMAIN-SUFFIX,hayya.ae,国外
   - DOMAIN-SUFFIX,hbabit.com,国外
   - DOMAIN-SUFFIX,hbfile.net,国外
   - DOMAIN-SUFFIX,hbo-europe.com,国外
@@ -24991,6 +25006,21 @@ rules:
   - DOMAIN-SUFFIX,jiuse904.com,国外
   - DOMAIN-SUFFIX,jiuse905.com,国外
   - DOMAIN-SUFFIX,jiuzhouyihuo.com,国外
+  - DOMAIN-SUFFIX,jivo.chat,国外
+  - DOMAIN-SUFFIX,jivo.ru,国外
+  - DOMAIN-SUFFIX,jivochat.co.in,国外
+  - DOMAIN-SUFFIX,jivochat.co.za,国外
+  - DOMAIN-SUFFIX,jivochat.com,国外
+  - DOMAIN-SUFFIX,jivochat.com.br,国外
+  - DOMAIN-SUFFIX,jivochat.com.co,国外
+  - DOMAIN-SUFFIX,jivochat.com.pe,国外
+  - DOMAIN-SUFFIX,jivochat.com.tr,国外
+  - DOMAIN-SUFFIX,jivochat.de,国外
+  - DOMAIN-SUFFIX,jivochat.es,国外
+  - DOMAIN-SUFFIX,jivochat.ng,国外
+  - DOMAIN-SUFFIX,jivochat.ru,国外
+  - DOMAIN-SUFFIX,jivosite.com,国外
+  - DOMAIN-SUFFIX,jivosite.ru,国外
   - DOMAIN-SUFFIX,jiyou520.com,国外
   - DOMAIN-SUFFIX,jiyu-kobo.co.jp,国外
   - DOMAIN-SUFFIX,jizzboom.com,国外
@@ -27853,6 +27883,7 @@ rules:
   - DOMAIN-SUFFIX,my-enema.com,国外
   - DOMAIN-SUFFIX,my-kualalumpur-1.myhuaweicloud.com,国外
   - DOMAIN-SUFFIX,my-magazine.me,国外
+  - DOMAIN-SUFFIX,my-manager-account.com,国外
   - DOMAIN-SUFFIX,my.weibo.com,国外
   - DOMAIN-SUFFIX,my13la.com,国外
   - DOMAIN-SUFFIX,my1stflame.com,国外
@@ -33850,6 +33881,7 @@ rules:
   - DOMAIN-SUFFIX,supjav.com,国外
   - DOMAIN-SUFFIX,supply-chain.ac.uk,国外
   - DOMAIN-SUFFIX,supplybestjerseys.com,国外
+  - DOMAIN-SUFFIX,support-uber.com,国外
   - DOMAIN-SUFFIX,supportfacebook.com,国外
   - DOMAIN-SUFFIX,supremacy.com,国外
   - DOMAIN-SUFFIX,supremacy.net,国外
@@ -34105,7 +34137,10 @@ rules:
   - DOMAIN-SUFFIX,tawny-peaks.com,国外
   - DOMAIN-SUFFIX,taxel.media,国外
   - DOMAIN-SUFFIX,taxi69.com,国外
+  - DOMAIN-SUFFIX,taxiaid.org,国外
   - DOMAIN-SUFFIX,taxidrivermovie.com,国外
+  - DOMAIN-SUFFIX,taxiguru.org,国外
+  - DOMAIN-SUFFIX,taxitax.org,国外
   - DOMAIN-SUFFIX,tay.ac.uk,国外
   - DOMAIN-SUFFIX,taylorandfrancis.com,国外
   - DOMAIN-SUFFIX,taylorfrancis.com,国外
@@ -34399,6 +34434,7 @@ rules:
   - DOMAIN-SUFFIX,themanchestercollege.ac.uk,国外
   - DOMAIN-SUFFIX,themarvelexperiencetour.com,国外
   - DOMAIN-SUFFIX,themathsfactor.com,国外
+  - DOMAIN-SUFFIX,themeforest.net,国外
   - DOMAIN-SUFFIX,themercury.com.au,国外
   - DOMAIN-SUFFIX,themessengeradelaide.com.au,国外
   - DOMAIN-SUFFIX,themilfmovies.com,国外
@@ -35451,6 +35487,7 @@ rules:
   - DOMAIN-SUFFIX,uwtsdlondon.ac.uk,国外
   - DOMAIN-SUFFIX,uxbridge.ac.uk,国外
   - DOMAIN-SUFFIX,uxbridgecollege.ac.uk,国外
+  - DOMAIN-SUFFIX,uxthemes.com,国外
   - DOMAIN-SUFFIX,uxxxporn.com,国外
   - DOMAIN-SUFFIX,uyghurcanadian.ca,国外
   - DOMAIN-SUFFIX,v-av.com,国外
@@ -37605,9 +37642,23 @@ rules:
   - DOMAIN-SUFFIX,yandexadexchange.net,国外
   - DOMAIN-SUFFIX,yandexcloud.net,国外
   - DOMAIN-SUFFIX,yandexcom.net,国外
+  - DOMAIN-SUFFIX,yandexgo.com,国外
   - DOMAIN-SUFFIX,yandexlyceum.ru,国外
   - DOMAIN-SUFFIX,yandexwebcache.net,国外
   - DOMAIN-SUFFIX,yandexwebcache.org,国外
+  - DOMAIN-SUFFIX,yango-b2b.com,国外
+  - DOMAIN-SUFFIX,yango-team.com,国外
+  - DOMAIN-SUFFIX,yango-tech.com,国外
+  - DOMAIN-SUFFIX,yango.africa,国外
+  - DOMAIN-SUFFIX,yango.ao,国外
+  - DOMAIN-SUFFIX,yango.bh,国外
+  - DOMAIN-SUFFIX,yango.co.il,国外
+  - DOMAIN-SUFFIX,yango.com,国外
+  - DOMAIN-SUFFIX,yango.fi,国外
+  - DOMAIN-SUFFIX,yango.qa,国外
+  - DOMAIN-SUFFIX,yango.taxi,国外
+  - DOMAIN-SUFFIX,yango.tech,国外
+  - DOMAIN-SUFFIX,yangofellowship.com,国外
   - DOMAIN-SUFFIX,yaohubaba.com,国外
   - DOMAIN-SUFFIX,yaoimangaonline.com,国外
   - DOMAIN-SUFFIX,yaoiotaku.com,国外
@@ -38504,10 +38555,10 @@ rules:
   - DOMAIN-SUFFIX,animecrazy.net,国外
   - DOMAIN-SUFFIX,animeshippuuden.com,国外
   - DOMAIN-SUFFIX,aniscartujo.com,国外
-  - DOMAIN-SUFFIX,annas-archive.in,国外
-  - DOMAIN-SUFFIX,annas-archive.li,国外
+  - DOMAIN-SUFFIX,annas-archive.gd,国外
+  - DOMAIN-SUFFIX,annas-archive.gl,国外
   - DOMAIN-SUFFIX,annas-archive.org,国外
-  - DOMAIN-SUFFIX,annas-archive.pm,国外
+  - DOMAIN-SUFFIX,annas-archive.pk,国外
   - DOMAIN-SUFFIX,annas-archive.se,国外
   - DOMAIN-SUFFIX,annatam.com,国外
   - DOMAIN-SUFFIX,anobii.com,国外
