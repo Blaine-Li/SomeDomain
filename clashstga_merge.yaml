@@ -11754,8 +11754,8 @@ rules:
   - DOMAIN-SUFFIX,2gis.kg,国外
   - DOMAIN-SUFFIX,2gis.kz,国外
   - DOMAIN-SUFFIX,2gis.ru,国外
+  - DOMAIN-SUFFIX,2gis.tech,国外
   - DOMAIN-SUFFIX,2gis.tj,国外
-  - DOMAIN-SUFFIX,2gis.ua,国外
   - DOMAIN-SUFFIX,2gis.uz,国外
   - DOMAIN-SUFFIX,2k.com,国外
   - DOMAIN-SUFFIX,2kcoretech.online,国外
@@ -13889,6 +13889,7 @@ rules:
   - DOMAIN-SUFFIX,asuscloud.com,国外
   - DOMAIN-SUFFIX,asuswebstorage.com,国外
   - DOMAIN-SUFFIX,asvin.ac.uk,国外
+  - DOMAIN-SUFFIX,at.ua,国外
   - DOMAIN-SUFFIX,atandt.com,国外
   - DOMAIN-SUFFIX,atasale.com,国外
   - DOMAIN-SUFFIX,atdmt2.com,国外
@@ -13922,6 +13923,7 @@ rules:
   - DOMAIN-SUFFIX,att.jobs,国外
   - DOMAIN-SUFFIX,att.net,国外
   - DOMAIN-SUFFIX,att.tv,国外
+  - DOMAIN-SUFFIX,attachmail.ru,国外
   - DOMAIN-SUFFIX,attachmy.com,国外
   - DOMAIN-SUFFIX,attackers.net,国外
   - DOMAIN-SUFFIX,attalascom.com,国外
@@ -14840,6 +14842,8 @@ rules:
   - DOMAIN-SUFFIX,beforeigners.com,国外
   - DOMAIN-SUFFIX,befuck.com,国外
   - DOMAIN-SUFFIX,befuck.net,国外
+  - DOMAIN-SUFFIX,beget.com,国外
+  - DOMAIN-SUFFIX,beget.ru,国外
   - DOMAIN-SUFFIX,begin-trade.com,国外
   - DOMAIN-SUFFIX,behaviour4learning.ac.uk,国外
   - DOMAIN-SUFFIX,behavioural-science.ac.uk,国外
@@ -21725,6 +21729,7 @@ rules:
   - DOMAIN-SUFFIX,ghostgames.com,国外
   - DOMAIN-SUFFIX,ghtv666.top,国外
   - DOMAIN-SUFFIX,giantessbooru.com,国外
+  - DOMAIN-SUFFIX,gid.ru,国外
   - DOMAIN-SUFFIX,giffgaff.com,国外
   - DOMAIN-SUFFIX,giffgaff.design,国外
   - DOMAIN-SUFFIX,gifnuki.com,国外
@@ -29539,6 +29544,7 @@ rules:
   - DOMAIN-SUFFIX,okkisokuho.com,国外
   - DOMAIN-SUFFIX,okko.sport,国外
   - DOMAIN-SUFFIX,okko.tv,国外
+  - DOMAIN-SUFFIX,okkoapi.tv,国外
   - DOMAIN-SUFFIX,okl.lt,国外
   - DOMAIN-SUFFIX,oktech.ru,国外
   - DOMAIN-SUFFIX,okx-dns.com,国外
@@ -31172,6 +31178,7 @@ rules:
   - DOMAIN-SUFFIX,projectshoreline.com,国外
   - DOMAIN-SUFFIX,projectvasari.com,国外
   - DOMAIN-SUFFIX,projectvoyeur.com,国外
+  - DOMAIN-SUFFIX,promodj.com,国外
   - DOMAIN-SUFFIX,promonsterbeatsbydre.com,国外
   - DOMAIN-SUFFIX,promotingpartnership.ac.uk,国外
   - DOMAIN-SUFFIX,proms.ac.uk,国外
@@ -32526,6 +32533,7 @@ rules:
   - DOMAIN-SUFFIX,screenwisetrendspanel.com,国外
   - DOMAIN-SUFFIX,screw-my-wife.com,国外
   - DOMAIN-SUFFIX,scri.ac.uk,国外
+  - DOMAIN-SUFFIX,scripts-for-ucoz.ru,国外
   - DOMAIN-SUFFIX,scrolla.ac.uk,国外
   - DOMAIN-SUFFIX,scrolller.com,国外
   - DOMAIN-SUFFIX,scrr.ac.uk,国外
@@ -34913,6 +34921,8 @@ rules:
   - DOMAIN-SUFFIX,timelinestoryteller.com,国外
   - DOMAIN-SUFFIX,timesmembership.com,国外
   - DOMAIN-SUFFIX,timestalks.com,国外
+  - DOMAIN-SUFFIX,timeweb.cloud,国外
+  - DOMAIN-SUFFIX,timeweb.com,国外
   - DOMAIN-SUFFIX,timi1.me,国外
   - DOMAIN-SUFFIX,timo0.com,国外
   - DOMAIN-SUFFIX,ting53.xyz,国外
@@ -35347,6 +35357,7 @@ rules:
   - DOMAIN-SUFFIX,twavking.com,国外
   - DOMAIN-SUFFIX,twca.com.tw,国外
   - DOMAIN-SUFFIX,twcomix.com,国外
+  - DOMAIN-SUFFIX,twcstorage.ru,国外
   - DOMAIN-SUFFIX,tweakadmin.com,国外
   - DOMAIN-SUFFIX,tweakfilms.com,国外
   - DOMAIN-SUFFIX,tweaksoftware.com,国外
@@ -35479,6 +35490,30 @@ rules:
   - DOMAIN-SUFFIX,ucn.ac.uk,国外
   - DOMAIN-SUFFIX,ucnl.ac.uk,国外
   - DOMAIN-SUFFIX,uco.ac.uk,国外
+  - DOMAIN-SUFFIX,ucoz.ae,国外
+  - DOMAIN-SUFFIX,ucoz.club,国外
+  - DOMAIN-SUFFIX,ucoz.co,国外
+  - DOMAIN-SUFFIX,ucoz.co.il,国外
+  - DOMAIN-SUFFIX,ucoz.co.uk,国外
+  - DOMAIN-SUFFIX,ucoz.com,国外
+  - DOMAIN-SUFFIX,ucoz.com.br,国外
+  - DOMAIN-SUFFIX,ucoz.com.ro,国外
+  - DOMAIN-SUFFIX,ucoz.de,国外
+  - DOMAIN-SUFFIX,ucoz.es,国外
+  - DOMAIN-SUFFIX,ucoz.fr,国外
+  - DOMAIN-SUFFIX,ucoz.hu,国外
+  - DOMAIN-SUFFIX,ucoz.kz,国外
+  - DOMAIN-SUFFIX,ucoz.lv,国外
+  - DOMAIN-SUFFIX,ucoz.md,国外
+  - DOMAIN-SUFFIX,ucoz.net,国外
+  - DOMAIN-SUFFIX,ucoz.org,国外
+  - DOMAIN-SUFFIX,ucoz.pl,国外
+  - DOMAIN-SUFFIX,ucoz.ru,国外
+  - DOMAIN-SUFFIX,ucoz.site,国外
+  - DOMAIN-SUFFIX,ucoz.ua,国外
+  - DOMAIN-SUFFIX,ucozmedia.com,国外
+  - DOMAIN-SUFFIX,ucozmedia.ru,国外
+  - DOMAIN-SUFFIX,ucoztemplates.com,国外
   - DOMAIN-SUFFIX,ucp.ac.uk,国外
   - DOMAIN-SUFFIX,ucpmarjon.ac.uk,国外
   - DOMAIN-SUFFIX,ucq.ac.uk,国外
@@ -35511,6 +35546,7 @@ rules:
   - DOMAIN-SUFFIX,uetcollege.ac.uk,国外
   - DOMAIN-SUFFIX,uflash.tv,国外
   - DOMAIN-SUFFIX,ufm.ac.uk,国外
+  - DOMAIN-SUFFIX,uguide.ru,国外
   - DOMAIN-SUFFIX,uguisupapa.net,国外
   - DOMAIN-SUFFIX,uhairy.com,国外
   - DOMAIN-SUFFIX,uhi.ac.uk,国外
@@ -35571,6 +35607,10 @@ rules:
   - DOMAIN-SUFFIX,ukimr.ac.uk,国外
   - DOMAIN-SUFFIX,ukipad.com,国外
   - DOMAIN-SUFFIX,ukirc.ac.uk,国外
+  - DOMAIN-SUFFIX,ukit.ai,国外
+  - DOMAIN-SUFFIX,ukit.com,国外
+  - DOMAIN-SUFFIX,ukit.group,国外
+  - DOMAIN-SUFFIX,ukit.me,国外
   - DOMAIN-SUFFIX,uklibrariesplus.ac.uk,国外
   - DOMAIN-SUFFIX,uklight.ac.uk,国外
   - DOMAIN-SUFFIX,ukm.ac.uk,国外
@@ -35618,6 +35658,7 @@ rules:
   - DOMAIN-SUFFIX,ultralab.ac.uk,国外
   - DOMAIN-SUFFIX,ultrasrv.de,国外
   - DOMAIN-SUFFIX,ultrayoungsex.com,国外
+  - DOMAIN-SUFFIX,uma.media,国外
   - DOMAIN-SUFFIX,umagazine.com.hk,国外
   - DOMAIN-SUFFIX,umass.edu,国外
   - DOMAIN-SUFFIX,umbrella.com,国外
@@ -37538,6 +37579,7 @@ rules:
   - DOMAIN-SUFFIX,xlovecam.com,国外
   - DOMAIN-SUFFIX,xlstudio.com,国外
   - DOMAIN-SUFFIX,xlydh.cc,国外
+  - DOMAIN-SUFFIX,xmail.ru,国外
   - DOMAIN-SUFFIX,xmalay.com,国外
   - DOMAIN-SUFFIX,xmas.ac.uk,国外
   - DOMAIN-SUFFIX,xmat.ac.uk,国外
@@ -39156,6 +39198,7 @@ rules:
   - DOMAIN-SUFFIX,avg.com,国外
   - DOMAIN-SUFFIX,avgle.com,国外
   - DOMAIN-SUFFIX,avidemux.org,国外
+  - DOMAIN-SUFFIX,avistaz.to,国外
   - DOMAIN-SUFFIX,avmo.pw,国外
   - DOMAIN-SUFFIX,avmoo.com,国外
   - DOMAIN-SUFFIX,avmoo.net,国外
