@@ -12272,6 +12272,7 @@ rules:
   - DOMAIN-SUFFIX,adguard.info,国外
   - DOMAIN-SUFFIX,adguard.io,国外
   - DOMAIN-SUFFIX,adguardaccount.com,国外
+  - DOMAIN-SUFFIX,adguardcdn.com,国外
   - DOMAIN-SUFFIX,adguardvpn.com,国外
   - DOMAIN-SUFFIX,adhelpnews.com,国外
   - DOMAIN-SUFFIX,adidas-archive.org,国外
@@ -27499,6 +27500,7 @@ rules:
   - DOMAIN-SUFFIX,minim.ac.uk,国外
   - DOMAIN-SUFFIX,minimarkham.ca,国外
   - DOMAIN-SUFFIX,minimarkham.com,国外
+  - DOMAIN-SUFFIX,minimax.io,国外
   - DOMAIN-SUFFIX,minimoncton.ca,国外
   - DOMAIN-SUFFIX,minimoncton.com,国外
   - DOMAIN-SUFFIX,minimontrealcentre.ca,国外
@@ -32480,6 +32482,7 @@ rules:
   - DOMAIN-SUFFIX,scope-uk.ac.uk,国外
   - DOMAIN-SUFFIX,scopic.ac.uk,国外
   - DOMAIN-SUFFIX,score.ac.uk,国外
+  - DOMAIN-SUFFIX,scorecardresearch.com,国外
   - DOMAIN-SUFFIX,scoreclassics.com,国外
   - DOMAIN-SUFFIX,scorediscounts.club,国外
   - DOMAIN-SUFFIX,scoregroup.com,国外
