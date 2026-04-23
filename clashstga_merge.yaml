@@ -17758,6 +17758,7 @@ rules:
   - DOMAIN-SUFFIX,crest.ac.uk,国外
   - DOMAIN-SUFFIX,crestresearch.ac.uk,国外
   - DOMAIN-SUFFIX,crew.ac.uk,国外
+  - DOMAIN-SUFFIX,crewai.com,国外
   - DOMAIN-SUFFIX,crfr.ac.uk,国外
   - DOMAIN-SUFFIX,crh.ac.uk,国外
   - DOMAIN-SUFFIX,cri.ac.uk,国外
@@ -24157,6 +24158,7 @@ rules:
   - DOMAIN-SUFFIX,imstagram.com,国外
   - DOMAIN-SUFFIX,imt.ac.uk,国外
   - DOMAIN-SUFFIX,imtagram.com,国外
+  - DOMAIN-SUFFIX,imtintl.com,国外
   - DOMAIN-SUFFIX,imzog.com,国外
   - DOMAIN-SUFFIX,inaporn.com,国外
   - DOMAIN-SUFFIX,inasian.club,国外
@@ -25741,6 +25743,7 @@ rules:
   - DOMAIN-SUFFIX,landmap.ac.uk,国外
   - DOMAIN-SUFFIX,landmarks.ac.uk,国外
   - DOMAIN-SUFFIX,landscape.ac.uk,国外
+  - DOMAIN-SUFFIX,langchain.com,国外
   - DOMAIN-SUFFIX,langdoncollege.ac.uk,国外
   - DOMAIN-SUFFIX,langpol.ac.uk,国外
   - DOMAIN-SUFFIX,langside.ac.uk,国外
@@ -25752,7 +25755,6 @@ rules:
   - DOMAIN-SUFFIX,lanik.us,国外
   - DOMAIN-SUFFIX,lanmdh.net,国外
   - DOMAIN-SUFFIX,lanniser-ylo.shop,国外
-  - DOMAIN-SUFFIX,lantern.io,国外
   - DOMAIN-SUFFIX,lanternal.com,国外
   - DOMAIN-SUFFIX,laosijifuli9009.top,国外
   - DOMAIN-SUFFIX,laowang.vip,国外
@@ -26172,6 +26174,7 @@ rules:
   - DOMAIN-SUFFIX,lmmbtc.com,国外
   - DOMAIN-SUFFIX,lms.ac.uk,国外
   - DOMAIN-SUFFIX,lms01.com,国外
+  - DOMAIN-SUFFIX,lmstudio.ai,国外
   - DOMAIN-SUFFIX,lmu.ac.uk,国外
   - DOMAIN-SUFFIX,lnat.ac.uk,国外
   - DOMAIN-SUFFIX,lncn.org,国外
@@ -29573,6 +29576,7 @@ rules:
   - DOMAIN-SUFFIX,olf.ac.uk,国外
   - DOMAIN-SUFFIX,oli-school.com,国外
   - DOMAIN-SUFFIX,oli.ac.uk,国外
+  - DOMAIN-SUFFIX,ollama.com,国外
   - DOMAIN-SUFFIX,omafotze.com,国外
   - DOMAIN-SUFFIX,omagh.ac.uk,国外
   - DOMAIN-SUFFIX,omaghcollege.ac.uk,国外
@@ -31956,7 +31960,6 @@ rules:
   - DOMAIN-SUFFIX,roblox.cl,国外
   - DOMAIN-SUFFIX,roblox.co.jp,国外
   - DOMAIN-SUFFIX,roblox.co.uk,国外
-  - DOMAIN-SUFFIX,roblox.com,国外
   - DOMAIN-SUFFIX,roblox.de,国外
   - DOMAIN-SUFFIX,roblox.dk,国外
   - DOMAIN-SUFFIX,roblox.eu,国外
@@ -39163,6 +39166,7 @@ rules:
   - DOMAIN-SUFFIX,asianspiss.com,国外
   - DOMAIN-SUFFIX,asianwomensfilm.de,国外
   - DOMAIN-SUFFIX,asiaone.com,国外
+  - DOMAIN-SUFFIX,asiasociety.org,国外
   - DOMAIN-SUFFIX,asiatgp.com,国外
   - DOMAIN-SUFFIX,asiatoday.us,国外
   - DOMAIN-SUFFIX,ask.com,国外
@@ -39305,6 +39309,7 @@ rules:
   - DOMAIN-SUFFIX,beijingzx.org,国外
   - DOMAIN-SUFFIX,belamionline.com,国外
   - DOMAIN-SUFFIX,bell.wiki,国外
+  - DOMAIN-SUFFIX,bellingcat.com,国外
   - DOMAIN-SUFFIX,bemywife.cc,国外
   - DOMAIN-SUFFIX,beric.me,国外
   - DOMAIN-SUFFIX,berlinerbericht.de,国外
@@ -41862,6 +41867,7 @@ rules:
   - DOMAIN-SUFFIX,lamnia.co.uk,国外
   - DOMAIN-SUFFIX,lamrim.com,国外
   - DOMAIN-SUFFIX,landofhope.tv,国外
+  - DOMAIN-SUFFIX,lantern.io,国外
   - DOMAIN-SUFFIX,lantosfoundation.org,国外
   - DOMAIN-SUFFIX,laogai.org,国外
   - DOMAIN-SUFFIX,laogairesearch.org,国外
@@ -43221,6 +43227,7 @@ rules:
   - DOMAIN-SUFFIX,rateyourmusic.com,国外
   - DOMAIN-SUFFIX,rationalwiki.org,国外
   - DOMAIN-SUFFIX,rawgit.com,国外
+  - DOMAIN-SUFFIX,rawstory.com,国外
   - DOMAIN-SUFFIX,razyboard.com,国外
   - DOMAIN-SUFFIX,rcinet.ca,国外
   - DOMAIN-SUFFIX,rd.com,国外
@@ -43239,6 +43246,7 @@ rules:
   - DOMAIN-SUFFIX,reason.com,国外
   - DOMAIN-SUFFIX,rebatesrule.net,国外
   - DOMAIN-SUFFIX,recaptcha.net,国外
+  - DOMAIN-SUFFIX,recordedfuture.com,国外
   - DOMAIN-SUFFIX,recordhistory.org,国外
   - DOMAIN-SUFFIX,recovery.org.tw,国外
   - DOMAIN-SUFFIX,recoveryversion.com.tw,国外
@@ -43302,6 +43310,7 @@ rules:
   - DOMAIN-SUFFIX,rmjdw.com,国外
   - DOMAIN-SUFFIX,rmjdw132.info,国外
   - DOMAIN-SUFFIX,roadshow.hk,国外
+  - DOMAIN-SUFFIX,roblox.com,国外
   - DOMAIN-SUFFIX,roboforex.com,国外
   - DOMAIN-SUFFIX,robustnessiskey.com,国外
   - DOMAIN-SUFFIX,rocket-inc.net,国外
@@ -44034,6 +44043,7 @@ rules:
   - DOMAIN-SUFFIX,thewgo.org,国外
   - DOMAIN-SUFFIX,thewirechina.com,国外
   - DOMAIN-SUFFIX,theync.com,国外
+  - DOMAIN-SUFFIX,thinkchina.sg,国外
   - DOMAIN-SUFFIX,thinkgeek.com,国外
   - DOMAIN-SUFFIX,thinkingtaiwan.com,国外
   - DOMAIN-SUFFIX,thirdmill.org,国外
