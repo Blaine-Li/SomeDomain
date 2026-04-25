@@ -12538,6 +12538,7 @@ rules:
   - DOMAIN-SUFFIX,agemys.org,国外
   - DOMAIN-SUFFIX,agendaweek.com,国外
   - DOMAIN-SUFFIX,agenet.ac.uk,国外
+  - DOMAIN-SUFFIX,agentclientprotocol.com,国外
   - DOMAIN-SUFFIX,agilebits.com,国外
   - DOMAIN-SUFFIX,agocg.ac.uk,国外
   - DOMAIN-SUFFIX,agoogleaday.com,国外
@@ -30509,6 +30510,7 @@ rules:
   - DOMAIN-SUFFIX,placesdocs.com,国外
   - DOMAIN-SUFFIX,planetminecraft.com,国外
   - DOMAIN-SUFFIX,planetsuzy.org,国外
+  - DOMAIN-SUFFIX,plannotator.ai,国外
   - DOMAIN-SUFFIX,plansondemand.com,国外
   - DOMAIN-SUFFIX,plant-phenomics.ac.uk,国外
   - DOMAIN-SUFFIX,plantsvszombies2.com,国外
@@ -35384,6 +35386,7 @@ rules:
   - DOMAIN-SUFFIX,twirl.ac.uk,国外
   - DOMAIN-SUFFIX,twistedlinks.net,国外
   - DOMAIN-SUFFIX,twistys.com,国外
+  - DOMAIN-SUFFIX,twitchcon.com,国外
   - DOMAIN-SUFFIX,twitchsvc.net,国外
   - DOMAIN-SUFFIX,twitcomike.jp,国外
   - DOMAIN-SUFFIX,twitter.biz,国外
@@ -43952,6 +43955,7 @@ rules:
   - DOMAIN-SUFFIX,teachparentstech.org,国外
   - DOMAIN-SUFFIX,teamamericany.com,国外
   - DOMAIN-SUFFIX,teamviewer.com,国外
+  - DOMAIN-SUFFIX,techbang.com,国外
   - DOMAIN-SUFFIX,techcrunch.com,国外
   - DOMAIN-SUFFIX,technews.tw,国外
   - DOMAIN-SUFFIX,technorati.com,国外
