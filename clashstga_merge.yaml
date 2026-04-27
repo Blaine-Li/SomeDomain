@@ -23473,6 +23473,7 @@ rules:
   - DOMAIN-SUFFIX,hrsaz.com,国外
   - DOMAIN-SUFFIX,hrsfc.ac.uk,国外
   - DOMAIN-SUFFIX,hrtek.ru,国外
+  - DOMAIN-SUFFIX,hrtsea.com,国外
   - DOMAIN-SUFFIX,hsad.ac.uk,国外
   - DOMAIN-SUFFIX,hsbc-alternatives.de,国外
   - DOMAIN-SUFFIX,hsbc-transactionservices.de,国外
@@ -37760,6 +37761,7 @@ rules:
   - DOMAIN-SUFFIX,xtracloud.net,国外
   - DOMAIN-SUFFIX,xtubebdsm.com,国外
   - DOMAIN-SUFFIX,xtubezoo.com,国外
+  - DOMAIN-SUFFIX,xu97.vip,国外
   - DOMAIN-SUFFIX,xujan.com,国外
   - DOMAIN-SUFFIX,xuxaverso.com.br,国外
   - DOMAIN-SUFFIX,xv-ru.com,国外
