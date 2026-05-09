@@ -36628,6 +36628,7 @@ rules:
   - DOMAIN-SUFFIX,vodafone.com.tr,国外
   - DOMAIN-SUFFIX,vodafone.de,国外
   - DOMAIN-SUFFIX,vodafone.it,国外
+  - DOMAIN-SUFFIX,vodafone.nl,国外
   - DOMAIN-SUFFIX,voila.ac.uk,国外
   - DOMAIN-SUFFIX,vokevr.com,国外
   - DOMAIN-SUFFIX,vol.moe,国外
@@ -44610,6 +44611,7 @@ rules:
   - DOMAIN-SUFFIX,ultravpn.fr,国外
   - DOMAIN-SUFFIX,ultraxs.com,国外
   - DOMAIN-SUFFIX,ulyssesapp.com,国外
+  - DOMAIN-SUFFIX,umap.openstreetmap.fr,国外
   - DOMAIN-SUFFIX,umich.edu,国外
   - DOMAIN-SUFFIX,unblock-us.com,国外
   - DOMAIN-SUFFIX,unblockdmm.com,国外
