@@ -25793,6 +25793,7 @@ rules:
   - DOMAIN-SUFFIX,kumagai.com,国外
   - DOMAIN-SUFFIX,kumapon.jp,国外
   - DOMAIN-SUFFIX,kumo.com,国外
+  - DOMAIN-SUFFIX,kun66.xyz,国外
   - DOMAIN-SUFFIX,kundun1069.com,国外
   - DOMAIN-SUFFIX,kuper.ru,国外
   - DOMAIN-SUFFIX,kusugurizanmai.com,国外
@@ -39999,6 +40000,7 @@ rules:
   - DOMAIN-SUFFIX,chinman.net,国外
   - DOMAIN-SUFFIX,chithu.org,国外
   - DOMAIN-SUFFIX,chobit.cc,国外
+  - DOMAIN-SUFFIX,chonglangtv.org,国外
   - DOMAIN-SUFFIX,chosun.com,国外
   - DOMAIN-SUFFIX,chrdnet.com,国外
   - DOMAIN-SUFFIX,christianfreedom.org,国外
