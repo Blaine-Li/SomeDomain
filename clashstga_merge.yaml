@@ -13731,6 +13731,7 @@ rules:
   - DOMAIN-SUFFIX,archivx.to,国外
   - DOMAIN-SUFFIX,archlinux.de,国外
   - DOMAIN-SUFFIX,archlinux.org,国外
+  - DOMAIN-SUFFIX,archlinux.page,国外
   - DOMAIN-SUFFIX,archlinuxarm.org,国外
   - DOMAIN-SUFFIX,archlinuxcn.org,国外
   - DOMAIN-SUFFIX,archway.ac.uk,国外
@@ -32059,6 +32060,7 @@ rules:
   - DOMAIN-SUFFIX,riding.ac.uk,国外
   - DOMAIN-SUFFIX,right-2.ac.uk,国外
   - DOMAIN-SUFFIX,rightster.com,国外
+  - DOMAIN-SUFFIX,rigums.xyz,国外
   - DOMAIN-SUFFIX,rimg.com.tw,国外
   - DOMAIN-SUFFIX,rin.ac.uk,国外
   - DOMAIN-SUFFIX,rinvdh7.xyz,国外
@@ -33081,6 +33083,7 @@ rules:
   - DOMAIN-SUFFIX,sgsss.ac.uk,国外
   - DOMAIN-SUFFIX,sgul.ac.uk,国外
   - DOMAIN-SUFFIX,sh-xuxingda.com,国外
+  - DOMAIN-SUFFIX,sh83.xyz,国外
   - DOMAIN-SUFFIX,shadbase.com,国外
   - DOMAIN-SUFFIX,shadowcomplex.com,国外
   - DOMAIN-SUFFIX,shadowslaves.com,国外
@@ -36956,6 +36959,7 @@ rules:
   - DOMAIN-SUFFIX,vuasanhrong.com,国外
   - DOMAIN-SUFFIX,vulgarx.com,国外
   - DOMAIN-SUFFIX,vuvuzela.io,国外
+  - DOMAIN-SUFFIX,vv1865.com,国外
   - DOMAIN-SUFFIX,vxnbbrs.xyz,国外
   - DOMAIN-SUFFIX,vxxsred.xyz,国外
   - DOMAIN-SUFFIX,w-mt.co,国外
