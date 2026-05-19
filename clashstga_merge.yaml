@@ -11894,6 +11894,7 @@ rules:
   - DOMAIN-SUFFIX,55dndn.com,国外
   - DOMAIN-SUFFIX,567321.online,国外
   - DOMAIN-SUFFIX,568xe.com,国外
+  - DOMAIN-SUFFIX,573.jp,国外
   - DOMAIN-SUFFIX,58avgo.com,国外
   - DOMAIN-SUFFIX,592r.com,国外
   - DOMAIN-SUFFIX,59mvmv.com,国外
@@ -25603,6 +25604,7 @@ rules:
   - DOMAIN-SUFFIX,keytransparency.foo,国外
   - DOMAIN-SUFFIX,keytransparency.org,国外
   - DOMAIN-SUFFIX,kfs.io,国外
+  - DOMAIN-SUFFIX,kgisystems.com,国外
   - DOMAIN-SUFFIX,kgslb.com,国外
   - DOMAIN-SUFFIX,kgv.ac.uk,国外
   - DOMAIN-SUFFIX,khanacademy.org,国外
@@ -25706,6 +25708,7 @@ rules:
   - DOMAIN-SUFFIX,kissjav.li,国外
   - DOMAIN-SUFFIX,kitakyushubank.co.jp,国外
   - DOMAIN-SUFFIX,kitts.ac.uk,国外
+  - DOMAIN-SUFFIX,kiwi.jp,国外
   - DOMAIN-SUFFIX,kiwibrowser.com,国外
   - DOMAIN-SUFFIX,kiyobank.co.jp,国外
   - DOMAIN-SUFFIX,kk.stream,国外
@@ -25745,6 +25748,19 @@ rules:
   - DOMAIN-SUFFIX,kompoz2.com,国外
   - DOMAIN-SUFFIX,konachan.net,国外
   - DOMAIN-SUFFIX,konachan.wjcodes.com,国外
+  - DOMAIN-SUFFIX,konami-igaming.online,国外
+  - DOMAIN-SUFFIX,konami.co.jp,国外
+  - DOMAIN-SUFFIX,konami.com,国外
+  - DOMAIN-SUFFIX,konami.net,国外
+  - DOMAIN-SUFFIX,konami.org,国外
+  - DOMAIN-SUFFIX,konamicrossmedia.com,国外
+  - DOMAIN-SUFFIX,konamigaming.com,国外
+  - DOMAIN-SUFFIX,konamigaming.net,国外
+  - DOMAIN-SUFFIX,konamigaming.online,国外
+  - DOMAIN-SUFFIX,konamionline.com,国外
+  - DOMAIN-SUFFIX,konamiopen.jp,国外
+  - DOMAIN-SUFFIX,konamisportsclub.jp,国外
+  - DOMAIN-SUFFIX,konamistyle.jp,国外
   - DOMAIN-SUFFIX,kopfhorergunstigshop.com,国外
   - DOMAIN-SUFFIX,korbit.co.kr,国外
   - DOMAIN-SUFFIX,koreanpornmovie.com,国外
@@ -31989,6 +32005,8 @@ rules:
   - DOMAIN-SUFFIX,researchkit.tv,国外
   - DOMAIN-SUFFIX,researchscotland.ac.uk,国外
   - DOMAIN-SUFFIX,researchwales.ac.uk,国外
+  - DOMAIN-SUFFIX,resella.jp,国外
+  - DOMAIN-SUFFIX,resellablue.com,国外
   - DOMAIN-SUFFIX,resilient-decarbonised-energy-cdt.ac.uk,国外
   - DOMAIN-SUFFIX,resilient-decarbonised-energy-dtc.ac.uk,国外
   - DOMAIN-SUFFIX,resl.ac.uk,国外
@@ -38768,6 +38786,7 @@ rules:
   - DOMAIN-SUFFIX,ysx-mm.com,国外
   - DOMAIN-SUFFIX,yuenuge113.xyz,国外
   - DOMAIN-SUFFIX,yuenuge18.cc,国外
+  - DOMAIN-SUFFIX,yugioh-card.com,国外
   - DOMAIN-SUFFIX,yunlaopo.cc,国外
   - DOMAIN-SUFFIX,yunlaopo.com,国外
   - DOMAIN-SUFFIX,yunlaopo.net,国外
@@ -43778,6 +43797,7 @@ rules:
   - DOMAIN-SUFFIX,siddharthasintent.org,国外
   - DOMAIN-SUFFIX,sidelinesnews.com,国外
   - DOMAIN-SUFFIX,sidelinessportseatery.com,国外
+  - DOMAIN-SUFFIX,sider.ai,国外
   - DOMAIN-SUFFIX,sierrafriendsoftibet.org,国外
   - DOMAIN-SUFFIX,signal.org,国外
   - DOMAIN-SUFFIX,sijihuisuo.club,国外
@@ -45464,6 +45484,7 @@ rules:
   - DOMAIN-SUFFIX,zhanbin.net,国外
   - DOMAIN-SUFFIX,zhangboli.net,国外
   - DOMAIN-SUFFIX,zhangtianliang.com,国外
+  - DOMAIN-SUFFIX,zhangzhehan.net,国外
   - DOMAIN-SUFFIX,zhanlve.org,国外
   - DOMAIN-SUFFIX,zhenghui.org,国外
   - DOMAIN-SUFFIX,zhenlibu.info,国外
