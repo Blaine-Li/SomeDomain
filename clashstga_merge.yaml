@@ -12827,6 +12827,7 @@ rules:
   - DOMAIN-SUFFIX,alexa.com,国外
   - DOMAIN-SUFFIX,alexanderlondoncollege.ac.uk,国外
   - DOMAIN-SUFFIX,alexanderstreet.com,国外
+  - DOMAIN-SUFFIX,alfa.me,国外
   - DOMAIN-SUFFIX,alfabank.oavdo.amc,国外
   - DOMAIN-SUFFIX,alfabank.ru,国外
   - DOMAIN-SUFFIX,alfabank.st,国外
@@ -20235,7 +20236,6 @@ rules:
   - DOMAIN-SUFFIX,f6.ru,国外
   - DOMAIN-SUFFIX,f6.security,国外
   - DOMAIN-SUFFIX,f6988.com,国外
-  - DOMAIN-SUFFIX,f95zone.to,国外
   - DOMAIN-SUFFIX,fa.gov.tw,国外
   - DOMAIN-SUFFIX,faacebok.com,国外
   - DOMAIN-SUFFIX,faacebook.com,国外
@@ -23451,7 +23451,6 @@ rules:
   - DOMAIN-SUFFIX,hpcodewarsbcn.com,国外
   - DOMAIN-SUFFIX,hpcomputers.com,国外
   - DOMAIN-SUFFIX,hpcomputerservices.com,国外
-  - DOMAIN-SUFFIX,hpconnected.com,国外
   - DOMAIN-SUFFIX,hpconnected.net,国外
   - DOMAIN-SUFFIX,hpconnected.org,国外
   - DOMAIN-SUFFIX,hpconnected.us,国外
@@ -28038,9 +28037,11 @@ rules:
   - DOMAIN-SUFFIX,moxing.news,国外
   - DOMAIN-SUFFIX,moystoys.com,国外
   - DOMAIN-SUFFIX,mozgcp.net,国外
+  - DOMAIN-SUFFIX,mozilla.ai,国外
   - DOMAIN-SUFFIX,mozilla.com,国外
   - DOMAIN-SUFFIX,mozilla.community,国外
   - DOMAIN-SUFFIX,mozilla.net,国外
+  - DOMAIN-SUFFIX,mozillafoundation.org,国外
   - DOMAIN-SUFFIX,mp.world,国外
   - DOMAIN-SUFFIX,mpa-mpp.ac.uk,国外
   - DOMAIN-SUFFIX,mpa-uk.ac.uk,国外
@@ -28398,6 +28399,7 @@ rules:
   - DOMAIN-SUFFIX,myyoungmomisnude.com,国外
   - DOMAIN-SUFFIX,myyoungwifeisnude.com,国外
   - DOMAIN-SUFFIX,mzed.com,国外
+  - DOMAIN-SUFFIX,mzl.la,国外
   - DOMAIN-SUFFIX,n15zev3w.shop,国外
   - DOMAIN-SUFFIX,n26.com,国外
   - DOMAIN-SUFFIX,n3ro.lol,国外
@@ -34627,6 +34629,7 @@ rules:
   - DOMAIN-SUFFIX,taose.in,国外
   - DOMAIN-SUFFIX,tapb.ac.uk,国外
   - DOMAIN-SUFFIX,tapestry.ac.uk,国外
+  - DOMAIN-SUFFIX,tapnow.ai,国外
   - DOMAIN-SUFFIX,taptotokyo.com,国外
   - DOMAIN-SUFFIX,taqunuhai.vip,国外
   - DOMAIN-SUFFIX,taradinhos.com,国外
@@ -34687,6 +34690,8 @@ rules:
   - DOMAIN-SUFFIX,teachmyass.com,国外
   - DOMAIN-SUFFIX,teamneedforspeed.com,国外
   - DOMAIN-SUFFIX,teamskeet.com,国外
+  - DOMAIN-SUFFIX,teamspeak-services.com,国外
+  - DOMAIN-SUFFIX,teamspeak.com,国外
   - DOMAIN-SUFFIX,teamviewer.us,国外
   - DOMAIN-SUFFIX,teamwork.ac.uk,国外
   - DOMAIN-SUFFIX,tean.ac.uk,国外
@@ -40714,6 +40719,7 @@ rules:
   - DOMAIN-SUFFIX,f-droid.org,国外
   - DOMAIN-SUFFIX,f2pool.com,国外
   - DOMAIN-SUFFIX,f8.com,国外
+  - DOMAIN-SUFFIX,f95zone.to,国外
   - DOMAIN-SUFFIX,fabric.io,国外
   - DOMAIN-SUFFIX,faceless.me,国外
   - DOMAIN-SUFFIX,facesofnyfw.com,国外
@@ -41048,6 +41054,7 @@ rules:
   - DOMAIN-SUFFIX,fzlm.net,国外
   - DOMAIN-SUFFIX,g-area.org,国外
   - DOMAIN-SUFFIX,g-queen.com,国外
+  - DOMAIN-SUFFIX,g.ai,国外
   - DOMAIN-SUFFIX,g.co,国外
   - DOMAIN-SUFFIX,g.kfd.me,国外
   - DOMAIN-SUFFIX,g0v.social,国外
@@ -42153,6 +42160,7 @@ rules:
   - DOMAIN-SUFFIX,lematin.ch,国外
   - DOMAIN-SUFFIX,lemonde.fr,国外
   - DOMAIN-SUFFIX,lenwhite.com,国外
+  - DOMAIN-SUFFIX,leonardo.ai,国外
   - DOMAIN-SUFFIX,lerosua.org,国外
   - DOMAIN-SUFFIX,lesoir.be,国外
   - DOMAIN-SUFFIX,lester850.info,国外
@@ -43480,6 +43488,7 @@ rules:
   - DOMAIN-SUFFIX,ranxiang.com,国外
   - DOMAIN-SUFFIX,ranyunfei.com,国外
   - DOMAIN-SUFFIX,rapbull.net,国外
+  - DOMAIN-SUFFIX,raphael.app,国外
   - DOMAIN-SUFFIX,rapidgator.net,国外
   - DOMAIN-SUFFIX,rapidmoviez.com,国外
   - DOMAIN-SUFFIX,rapidvpn.com,国外
@@ -43607,6 +43616,7 @@ rules:
   - DOMAIN-SUFFIX,rtycminnesota.org,国外
   - DOMAIN-SUFFIX,ruanyifeng.com,国外
   - DOMAIN-SUFFIX,rukor.org,国外
+  - DOMAIN-SUFFIX,rule34.us,国外
   - DOMAIN-SUFFIX,rule34.xxx,国外
   - DOMAIN-SUFFIX,rule34video.com,国外
   - DOMAIN-SUFFIX,rumble.com,国外
@@ -43938,6 +43948,7 @@ rules:
   - DOMAIN-SUFFIX,sosad.fun,国外
   - DOMAIN-SUFFIX,sosreader.com,国外
   - DOMAIN-SUFFIX,sostibet.org,国外
+  - DOMAIN-SUFFIX,sotwe.com,国外
   - DOMAIN-SUFFIX,sou-tong.org,国外
   - DOMAIN-SUFFIX,soubory.com,国外
   - DOMAIN-SUFFIX,soul-plus.net,国外
