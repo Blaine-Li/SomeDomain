@@ -39040,6 +39040,7 @@ rules:
   - DOMAIN-SUFFIX,228.net.tw,国外
   - DOMAIN-SUFFIX,233abc.com,国外
   - DOMAIN-SUFFIX,233v2.com,国外
+  - DOMAIN-SUFFIX,24hbook.com,国外
   - DOMAIN-SUFFIX,24hrs.ca,国外
   - DOMAIN-SUFFIX,24smile.org,国外
   - DOMAIN-SUFFIX,25u.com,国外
@@ -42360,6 +42361,7 @@ rules:
   - DOMAIN-SUFFIX,marxist.com,国外
   - DOMAIN-SUFFIX,marxist.net,国外
   - DOMAIN-SUFFIX,marxists.org,国外
+  - DOMAIN-SUFFIX,mas.to,国外
   - DOMAIN-SUFFIX,mash.to,国外
   - DOMAIN-SUFFIX,mashable.com,国外
   - DOMAIN-SUFFIX,maskedip.com,国外
@@ -42742,6 +42744,7 @@ rules:
   - DOMAIN-SUFFIX,ned.org,国外
   - DOMAIN-SUFFIX,nekoslovakia.net,国外
   - DOMAIN-SUFFIX,neo-miracle.com,国外
+  - DOMAIN-SUFFIX,neodb.social,国外
   - DOMAIN-SUFFIX,neoforged.net,国外
   - DOMAIN-SUFFIX,neowin.net,国外
   - DOMAIN-SUFFIX,nephobox.com,国外
