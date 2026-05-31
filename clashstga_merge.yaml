@@ -14431,7 +14431,6 @@ rules:
   - DOMAIN-SUFFIX,bangkokstreetwhores.com,国外
   - DOMAIN-SUFFIX,bangor-university-london.ac.uk,国外
   - DOMAIN-SUFFIX,bangor.ac.uk,国外
-  - DOMAIN-SUFFIX,bangumi.tv,国外
   - DOMAIN-SUFFIX,bangyourwife.com,国外
   - DOMAIN-SUFFIX,bank-arzamas.ru,国外
   - DOMAIN-SUFFIX,bank-credit-suisse-moscow.ru,国外
@@ -15025,7 +15024,6 @@ rules:
   - DOMAIN-SUFFIX,bftv.ac.uk,国外
   - DOMAIN-SUFFIX,bgc.ac.uk,国外
   - DOMAIN-SUFFIX,bgicdn.com,国外
-  - DOMAIN-SUFFIX,bgm.tv,国外
   - DOMAIN-SUFFIX,bgov.com,国外
   - DOMAIN-SUFFIX,bgr.in,国外
   - DOMAIN-SUFFIX,bgs.ac.uk,国外
@@ -17108,7 +17106,6 @@ rules:
   - DOMAIN-SUFFIX,chid.com.mm,国外
   - DOMAIN-SUFFIX,chigroup.ac.uk,国外
   - DOMAIN-SUFFIX,chihair-straightener.com,国外
-  - DOMAIN-SUFFIX,chii.in,国外
   - DOMAIN-SUFFIX,chikiporn.com,国外
   - DOMAIN-SUFFIX,chikubank.co.jp,国外
   - DOMAIN-SUFFIX,chilbolton.ac.uk,国外
@@ -23158,7 +23155,6 @@ rules:
   - DOMAIN-SUFFIX,hibiki-cast.jp,国外
   - DOMAIN-SUFFIX,hiddenhistorieswwi.ac.uk,国外
   - DOMAIN-SUFFIX,hiddenvoyeurspy.com,国外
-  - DOMAIN-SUFFIX,hiddify.com,国外
   - DOMAIN-SUFFIX,hidefporn.ws,国外
   - DOMAIN-SUFFIX,hidive.com,国外
   - DOMAIN-SUFFIX,hifacebook.info,国外
@@ -26269,6 +26265,7 @@ rules:
   - DOMAIN-SUFFIX,livinglegacies1914-18.ac.uk,国外
   - DOMAIN-SUFFIX,livingwithmachines.ac.uk,国外
   - DOMAIN-SUFFIX,livingyourambition.com,国外
+  - DOMAIN-SUFFIX,livinno.org,国外
   - DOMAIN-SUFFIX,livjm.ac.uk,国外
   - DOMAIN-SUFFIX,livrariart.com.br,国外
   - DOMAIN-SUFFIX,lizardporn.com,国外
@@ -29869,6 +29866,7 @@ rules:
   - DOMAIN-SUFFIX,ootbstudio.co.kr,国外
   - DOMAIN-SUFFIX,op.gg,国外
   - DOMAIN-SUFFIX,op7979.com,国外
+  - DOMAIN-SUFFIX,opac-project.eu,国外
   - DOMAIN-SUFFIX,opdems.ac.uk,国外
   - DOMAIN-SUFFIX,open.ac.uk,国外
   - DOMAIN-SUFFIX,openamt.com,国外
@@ -39437,6 +39435,7 @@ rules:
   - DOMAIN-SUFFIX,arunachalforests.gov.in,国外
   - DOMAIN-SUFFIX,arvanstorage.ir,国外
   - DOMAIN-SUFFIX,arweave.org,国外
+  - DOMAIN-SUFFIX,as.mr,国外
   - DOMAIN-SUFFIX,asacp.org,国外
   - DOMAIN-SUFFIX,asdfg.jp,国外
   - DOMAIN-SUFFIX,asg.to,国外
@@ -39535,6 +39534,7 @@ rules:
   - DOMAIN-SUFFIX,bangdream.space,国外
   - DOMAIN-SUFFIX,bangkokpost.com,国外
   - DOMAIN-SUFFIX,bangumi.moe,国外
+  - DOMAIN-SUFFIX,bangumi.tv,国外
   - DOMAIN-SUFFIX,bangyoulater.com,国外
   - DOMAIN-SUFFIX,bankmobilevibe.com,国外
   - DOMAIN-SUFFIX,bannednews.org,国外
@@ -39618,6 +39618,7 @@ rules:
   - DOMAIN-SUFFIX,beyondfirewall.com,国外
   - DOMAIN-SUFFIX,bfnn.org,国外
   - DOMAIN-SUFFIX,bfsh.hk,国外
+  - DOMAIN-SUFFIX,bgm.tv,国外
   - DOMAIN-SUFFIX,bgme.me,国外
   - DOMAIN-SUFFIX,bgvpn.com,国外
   - DOMAIN-SUFFIX,bianlei.com,国外
@@ -39991,6 +39992,7 @@ rules:
   - DOMAIN-SUFFIX,cherrysave.com,国外
   - DOMAIN-SUFFIX,chhongbi.org,国外
   - DOMAIN-SUFFIX,chicagoncmtv.com,国外
+  - DOMAIN-SUFFIX,chii.in,国外
   - DOMAIN-SUFFIX,china-mmm.net,国外
   - DOMAIN-SUFFIX,china-review.com.ua,国外
   - DOMAIN-SUFFIX,china-week.com,国外
@@ -40157,7 +40159,6 @@ rules:
   - DOMAIN-SUFFIX,cn6.eu,国外
   - DOMAIN-SUFFIX,cna.com.tw,国外
   - DOMAIN-SUFFIX,cnabc.com,国外
-  - DOMAIN-SUFFIX,cnbc.com,国外
   - DOMAIN-SUFFIX,cnbeta.com.tw,国外
   - DOMAIN-SUFFIX,cnd.org,国外
   - DOMAIN-SUFFIX,cnet.com,国外
@@ -41154,6 +41155,7 @@ rules:
   - DOMAIN-SUFFIX,geekheart.info,国外
   - DOMAIN-SUFFIX,gekikame.com,国外
   - DOMAIN-SUFFIX,gelbooru.com,国外
+  - DOMAIN-SUFFIX,gencraft.com,国外
   - DOMAIN-SUFFIX,generated.photos,国外
   - DOMAIN-SUFFIX,geni.us,国外
   - DOMAIN-SUFFIX,genius.com,国外
@@ -41477,6 +41479,7 @@ rules:
   - DOMAIN-SUFFIX,hicairo.com,国外
   - DOMAIN-SUFFIX,hiccears.com,国外
   - DOMAIN-SUFFIX,hidden-advent.org,国外
+  - DOMAIN-SUFFIX,hiddify.com,国外
   - DOMAIN-SUFFIX,hide.me,国外
   - DOMAIN-SUFFIX,hidecloud.com,国外
   - DOMAIN-SUFFIX,hidein.net,国外
@@ -44913,6 +44916,7 @@ rules:
   - DOMAIN-SUFFIX,vbstatic.co,国外
   - DOMAIN-SUFFIX,vcf-online.org,国外
   - DOMAIN-SUFFIX,vcfbuilder.org,国外
+  - DOMAIN-SUFFIX,veed.io,国外
   - DOMAIN-SUFFIX,vegasred.com,国外
   - DOMAIN-SUFFIX,velkaepocha.sk,国外
   - DOMAIN-SUFFIX,venbbs.com,国外
