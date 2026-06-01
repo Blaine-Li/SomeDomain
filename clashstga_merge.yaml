@@ -27639,7 +27639,6 @@ rules:
   - DOMAIN-SUFFIX,minim.ac.uk,国外
   - DOMAIN-SUFFIX,minimarkham.ca,国外
   - DOMAIN-SUFFIX,minimarkham.com,国外
-  - DOMAIN-SUFFIX,minimax.io,国外
   - DOMAIN-SUFFIX,minimoncton.ca,国外
   - DOMAIN-SUFFIX,minimoncton.com,国外
   - DOMAIN-SUFFIX,minimontrealcentre.ca,国外
@@ -37811,8 +37810,11 @@ rules:
   - DOMAIN-SUFFIX,xhamster2.com,国外
   - DOMAIN-SUFFIX,xhamster3.com,国外
   - DOMAIN-SUFFIX,xhamsterlive.com,国外
+  - DOMAIN-SUFFIX,xhnews.live,国外
   - DOMAIN-SUFFIX,xhot.pro,国外
+  - DOMAIN-SUFFIX,xhpingcdn.com,国外
   - DOMAIN-SUFFIX,xhpjc6-cdn-settings.appsflyersdk.com,国外
+  - DOMAIN-SUFFIX,xhreal5.com,国外
   - DOMAIN-SUFFIX,xhub.tv,国外
   - DOMAIN-SUFFIX,xiangrikui-app.com,国外
   - DOMAIN-SUFFIX,xianir.xyz,国外
