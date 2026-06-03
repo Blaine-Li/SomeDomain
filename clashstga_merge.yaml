@@ -21752,6 +21752,7 @@ rules:
   - DOMAIN-SUFFIX,getfoxyoutside.org,国外
   - DOMAIN-SUFFIX,getiton.com,国外
   - DOMAIN-SUFFIX,getnews.jp,国外
+  - DOMAIN-SUFFIX,getpaint.net,国外
   - DOMAIN-SUFFIX,getpocket.com,国外
   - DOMAIN-SUFFIX,getporn.tv,国外
   - DOMAIN-SUFFIX,getprintersupports.com,国外
@@ -30137,6 +30138,7 @@ rules:
   - DOMAIN-SUFFIX,paily.org,国外
   - DOMAIN-SUFFIX,painfulpussytortures.com,国外
   - DOMAIN-SUFFIX,painnovel.com,国外
+  - DOMAIN-SUFFIX,paint.net,国外
   - DOMAIN-SUFFIX,paipal.com,国外
   - DOMAIN-SUFFIX,paipancon.com,国外
   - DOMAIN-SUFFIX,paisapay.cc,国外
@@ -35239,6 +35241,7 @@ rules:
   - DOMAIN-SUFFIX,tomovie.net,国外
   - DOMAIN-SUFFIX,tomsguide.com,国外
   - DOMAIN-SUFFIX,ton.org,国外
+  - DOMAIN-SUFFIX,toncenter.com,国外
   - DOMAIN-SUFFIX,tonec.com,国外
   - DOMAIN-SUFFIX,tonicmovies.com,国外
   - DOMAIN-SUFFIX,toolforge.org,国外
