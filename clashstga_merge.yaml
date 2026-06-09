@@ -29387,6 +29387,7 @@ rules:
   - DOMAIN-SUFFIX,noticias-rt.com,国外
   - DOMAIN-SUFFIX,notimundo.press,国外
   - DOMAIN-SUFFIX,notion-static.com,国外
+  - DOMAIN-SUFFIX,notion-status.com,国外
   - DOMAIN-SUFFIX,notion.com,国外
   - DOMAIN-SUFFIX,notion.new,国外
   - DOMAIN-SUFFIX,notion.site,国外
