@@ -12915,6 +12915,7 @@ rules:
   - DOMAIN-SUFFIX,allizom.net,国外
   - DOMAIN-SUFFIX,allizom.org,国外
   - DOMAIN-SUFFIX,alljapanesepass.com,国外
+  - DOMAIN-SUFFIX,allkeyshop.com,国外
   - DOMAIN-SUFFIX,allmomsex.com,国外
   - DOMAIN-SUFFIX,allnations.ac.uk,国外
   - DOMAIN-SUFFIX,allover30.com,国外
@@ -14192,6 +14193,7 @@ rules:
   - DOMAIN-SUFFIX,avdwang.xyz,国外
   - DOMAIN-SUFFIX,avelip.com,国外
   - DOMAIN-SUFFIX,aventertainments.com,国外
+  - DOMAIN-SUFFIX,avermedia.com,国外
   - DOMAIN-SUFFIX,aversbank.ru,国外
   - DOMAIN-SUFFIX,avfox.cc,国外
   - DOMAIN-SUFFIX,avgigi.com,国外
@@ -15035,6 +15037,7 @@ rules:
   - DOMAIN-SUFFIX,beyondcore.com,国外
   - DOMAIN-SUFFIX,beyondtext.ac.uk,国外
   - DOMAIN-SUFFIX,bfa.ru,国外
+  - DOMAIN-SUFFIX,bfads.net,国外
   - DOMAIN-SUFFIX,bffshd.com,国外
   - DOMAIN-SUFFIX,bfmat.ac.uk,国外
   - DOMAIN-SUFFIX,bftv.ac.uk,国外
@@ -16372,6 +16375,7 @@ rules:
   - DOMAIN-SUFFIX,buypass.com,国外
   - DOMAIN-SUFFIX,buypass.no,国外
   - DOMAIN-SUFFIX,buypass.se,国外
+  - DOMAIN-SUFFIX,buyservices.com,国外
   - DOMAIN-SUFFIX,buyshoponly.com,国外
   - DOMAIN-SUFFIX,buzzardflapper.com,国外
   - DOMAIN-SUFFIX,buzzav.com,国外
@@ -17500,6 +17504,7 @@ rules:
   - DOMAIN-SUFFIX,coincarp.com,国外
   - DOMAIN-SUFFIX,coincheck.com,国外
   - DOMAIN-SUFFIX,coindesk.com,国外
+  - DOMAIN-SUFFIX,coingate.com,国外
   - DOMAIN-SUFFIX,coinglass.com,国外
   - DOMAIN-SUFFIX,coinmap.org,国外
   - DOMAIN-SUFFIX,coinone.co.kr,国外
@@ -18703,6 +18708,9 @@ rules:
   - DOMAIN-SUFFIX,discountbeatsstore.com,国外
   - DOMAIN-SUFFIX,discountedporn.com,国外
   - DOMAIN-SUFFIX,discountporn.club,国外
+  - DOMAIN-SUFFIX,discourse-cdn.com,国外
+  - DOMAIN-SUFFIX,discourse.group,国外
+  - DOMAIN-SUFFIX,discourse.org,国外
   - DOMAIN-SUFFIX,discover.ac.uk,国外
   - DOMAIN-SUFFIX,discovereconomics.ac.uk,国外
   - DOMAIN-SUFFIX,discovershiretoko.org,国外
@@ -19391,6 +19399,10 @@ rules:
   - DOMAIN-SUFFIX,ebahy.com,国外
   - DOMAIN-SUFFIX,ebalovo.com,国外
   - DOMAIN-SUFFIX,ebam.ac.uk,国外
+  - DOMAIN-SUFFIX,ebates.ca,国外
+  - DOMAIN-SUFFIX,ebates.kr,国外
+  - DOMAIN-SUFFIX,ebates.sg,国外
+  - DOMAIN-SUFFIX,ebatescanada.com,国外
   - DOMAIN-SUFFIX,ebay-authenticate.net,国外
   - DOMAIN-SUFFIX,ebay-confirm.com,国外
   - DOMAIN-SUFFIX,ebay-course.com,国外
@@ -19578,6 +19590,7 @@ rules:
   - DOMAIN-SUFFIX,ebuyheadphones.com,国外
   - DOMAIN-SUFFIX,eca.ac.uk,国外
   - DOMAIN-SUFFIX,ecampus-leeds.ac.uk,国外
+  - DOMAIN-SUFFIX,ecbsn.com,国外
   - DOMAIN-SUFFIX,ecc.ac.uk,国外
   - DOMAIN-SUFFIX,ecchinohentai.ru,国外
   - DOMAIN-SUFFIX,ecci.ac.uk,国外
@@ -19719,6 +19732,7 @@ rules:
   - DOMAIN-SUFFIX,electronicarts.fr,国外
   - DOMAIN-SUFFIX,electronicsignature.ru,国外
   - DOMAIN-SUFFIX,electronjs.org,国外
+  - DOMAIN-SUFFIX,elegantthemes.com,国外
   - DOMAIN-SUFFIX,element.io,国外
   - DOMAIN-SUFFIX,elementary.io,国外
   - DOMAIN-SUFFIX,elephantlist.com,国外
@@ -20694,6 +20708,7 @@ rules:
   - DOMAIN-SUFFIX,fasttext.cc,国外
   - DOMAIN-SUFFIX,fasttrackreadysupport.com,国外
   - DOMAIN-SUFFIX,fatstube.com,国外
+  - DOMAIN-SUFFIX,fatwallet.com,国外
   - DOMAIN-SUFFIX,fau11.com,国外
   - DOMAIN-SUFFIX,fault-analysis-group.ac.uk,国外
   - DOMAIN-SUFFIX,favebook.com,国外
@@ -20831,6 +20846,7 @@ rules:
   - DOMAIN-SUFFIX,ficador.com,国外
   - DOMAIN-SUFFIX,ficbook.net,国外
   - DOMAIN-SUFFIX,ficeboock.com,国外
+  - DOMAIN-SUFFIX,ficgs.com,国外
   - DOMAIN-SUFFIX,ficm.ac.uk,国外
   - DOMAIN-SUFFIX,ficmania.com,国外
   - DOMAIN-SUFFIX,fictionmania.tv,国外
@@ -21587,7 +21603,9 @@ rules:
   - DOMAIN-SUFFIX,gamesfuckgirls.com,国外
   - DOMAIN-SUFFIX,gamesofdesire.com,国外
   - DOMAIN-SUFFIX,gamespark.jp,国外
+  - DOMAIN-SUFFIX,gamesplanet.com,国外
   - DOMAIN-SUFFIX,gamesstack.com,国外
+  - DOMAIN-SUFFIX,gametap.com,国外
   - DOMAIN-SUFFIX,gameuxmasterguide.com,国外
   - DOMAIN-SUFFIX,gaming-notebooks.com,国外
   - DOMAIN-SUFFIX,gandhara.ru,国外
@@ -21851,6 +21869,7 @@ rules:
   - DOMAIN-SUFFIX,gfrevenge.com,国外
   - DOMAIN-SUFFIX,gfycat.com,国外
   - DOMAIN-SUFFIX,gfysex.com,国外
+  - DOMAIN-SUFFIX,gg.deals,国外
   - DOMAIN-SUFFIX,ggdiao.com,国外
   - DOMAIN-SUFFIX,ggjav.com,国外
   - DOMAIN-SUFFIX,ggoogle.com,国外
@@ -21860,6 +21879,7 @@ rules:
   - DOMAIN-SUFFIX,ggsrv.com,国外
   - DOMAIN-SUFFIX,gh.io,国外
   - DOMAIN-SUFFIX,ghbi.ir,国外
+  - DOMAIN-SUFFIX,ghe.com,国外
   - DOMAIN-SUFFIX,ghettotube.com,国外
   - DOMAIN-SUFFIX,ghil.ac.uk,国外
   - DOMAIN-SUFFIX,ghostarchive.org,国外
@@ -22461,6 +22481,7 @@ rules:
   - DOMAIN-SUFFIX,gowercollegeswansea.ac.uk,国外
   - DOMAIN-SUFFIX,gpb.ru,国外
   - DOMAIN-SUFFIX,gpkss.ac.uk,国外
+  - DOMAIN-SUFFIX,gpstatic.com,国外
   - DOMAIN-SUFFIX,gpstheseries.com,国外
   - DOMAIN-SUFFIX,gpucomputing.ac.uk,国外
   - DOMAIN-SUFFIX,gputechconf.co.kr,国外
@@ -23823,6 +23844,7 @@ rules:
   - DOMAIN-SUFFIX,hyp.ac.uk,国外
   - DOMAIN-SUFFIX,hyper.is,国外
   - DOMAIN-SUFFIX,hyperdreams.com,国外
+  - DOMAIN-SUFFIX,hyperliquid.xyz,国外
   - DOMAIN-SUFFIX,hyperscan.io,国外
   - DOMAIN-SUFFIX,hypnohub.net,国外
   - DOMAIN-SUFFIX,hypnoporn.net,国外
@@ -25757,6 +25779,7 @@ rules:
   - DOMAIN-SUFFIX,kingston.ac.uk,国外
   - DOMAIN-SUFFIX,kingstonalumni.ac.uk,国外
   - DOMAIN-SUFFIX,kingsway.ac.uk,国外
+  - DOMAIN-SUFFIX,kinguin.net,国外
   - DOMAIN-SUFFIX,kinguno.xyz,国外
   - DOMAIN-SUFFIX,kinkbook.com,国外
   - DOMAIN-SUFFIX,kinki.co.jp,国外
@@ -26216,6 +26239,8 @@ rules:
   - DOMAIN-SUFFIX,lifewire.com,国外
   - DOMAIN-SUFFIX,liftapp.ac.uk,国外
   - DOMAIN-SUFFIX,lightbridge.com,国外
+  - DOMAIN-SUFFIX,lighter.exchange,国外
+  - DOMAIN-SUFFIX,lighter.xyz,国外
   - DOMAIN-SUFFIX,lighthouselearningtrust.ac.uk,国外
   - DOMAIN-SUFFIX,lightxxxtube.com,国外
   - DOMAIN-SUFFIX,lihe.ac.uk,国外
@@ -28977,7 +29002,9 @@ rules:
   - DOMAIN-SUFFIX,nexo.io,国外
   - DOMAIN-SUFFIX,nexon.co.jp,国外
   - DOMAIN-SUFFIX,nexon.io,国外
+  - DOMAIN-SUFFIX,nexon.net,国外
   - DOMAIN-SUFFIX,nexoncdn.co.kr,国外
+  - DOMAIN-SUFFIX,nexongames.co.kr,国外
   - DOMAIN-SUFFIX,nexpart.com,国外
   - DOMAIN-SUFFIX,nexpart.tv,国外
   - DOMAIN-SUFFIX,next-institute.ac.uk,国外
@@ -29042,7 +29069,9 @@ rules:
   - DOMAIN-SUFFIX,nhentaihaven.org,国外
   - DOMAIN-SUFFIX,nheos.com,国外
   - DOMAIN-SUFFIX,nhi.gov.tw,国外
+  - DOMAIN-SUFFIX,nhk.jp,国外
   - DOMAIN-SUFFIX,nhk.or.jp,国外
+  - DOMAIN-SUFFIX,nhkworld.jp,国外
   - DOMAIN-SUFFIX,nhm.ac.uk,国外
   - DOMAIN-SUFFIX,niab.ac.uk,国外
   - DOMAIN-SUFFIX,niace.ac.uk,国外
@@ -29711,6 +29740,7 @@ rules:
   - DOMAIN-SUFFIX,nxta.org,国外
   - DOMAIN-SUFFIX,nxtdig.com.hk,国外
   - DOMAIN-SUFFIX,nxtdig.com.tw,国外
+  - DOMAIN-SUFFIX,nxtv.jp,国外
   - DOMAIN-SUFFIX,nyaa.net,国外
   - DOMAIN-SUFFIX,nyahentai.re,国外
   - DOMAIN-SUFFIX,nyansa.com,国外
@@ -31816,7 +31846,10 @@ rules:
   - DOMAIN-SUFFIX,rakuten.ca,国外
   - DOMAIN-SUFFIX,rakuten.com,国外
   - DOMAIN-SUFFIX,rakuten.ne.jp,国外
+  - DOMAIN-SUFFIX,rakuten.tv,国外
   - DOMAIN-SUFFIX,rakuten.tw,国外
+  - DOMAIN-SUFFIX,rakutenadvertising.com,国外
+  - DOMAIN-SUFFIX,rakutengiftcards.ca,国外
   - DOMAIN-SUFFIX,rakuya.com.tw,国外
   - DOMAIN-SUFFIX,ram.ac.uk,国外
   - DOMAIN-SUFFIX,randd.ac.uk,国外
@@ -32392,6 +32425,7 @@ rules:
   - DOMAIN-SUFFIX,rprimelab.com,国外
   - DOMAIN-SUFFIX,rps.ac.uk,国外
   - DOMAIN-SUFFIX,rqbank.ir,国外
+  - DOMAIN-SUFFIX,rrcbsn.com,国外
   - DOMAIN-SUFFIX,rrl28.buzz,国外
   - DOMAIN-SUFFIX,rrs1.xyz,国外
   - DOMAIN-SUFFIX,rrtis.com,国外
@@ -36118,6 +36152,9 @@ rules:
   - DOMAIN-SUFFIX,underpinningexcellenceinhe.ac.uk,国外
   - DOMAIN-SUFFIX,understanding-inequalities.ac.uk,国外
   - DOMAIN-SUFFIX,understandingsociety.ac.uk,国外
+  - DOMAIN-SUFFIX,unext-info.jp,国外
+  - DOMAIN-SUFFIX,unext.co.jp,国外
+  - DOMAIN-SUFFIX,unext.jp,国外
   - DOMAIN-SUFFIX,ungrounded.net,国外
   - DOMAIN-SUFFIX,uni-east.ac.uk,国外
   - DOMAIN-SUFFIX,unialliance.ac.uk,国外
@@ -36636,6 +36673,7 @@ rules:
   - DOMAIN-SUFFIX,viewpointsfromfacebook.com,国外
   - DOMAIN-SUFFIX,vigorgame.com,国外
   - DOMAIN-SUFFIX,viju.ru,国外
+  - DOMAIN-SUFFIX,viki.com,国外
   - DOMAIN-SUFFIX,vikiporn.com,国外
   - DOMAIN-SUFFIX,vilavpn.xyz,国外
   - DOMAIN-SUFFIX,vilavpn1.xyz,国外
@@ -37767,6 +37805,7 @@ rules:
   - DOMAIN-SUFFIX,woolitecarpet.com,国外
   - DOMAIN-SUFFIX,worc.ac.uk,国外
   - DOMAIN-SUFFIX,worcester.ac.uk,国外
+  - DOMAIN-SUFFIX,wordcamp.org,国外
   - DOMAIN-SUFFIX,wordpress.net,国外
   - DOMAIN-SUFFIX,wordpress.org,国外
   - DOMAIN-SUFFIX,wordpress.tv,国外
@@ -39144,6 +39183,7 @@ rules:
   - DOMAIN-SUFFIX,ziporn.com,国外
   - DOMAIN-SUFFIX,ziraatbank.ru,国外
   - DOMAIN-SUFFIX,zishy.com,国外
+  - DOMAIN-SUFFIX,zklighter.elliot.ai,国外
   - DOMAIN-SUFFIX,zlib.life,国外
   - DOMAIN-SUFFIX,zlibcdn.com,国外
   - DOMAIN-SUFFIX,zlibcdn2.com,国外
