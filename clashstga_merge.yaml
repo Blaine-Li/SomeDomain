@@ -11729,7 +11729,6 @@ rules:
   - DOMAIN-SUFFIX,24porn.com,国外
   - DOMAIN-SUFFIX,24porn.pro,国外
   - DOMAIN-SUFFIX,258porn.com,国外
-  - DOMAIN-SUFFIX,265.com,国外
   - DOMAIN-SUFFIX,265sdwe3.com,国外
   - DOMAIN-SUFFIX,2789av.com,国外
   - DOMAIN-SUFFIX,27mmwmmw.top,国外
@@ -18969,6 +18968,7 @@ rules:
   - DOMAIN-SUFFIX,doseofporn.com,国外
   - DOMAIN-SUFFIX,dot-mac.de,国外
   - DOMAIN-SUFFIX,dot.net,国外
+  - DOMAIN-SUFFIX,dota2.com,国外
   - DOMAIN-SUFFIX,dotcernpilot.info,国外
   - DOMAIN-SUFFIX,dotdeb.org,国外
   - DOMAIN-SUFFIX,dotfacebook.com,国外
@@ -26343,6 +26343,8 @@ rules:
   - DOMAIN-SUFFIX,livehdcams.com,国外
   - DOMAIN-SUFFIX,livejasmin.com,国外
   - DOMAIN-SUFFIX,livejasminbabes.net,国外
+  - DOMAIN-SUFFIX,livejournal.com,国外
+  - DOMAIN-SUFFIX,livejournal.net,国外
   - DOMAIN-SUFFIX,livemodels.co,国外
   - DOMAIN-SUFFIX,livenet.ac.uk,国外
   - DOMAIN-SUFFIX,liveperson.net,国外
@@ -29494,6 +29496,7 @@ rules:
   - DOMAIN-SUFFIX,nsirc.ac.uk,国外
   - DOMAIN-SUFFIX,nso.ac.uk,国外
   - DOMAIN-SUFFIX,nspcr.ac.uk,国外
+  - DOMAIN-SUFFIX,nspk.ru,国外
   - DOMAIN-SUFFIX,nss.ac.uk,国外
   - DOMAIN-SUFFIX,nsstatic.net,国外
   - DOMAIN-SUFFIX,nsu.ac.uk,国外
@@ -29871,6 +29874,7 @@ rules:
   - DOMAIN-SUFFIX,okx-dns.com,国外
   - DOMAIN-SUFFIX,okx-dns1.com,国外
   - DOMAIN-SUFFIX,okx-dns2.com,国外
+  - DOMAIN-SUFFIX,okx.ac,国外
   - DOMAIN-SUFFIX,okx.cab,国外
   - DOMAIN-SUFFIX,olabloga.pl,国外
   - DOMAIN-SUFFIX,oldbury.ac.uk,国外
@@ -36344,6 +36348,7 @@ rules:
   - DOMAIN-SUFFIX,v-av.com,国外
   - DOMAIN-SUFFIX,v-has.com,国外
   - DOMAIN-SUFFIX,v-resort.ac.uk,国外
+  - DOMAIN-SUFFIX,v.ps,国外
   - DOMAIN-SUFFIX,v2ph.com,国外
   - DOMAIN-SUFFIX,v2ray.cool,国外
   - DOMAIN-SUFFIX,v2raytech.com,国外
@@ -36368,6 +36373,7 @@ rules:
   - DOMAIN-SUFFIX,value-domain.com,国外
   - DOMAIN-SUFFIX,value-server.com,国外
   - DOMAIN-SUFFIX,valuegb.com,国外
+  - DOMAIN-SUFFIX,valve.net,国外
   - DOMAIN-SUFFIX,vam.ac.uk,国外
   - DOMAIN-SUFFIX,vamo.com,国外
   - DOMAIN-SUFFIX,vamsas.ac.uk,国外
@@ -37192,6 +37198,7 @@ rules:
   - DOMAIN-SUFFIX,vpornvideos.com,国外
   - DOMAIN-SUFFIX,vpro.com,国外
   - DOMAIN-SUFFIX,vpro.net,国外
+  - DOMAIN-SUFFIX,vps.hosting,国外
   - DOMAIN-SUFFIX,vrbgay.com,国外
   - DOMAIN-SUFFIX,vrcams.io,国外
   - DOMAIN-SUFFIX,vrcdn.cloud,国外
@@ -38284,6 +38291,16 @@ rules:
   - DOMAIN-SUFFIX,xsz-av.com,国外
   - DOMAIN-SUFFIX,xtapes.to,国外
   - DOMAIN-SUFFIX,xtegvk.xyz,国外
+  - DOMAIN-SUFFIX,xtom.au,国外
+  - DOMAIN-SUFFIX,xtom.com,国外
+  - DOMAIN-SUFFIX,xtom.de,国外
+  - DOMAIN-SUFFIX,xtom.ee,国外
+  - DOMAIN-SUFFIX,xtom.hk,国外
+  - DOMAIN-SUFFIX,xtom.jp,国外
+  - DOMAIN-SUFFIX,xtom.nl,国外
+  - DOMAIN-SUFFIX,xtom.sg,国外
+  - DOMAIN-SUFFIX,xtom.social,国外
+  - DOMAIN-SUFFIX,xtom.us,国外
   - DOMAIN-SUFFIX,xtracloud.net,国外
   - DOMAIN-SUFFIX,xtubebdsm.com,国外
   - DOMAIN-SUFFIX,xtubezoo.com,国外
