@@ -126,6 +126,7 @@ rules:
   - DOMAIN-SUFFIX,zajourney.com,国内
   - DOMAIN-SUFFIX,zaticdn.com,国内
   - DOMAIN-SUFFIX,zafinsvc.com,国内
+  - DOMAIN-SUFFIX,deepseek.com,国内
   - DOMAIN-SUFFIX,acl4.ssr,国内
   - DOMAIN-SUFFIX,ip6-localhost,国内
   - DOMAIN-SUFFIX,ip6-loopback,国内
@@ -8573,6 +8574,13 @@ rules:
   - DOMAIN-SUFFIX,notebooklm.google.com,AI
   - DOMAIN-SUFFIX,aistudio.google.com,AI
   - DOMAIN-SUFFIX,polymarket.com,AI
+  - DOMAIN-SUFFIX,guzzoni.apple.com,AI
+  - DOMAIN-SUFFIX,smoot.apple.com,AI
+  - DOMAIN-SUFFIX,apple-relay.cloudflare.com,AI
+  - DOMAIN-SUFFIX,apple-relay.fastly-edge.com,AI
+  - DOMAIN-SUFFIX,cp4.cloudflare.com,AI
+  - DOMAIN-SUFFIX,apple-relay.apple.com,AI
+  - DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com,AI
   - DOMAIN-SUFFIX,ads-twitter.com,AI
   - DOMAIN-SUFFIX,cms-twdigitalassets.com,AI
   - DOMAIN-SUFFIX,grok.com,AI
@@ -11441,6 +11449,7 @@ rules:
   - DOMAIN,faronics.kayako.com,国外
   - DOMAIN,firstsearch.oclc.org,国外
   - DOMAIN,github-api.arkoselabs.com,国外
+  - DOMAIN,gog-cdn-lumen.secure2.footprint.net,国外
   - DOMAIN,gog.qtlglb.com,国外
   - DOMAIN,holoxx.f5.si,国外
   - DOMAIN,hpstore.corpmerchandise.com,国外
@@ -11646,7 +11655,6 @@ rules:
   - DOMAIN-SUFFIX,18jms.com,国外
   - DOMAIN-SUFFIX,18mh.co,国外
   - DOMAIN-SUFFIX,18mh.me,国外
-  - DOMAIN-SUFFIX,18mh.net,国外
   - DOMAIN-SUFFIX,18novel.xyz,国外
   - DOMAIN-SUFFIX,18porncomic.com,国外
   - DOMAIN-SUFFIX,18porno.tv,国外
@@ -21550,13 +21558,7 @@ rules:
   - DOMAIN-SUFFIX,futanarihq.com,国外
   - DOMAIN-SUFFIX,futhead.com,国外
   - DOMAIN-SUFFIX,futpromos.com,国外
-  - DOMAIN-SUFFIX,futu.cn,国外
-  - DOMAIN-SUFFIX,futu.link,国外
-  - DOMAIN-SUFFIX,futuhk.com,国外
   - DOMAIN-SUFFIX,futuhk1.com,国外
-  - DOMAIN-SUFFIX,futuhk2.com,国外
-  - DOMAIN-SUFFIX,futuhkapp.com,国外
-  - DOMAIN-SUFFIX,futuholdings.com,国外
   - DOMAIN-SUFFIX,futunited.com,国外
   - DOMAIN-SUFFIX,futuoa.com,国外
   - DOMAIN-SUFFIX,future-cs.ru,国外
@@ -26522,12 +26524,7 @@ rules:
   - DOMAIN-SUFFIX,londonstudiocenter.ac.uk,国外
   - DOMAIN-SUFFIX,londonstudiocentre.ac.uk,国外
   - DOMAIN-SUFFIX,lonestarnaughtygirls.com,国外
-  - DOMAIN-SUFFIX,longbridge.cloud,国外
   - DOMAIN-SUFFIX,longbridge.cn,国外
-  - DOMAIN-SUFFIX,longbridge.com,国外
-  - DOMAIN-SUFFIX,longbridge.global,国外
-  - DOMAIN-SUFFIX,longbridge.hk,国外
-  - DOMAIN-SUFFIX,longbridge.sg,国外
   - DOMAIN-SUFFIX,longeaton.ac.uk,国外
   - DOMAIN-SUFFIX,longley-park.ac.uk,国外
   - DOMAIN-SUFFIX,longley-parksfc.ac.uk,国外
@@ -26538,7 +26535,6 @@ rules:
   - DOMAIN-SUFFIX,longmabook.com,国外
   - DOMAIN-SUFFIX,longmabookcn.com,国外
   - DOMAIN-SUFFIX,longman.ch,国外
-  - DOMAIN-SUFFIX,longportapp.com,国外
   - DOMAIN-SUFFIX,longroad.ac.uk,国外
   - DOMAIN-SUFFIX,longtailvideo.com,国外
   - DOMAIN-SUFFIX,lonklab.ac.uk,国外
@@ -32925,9 +32921,6 @@ rules:
   - DOMAIN-SUFFIX,schome.ac.uk,国外
   - DOMAIN-SUFFIX,schoms.ac.uk,国外
   - DOMAIN-SUFFIX,school-economic-science.ac.uk,国外
-  - DOMAIN-SUFFIX,schwab.co.uk,国外
-  - DOMAIN-SUFFIX,schwab.com,国外
-  - DOMAIN-SUFFIX,schwab.com.hk,国外
   - DOMAIN-SUFFIX,schwab.com.sg,国外
   - DOMAIN-SUFFIX,schwabassetmanagement.com,国外
   - DOMAIN-SUFFIX,schwabplan.com,国外
@@ -35426,7 +35419,6 @@ rules:
   - DOMAIN-SUFFIX,tiendabestbuy.com,国外
   - DOMAIN-SUFFIX,tiffany-towers.com,国外
   - DOMAIN-SUFFIX,tig-ol-bitties.live,国外
-  - DOMAIN-SUFFIX,tigerbbs.cn,国外
   - DOMAIN-SUFFIX,tiipple.ac.uk,国外
   - DOMAIN-SUFFIX,tik-tokapi.com,国外
   - DOMAIN-SUFFIX,tiktok-minis.com,国外
@@ -39388,6 +39380,7 @@ rules:
   - DOMAIN-SUFFIX,18board.com,国外
   - DOMAIN-SUFFIX,18board.info,国外
   - DOMAIN-SUFFIX,18comic.org,国外
+  - DOMAIN-SUFFIX,18mh.net,国外
   - DOMAIN-SUFFIX,18onlygirls.com,国外
   - DOMAIN-SUFFIX,18p2p.com,国外
   - DOMAIN-SUFFIX,18virginsex.com,国外
@@ -39510,6 +39503,7 @@ rules:
   - DOMAIN-SUFFIX,9cache.com,国外
   - DOMAIN-SUFFIX,9gag.com,国外
   - DOMAIN-SUFFIX,9news.com.au,国外
+  - DOMAIN-SUFFIX,9oju31.launches.appsflyersdk.com,国外
   - DOMAIN-SUFFIX,9to5mac.com,国外
   - DOMAIN-SUFFIX,a-normal-day.com,国外
   - DOMAIN-SUFFIX,aamacau.com,国外
@@ -39730,6 +39724,7 @@ rules:
   - DOMAIN-SUFFIX,apetube.com,国外
   - DOMAIN-SUFFIX,api.ai,国外
   - DOMAIN-SUFFIX,api.mixpanel.com,国外
+  - DOMAIN-SUFFIX,api.moomoobull.com,国外
   - DOMAIN-SUFFIX,apiary.io,国外
   - DOMAIN-SUFFIX,apigee.com,国外
   - DOMAIN-SUFFIX,apk-dl.com,国外
@@ -39987,6 +39982,7 @@ rules:
   - DOMAIN-SUFFIX,bigone.com,国外
   - DOMAIN-SUFFIX,bigsound.org,国外
   - DOMAIN-SUFFIX,bild.de,国外
+  - DOMAIN-SUFFIX,bilinovel.com,国外
   - DOMAIN-SUFFIX,biliworld.com,国外
   - DOMAIN-SUFFIX,billypan.com,国外
   - DOMAIN-SUFFIX,binance.com,国外
@@ -40313,6 +40309,7 @@ rules:
   - DOMAIN-SUFFIX,cfr.org,国外
   - DOMAIN-SUFFIX,cfsh99.com,国外
   - DOMAIN-SUFFIX,cftfc.com,国外
+  - DOMAIN-SUFFIX,cg.play-analytics.com,国外
   - DOMAIN-SUFFIX,cgdepot.org,国外
   - DOMAIN-SUFFIX,cgst.edu,国外
   - DOMAIN-SUFFIX,change.org,国外
@@ -41426,8 +41423,37 @@ rules:
   - DOMAIN-SUFFIX,furinkan.com,国外
   - DOMAIN-SUFFIX,furl.net,国外
   - DOMAIN-SUFFIX,furrybar.com,国外
+  - DOMAIN-SUFFIX,futu.cn,国外
+  - DOMAIN-SUFFIX,futu.com,国外
+  - DOMAIN-SUFFIX,futu.link,国外
+  - DOMAIN-SUFFIX,futu0.com,国外
+  - DOMAIN-SUFFIX,futu1.com,国外
+  - DOMAIN-SUFFIX,futu2.com,国外
+  - DOMAIN-SUFFIX,futu3.com,国外
+  - DOMAIN-SUFFIX,futu4.com,国外
+  - DOMAIN-SUFFIX,futu5.com,国外
+  - DOMAIN-SUFFIX,futu6.com,国外
+  - DOMAIN-SUFFIX,futu7.com,国外
+  - DOMAIN-SUFFIX,futu8.com,国外
+  - DOMAIN-SUFFIX,futu9.com,国外
+  - DOMAIN-SUFFIX,futuau.com,国外
+  - DOMAIN-SUFFIX,futubull.cn,国外
+  - DOMAIN-SUFFIX,futuchain.com,国外
+  - DOMAIN-SUFFIX,futuesop.com,国外
+  - DOMAIN-SUFFIX,futufin.com,国外
+  - DOMAIN-SUFFIX,futuhk.com,国外
+  - DOMAIN-SUFFIX,futuhk2.com,国外
+  - DOMAIN-SUFFIX,futuhkapp.com,国外
+  - DOMAIN-SUFFIX,futuhn.com,国外
+  - DOMAIN-SUFFIX,futuholdings.com,国外
+  - DOMAIN-SUFFIX,futuinc.com,国外
+  - DOMAIN-SUFFIX,futuniuniu.com,国外
+  - DOMAIN-SUFFIX,futunn.com,国外
   - DOMAIN-SUFFIX,futurechinaforum.org,国外
   - DOMAIN-SUFFIX,futuremessage.org,国外
+  - DOMAIN-SUFFIX,futustatic.com,国外
+  - DOMAIN-SUFFIX,fututrade.com,国外
+  - DOMAIN-SUFFIX,fututrustee.com,国外
   - DOMAIN-SUFFIX,fux.com,国外
   - DOMAIN-SUFFIX,fuyin.net,国外
   - DOMAIN-SUFFIX,fuyindiantai.org,国外
@@ -42254,6 +42280,7 @@ rules:
   - DOMAIN-SUFFIX,itgonglun.com,国外
   - DOMAIN-SUFFIX,ithome.com.tw,国外
   - DOMAIN-SUFFIX,itiger.com,国外
+  - DOMAIN-SUFFIX,itigerup.com,国外
   - DOMAIN-SUFFIX,itsaol.com,国外
   - DOMAIN-SUFFIX,itshidden.com,国外
   - DOMAIN-SUFFIX,itsky.it,国外
@@ -42520,6 +42547,7 @@ rules:
   - DOMAIN-SUFFIX,lantosfoundation.org,国外
   - DOMAIN-SUFFIX,laogai.org,国外
   - DOMAIN-SUFFIX,laogairesearch.org,国外
+  - DOMAIN-SUFFIX,laohu8.com,国外
   - DOMAIN-SUFFIX,laomiu.com,国外
   - DOMAIN-SUFFIX,laoyang.info,国外
   - DOMAIN-SUFFIX,laptoplockdown.com,国外
@@ -42531,6 +42559,8 @@ rules:
   - DOMAIN-SUFFIX,latibet.org,国外
   - DOMAIN-SUFFIX,lausan.hk,国外
   - DOMAIN-SUFFIX,lbank.info,国外
+  - DOMAIN-SUFFIX,lbctrl.com,国外
+  - DOMAIN-SUFFIX,lbkrs.com,国外
   - DOMAIN-SUFFIX,ldplayer.net,国外
   - DOMAIN-SUFFIX,ldplayer.tw,国外
   - DOMAIN-SUFFIX,le-vpn.com,国外
@@ -42654,8 +42684,17 @@ rules:
   - DOMAIN-SUFFIX,logmein.com,国外
   - DOMAIN-SUFFIX,logos.com.hk,国外
   - DOMAIN-SUFFIX,londonchinese.ca,国外
+  - DOMAIN-SUFFIX,longbridge.cloud,国外
+  - DOMAIN-SUFFIX,longbridge.com,国外
+  - DOMAIN-SUFFIX,longbridge.global,国外
+  - DOMAIN-SUFFIX,longbridge.hk,国外
+  - DOMAIN-SUFFIX,longbridge.sg,国外
+  - DOMAIN-SUFFIX,longbridgeapp.com,国外
+  - DOMAIN-SUFFIX,longbridgehk.com,国外
   - DOMAIN-SUFFIX,longhair.hk,国外
   - DOMAIN-SUFFIX,longmusic.com,国外
+  - DOMAIN-SUFFIX,longportapp.cn,国外
+  - DOMAIN-SUFFIX,longportapp.com,国外
   - DOMAIN-SUFFIX,longtermly.net,国外
   - DOMAIN-SUFFIX,longtoes.com,国外
   - DOMAIN-SUFFIX,lookpic.com,国外
@@ -42959,6 +42998,8 @@ rules:
   - DOMAIN-SUFFIX,monster.com,国外
   - DOMAIN-SUFFIX,moodyz.com,国外
   - DOMAIN-SUFFIX,moomoo.com,国外
+  - DOMAIN-SUFFIX,moomooequity.com,国外
+  - DOMAIN-SUFFIX,moomootrustee.com,国外
   - DOMAIN-SUFFIX,moon.fm,国外
   - DOMAIN-SUFFIX,moonbbs.com,国外
   - DOMAIN-SUFFIX,moonbbs.info,国外
@@ -44073,6 +44114,10 @@ rules:
   - DOMAIN-SUFFIX,scasino.com,国外
   - DOMAIN-SUFFIX,scdn.co,国外
   - DOMAIN-SUFFIX,schema.org,国外
+  - DOMAIN-SUFFIX,schwab.co.uk,国外
+  - DOMAIN-SUFFIX,schwab.com,国外
+  - DOMAIN-SUFFIX,schwab.com.cn,国外
+  - DOMAIN-SUFFIX,schwab.com.hk,国外
   - DOMAIN-SUFFIX,sciencedaily.com,国外
   - DOMAIN-SUFFIX,sciencemag.org,国外
   - DOMAIN-SUFFIX,sciencenets.com,国外
@@ -44136,6 +44181,7 @@ rules:
   - DOMAIN-SUFFIX,sftindia.org,国外
   - DOMAIN-SUFFIX,sftuk.org,国外
   - DOMAIN-SUFFIX,sfx.ms,国外
+  - DOMAIN-SUFFIX,sgqt0j.launches.appsflyersdk.com,国外
   - DOMAIN-SUFFIX,sgwritings.com,国外
   - DOMAIN-SUFFIX,sgzhan.com,国外
   - DOMAIN-SUFFIX,shadeyouvpn.com,国外
@@ -44191,6 +44237,7 @@ rules:
   - DOMAIN-SUFFIX,shop2000.com.tw,国外
   - DOMAIN-SUFFIX,shopee.tw,国外
   - DOMAIN-SUFFIX,shopping.com,国外
+  - DOMAIN-SUFFIX,shortconn.im.qcloud.com,国外
   - DOMAIN-SUFFIX,showhaotu.com,国外
   - DOMAIN-SUFFIX,showtime.jp,国外
   - DOMAIN-SUFFIX,showwe.tw,国外
@@ -44827,6 +44874,12 @@ rules:
   - DOMAIN-SUFFIX,tibettruth.com,国外
   - DOMAIN-SUFFIX,tibetwrites.org,国外
   - DOMAIN-SUFFIX,ticket.com.tw,国外
+  - DOMAIN-SUFFIX,tigerbbs.cn,国外
+  - DOMAIN-SUFFIX,tigerbbs.com,国外
+  - DOMAIN-SUFFIX,tigerbrokers.com,国外
+  - DOMAIN-SUFFIX,tigerbrokers.net,国外
+  - DOMAIN-SUFFIX,tigerbrokers.nz,国外
+  - DOMAIN-SUFFIX,tigerfintech.com,国外
   - DOMAIN-SUFFIX,tigervpn.com,国外
   - DOMAIN-SUFFIX,tiktok.com,国外
   - DOMAIN-SUFFIX,tiktokcdn-eu.com,国外
@@ -44917,6 +44970,7 @@ rules:
   - DOMAIN-SUFFIX,tparents.org,国外
   - DOMAIN-SUFFIX,tpi.org.tw,国外
   - DOMAIN-SUFFIX,tracfone.com,国外
+  - DOMAIN-SUFFIX,tradeup.com,国外
   - DOMAIN-SUFFIX,tradingview.com,国外
   - DOMAIN-SUFFIX,trakt.tv,国外
   - DOMAIN-SUFFIX,translate.goog,国外
@@ -45451,6 +45505,7 @@ rules:
   - DOMAIN-SUFFIX,waveprotocol.org,国外
   - DOMAIN-SUFFIX,waybig.com,国外
   - DOMAIN-SUFFIX,waymo.com,国外
+  - DOMAIN-SUFFIX,wbrks.com,国外
   - DOMAIN-SUFFIX,wd.bible,国外
   - DOMAIN-SUFFIX,wdf5.com,国外
   - DOMAIN-SUFFIX,wealth.com.tw,国外
@@ -45683,6 +45738,7 @@ rules:
   - DOMAIN-SUFFIX,xiaochuncnjp.com,国外
   - DOMAIN-SUFFIX,xiaod.in,国外
   - DOMAIN-SUFFIX,xiaohexie.com,国外
+  - DOMAIN-SUFFIX,xiaohu8.com,国外
   - DOMAIN-SUFFIX,xiaolan.me,国外
   - DOMAIN-SUFFIX,xiaoma.org,国外
   - DOMAIN-SUFFIX,xiaomi.eu,国外
@@ -45899,6 +45955,8 @@ rules:
   - DOMAIN-SUFFIX,zhenlibu.info,国外
   - DOMAIN-SUFFIX,zhenlibu1984.com,国外
   - DOMAIN-SUFFIX,zhenxiang.biz,国外
+  - DOMAIN-SUFFIX,zhijianfengyi.cn,国外
+  - DOMAIN-SUFFIX,zhijianfengyi.com,国外
   - DOMAIN-SUFFIX,zhinengluyou.com,国外
   - DOMAIN-SUFFIX,zhizhu.top,国外
   - DOMAIN-SUFFIX,zhongguo.ca,国外
