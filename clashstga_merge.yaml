@@ -22152,8 +22152,10 @@ rules:
   - DOMAIN-SUFFIX,gofit.ac.uk,国外
   - DOMAIN-SUFFIX,gofucker.com,国外
   - DOMAIN-SUFFIX,gofuckmenow.com,国外
+  - DOMAIN-SUFFIX,gog-services.com,国外
   - DOMAIN-SUFFIX,gog-statics.com,国外
   - DOMAIN-SUFFIX,gog.com,国外
+  - DOMAIN-SUFFIX,gogalaxy.com,国外
   - DOMAIN-SUFFIX,gogeo.ac.uk,国外
   - DOMAIN-SUFFIX,gogettaxi.org,国外
   - DOMAIN-SUFFIX,gogle.com,国外
