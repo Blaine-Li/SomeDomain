@@ -11439,7 +11439,6 @@ rules:
   - DOMAIN,crl.versign.net,国外
   - DOMAIN,databank.worldbank.org,国外
   - DOMAIN,datarouter.apps.netherrealm.com,国外
-  - DOMAIN,default.exp-tas.com,国外
   - DOMAIN,deutschewelle.h-cdn.com,国外
   - DOMAIN,dl.begellhouse.com,国外
   - DOMAIN,ea.tt.omtrdc.net,国外
@@ -12936,6 +12935,7 @@ rules:
   - DOMAIN-SUFFIX,allswingersclubs.org,国外
   - DOMAIN-SUFFIX,allthefallen.moe,国外
   - DOMAIN-SUFFIX,alma.ac.uk,国外
+  - DOMAIN-SUFFIX,almalinux.org,国外
   - DOMAIN-SUFFIX,almcollege.ac.uk,国外
   - DOMAIN-SUFFIX,aloe.ac.uk,国外
   - DOMAIN-SUFFIX,alohatube.com,国外
@@ -16362,6 +16362,7 @@ rules:
   - DOMAIN-SUFFIX,bustynudebabes.com,国外
   - DOMAIN-SUFFIX,bustyoldsluts.com,国外
   - DOMAIN-SUFFIX,bustysammieblack.com,国外
+  - DOMAIN-SUFFIX,busybox.net,国外
   - DOMAIN-SUFFIX,butex.ac.uk,国外
   - DOMAIN-SUFFIX,buxtoncollege.ac.uk,国外
   - DOMAIN-SUFFIX,buy-from-shanghai.com,国外
@@ -20284,6 +20285,7 @@ rules:
   - DOMAIN-SUFFIX,exondomesday.ac.uk,国外
   - DOMAIN-SUFFIX,exotic-ghana.com,国外
   - DOMAIN-SUFFIX,exoticuganda.com,国外
+  - DOMAIN-SUFFIX,exp-tas.com,国外
   - DOMAIN-SUFFIX,experience-vmware.com,国外
   - DOMAIN-SUFFIX,experiencebillmelater.com,国外
   - DOMAIN-SUFFIX,experienceworks.ac.uk,国外
@@ -21976,6 +21978,7 @@ rules:
   - DOMAIN-SUFFIX,gitgud.io,国外
   - DOMAIN-SUFFIX,github.ai,国外
   - DOMAIN-SUFFIX,github.blog,国外
+  - DOMAIN-SUFFIX,github.career,国外
   - DOMAIN-SUFFIX,github.com,国外
   - DOMAIN-SUFFIX,github.community,国外
   - DOMAIN-SUFFIX,github.dev,国外
@@ -26270,6 +26273,7 @@ rules:
   - DOMAIN-SUFFIX,life.ac.uk,国外
   - DOMAIN-SUFFIX,lifearc.ac.uk,国外
   - DOMAIN-SUFFIX,lifeatkings.ac.uk,国外
+  - DOMAIN-SUFFIX,lifeatspotify.com,国外
   - DOMAIN-SUFFIX,lifelab.ac.uk,国外
   - DOMAIN-SUFFIX,lifelonglearning.ac.uk,国外
   - DOMAIN-SUFFIX,lifeselector.com,国外
@@ -26915,6 +26919,7 @@ rules:
   - DOMAIN-SUFFIX,manhwa24h.com,国外
   - DOMAIN-SUFFIX,manhwahentai.me,国外
   - DOMAIN-SUFFIX,maniakey.homes,国外
+  - DOMAIN-SUFFIX,manjaro.org,国外
   - DOMAIN-SUFFIX,manlitphil.ac.uk,国外
   - DOMAIN-SUFFIX,manorama.com,国外
   - DOMAIN-SUFFIX,manoramanews.com,国外
@@ -32403,6 +32408,7 @@ rules:
   - DOMAIN-SUFFIX,rocksextube.com,国外
   - DOMAIN-SUFFIX,rockstargames.com,国外
   - DOMAIN-SUFFIX,rockstarnorth.com,国外
+  - DOMAIN-SUFFIX,rockylinux.org,国外
   - DOMAIN-SUFFIX,roco.qq.com,国外
   - DOMAIN-SUFFIX,rodbaston.ac.uk,国外
   - DOMAIN-SUFFIX,roe.ac.uk,国外
@@ -34186,6 +34192,7 @@ rules:
   - DOMAIN-SUFFIX,spotifycharts.com,国外
   - DOMAIN-SUFFIX,spotifycodes.com,国外
   - DOMAIN-SUFFIX,spotifyforbrands.com,国外
+  - DOMAIN-SUFFIX,spotifyforvendors.com,国外
   - DOMAIN-SUFFIX,spotifyjobs.com,国外
   - DOMAIN-SUFFIX,spr.ac.uk,国外
   - DOMAIN-SUFFIX,spraynwash.com,国外
@@ -37287,7 +37294,10 @@ rules:
   - DOMAIN-SUFFIX,vscale.ru,国外
   - DOMAIN-SUFFIX,vscode-cdn.net,国外
   - DOMAIN-SUFFIX,vscode-unpkg.net,国外
+  - DOMAIN-SUFFIX,vscode-webview.net,国外
   - DOMAIN-SUFFIX,vscode.dev,国外
+  - DOMAIN-SUFFIX,vscodeedu.app,国外
+  - DOMAIN-SUFFIX,vscodeedu.com,国外
   - DOMAIN-SUFFIX,vsemrabota.ru,国外
   - DOMAIN-SUFFIX,vsex.in,国外
   - DOMAIN-SUFFIX,vsezoo.com,国外
@@ -41542,6 +41552,7 @@ rules:
   - DOMAIN-SUFFIX,geph.io,国外
   - DOMAIN-SUFFIX,gerefoundation.org,国外
   - DOMAIN-SUFFIX,get.app,国外
+  - DOMAIN-SUFFIX,get.dappcdn.com,国外
   - DOMAIN-SUFFIX,get.dev,国外
   - DOMAIN-SUFFIX,get.how,国外
   - DOMAIN-SUFFIX,get.page,国外
