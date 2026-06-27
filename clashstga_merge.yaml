@@ -40594,6 +40594,7 @@ rules:
   - DOMAIN-SUFFIX,crbug.com,国外
   - DOMAIN-SUFFIX,crchina.org,国外
   - DOMAIN-SUFFIX,crd-net.org,国外
+  - DOMAIN-SUFFIX,creader.com,国外
   - DOMAIN-SUFFIX,creaders.net,国外
   - DOMAIN-SUFFIX,creadersnet.com,国外
   - DOMAIN-SUFFIX,creativelab5.com,国外
