@@ -18,12 +18,8 @@ dns:
     - ac.ursusx.com
     - frp-any.com
      # UU Remote: return real addresses for API, signaling and relay services.
-    - "+.uunat.com"
-    - "+.nrd.nie.163.com"
     - "+.fp.ps.netease.com"
-    - "+.uuyc.163.com"
-    - "+.gv.163.com"
-    - "+.webapp.163.com"
+    - "+.163.com"
     - "adl.netease.com"
     - "adl.easebar.com"
 {% endif %}
