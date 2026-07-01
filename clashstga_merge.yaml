@@ -127,6 +127,10 @@ rules:
   - DOMAIN-SUFFIX,zaticdn.com,国内
   - DOMAIN-SUFFIX,zafinsvc.com,国内
   - DOMAIN-SUFFIX,deepseek.com,国内
+  - DOMAIN-SUFFIX,fp.ps.netease.com,国内
+  - DOMAIN-SUFFIX,163.com,国内
+  - DOMAIN-SUFFIX,adl.netease.com,国内
+  - DOMAIN-SUFFIX,adl.easebar.com,国内
   - DOMAIN-SUFFIX,acl4.ssr,国内
   - DOMAIN-SUFFIX,ip6-localhost,国内
   - DOMAIN-SUFFIX,ip6-loopback,国内
@@ -41107,6 +41111,7 @@ rules:
   - DOMAIN-SUFFIX,experts-univers.com,国外
   - DOMAIN-SUFFIX,exploader.net,国外
   - DOMAIN-SUFFIX,expofutures.com,国外
+  - DOMAIN-SUFFIX,expressnews.com,国外
   - DOMAIN-SUFFIX,expressvpn.com,国外
   - DOMAIN-SUFFIX,exrates.me,国外
   - DOMAIN-SUFFIX,extmatrix.com,国外
