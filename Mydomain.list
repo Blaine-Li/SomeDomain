@@ -29,8 +29,10 @@ DOMAIN-SUFFIX,kuangstudy.com
 DOMAIN-SUFFIX,dp.tech
 DOMAIN-SUFFIX,autodl.com
 DOMAIN-SUFFIX,nas.oursus.top
-DOMAIN-SUFFIX,natfrp-api.globalslb.net
-DOMAIN-SUFFIX,frp-fit.com
+DOMAIN-SUFFIX,globalslb.net
+DOMAIN-SUFFIX,frp-put.com
+DOMAIN-SUFFIX,natfrp.com
+DOMAIN-SUFFIX,13a.com
 DOMAIN-SUFFIX,wsl.oursus.top
 DOMAIN-SUFFIX,autodesk.com
 DOMAIN-SUFFIX,autodesk360.com
