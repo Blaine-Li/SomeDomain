@@ -107,8 +107,10 @@ rules:
   - DOMAIN-SUFFIX,dp.tech,国内
   - DOMAIN-SUFFIX,autodl.com,国内
   - DOMAIN-SUFFIX,nas.oursus.top,国内
-  - DOMAIN-SUFFIX,natfrp-api.globalslb.net,国内
-  - DOMAIN-SUFFIX,frp-fit.com,国内
+  - DOMAIN-SUFFIX,globalslb.net,国内
+  - DOMAIN-SUFFIX,frp-put.com,国内
+  - DOMAIN-SUFFIX,natfrp.com,国内
+  - DOMAIN-SUFFIX,13a.com,国内
   - DOMAIN-SUFFIX,wsl.oursus.top,国内
   - DOMAIN-SUFFIX,autodesk.com,国内
   - DOMAIN-SUFFIX,autodesk360.com,国内
@@ -15314,6 +15316,7 @@ rules:
   - DOMAIN-SUFFIX,blackstonespoliceservice.com,国外
   - DOMAIN-SUFFIX,blacktowhite.net,国外
   - DOMAIN-SUFFIX,blake.ac.uk,国外
+  - DOMAIN-SUFFIX,blanc.ru,国外
   - DOMAIN-SUFFIX,blaoshi.cc,国外
   - DOMAIN-SUFFIX,blast.io,国外
   - DOMAIN-SUFFIX,blazor.net,国外
@@ -15995,6 +15998,7 @@ rules:
   - DOMAIN-SUFFIX,bostoncentre.ac.uk,国外
   - DOMAIN-SUFFIX,boswp.com,国外
   - DOMAIN-SUFFIX,botframework.com,国外
+  - DOMAIN-SUFFIX,botim.me,国外
   - DOMAIN-SUFFIX,botmechanic.io,国外
   - DOMAIN-SUFFIX,botorch.org,国外
   - DOMAIN-SUFFIX,botstop.com,国外
@@ -17705,6 +17709,7 @@ rules:
   - DOMAIN-SUFFIX,coova.net,国外
   - DOMAIN-SUFFIX,coova.org,国外
   - DOMAIN-SUFFIX,copac.ac.uk,国外
+  - DOMAIN-SUFFIX,copilot.com,国外
   - DOMAIN-SUFFIX,copim.ac.uk,国外
   - DOMAIN-SUFFIX,copior.ac.uk,国外
   - DOMAIN-SUFFIX,copro.pw,国外
@@ -23458,6 +23463,9 @@ rules:
   - DOMAIN-SUFFIX,horizontal-systems.com,国外
   - DOMAIN-SUFFIX,horizontalglue.com,国外
   - DOMAIN-SUFFIX,horizontalsystems.com,国外
+  - DOMAIN-SUFFIX,hornet.com,国外
+  - DOMAIN-SUFFIX,hornetapp.com,国外
+  - DOMAIN-SUFFIX,hornetx.com,国外
   - DOMAIN-SUFFIX,horniman.ac.uk,国外
   - DOMAIN-SUFFIX,hornyasianmilfs.com,国外
   - DOMAIN-SUFFIX,hornybitches.org,国外
@@ -26375,6 +26383,7 @@ rules:
   - DOMAIN-SUFFIX,listerpostgraduate.ac.uk,国外
   - DOMAIN-SUFFIX,listinganalytics.net,国外
   - DOMAIN-SUFFIX,litbus-anime.com,国外
+  - DOMAIN-SUFFIX,litecoin.org,国外
   - DOMAIN-SUFFIX,literatumonline.com,国外
   - DOMAIN-SUFFIX,literotica.com,国外
   - DOMAIN-SUFFIX,litt.ac.uk,国外
@@ -28929,7 +28938,9 @@ rules:
   - DOMAIN-SUFFIX,netflixtechblog.com,国外
   - DOMAIN-SUFFIX,netlab.ac.uk,国外
   - DOMAIN-SUFFIX,netlify.com,国外
+  - DOMAIN-SUFFIX,netlifydns.com,国外
   - DOMAIN-SUFFIX,netlifystatus.com,国外
+  - DOMAIN-SUFFIX,netlifyusercontent.com,国外
   - DOMAIN-SUFFIX,netlock.hu,国外
   - DOMAIN-SUFFIX,netname.com.br,国外
   - DOMAIN-SUFFIX,netpornsex.com,国外
@@ -29576,6 +29587,7 @@ rules:
   - DOMAIN-SUFFIX,ntec.ac.uk,国外
   - DOMAIN-SUFFIX,ntfs.ac.uk,国外
   - DOMAIN-SUFFIX,ntidagenham.ac.uk,国外
+  - DOMAIN-SUFFIX,ntl.fyi,国外
   - DOMAIN-SUFFIX,ntnews.com.au,国外
   - DOMAIN-SUFFIX,ntp-os01.ocn.ad.jp,国外
   - DOMAIN-SUFFIX,ntp-tk01.ocn.ad.jp,国外
@@ -45564,6 +45576,7 @@ rules:
   - DOMAIN-SUFFIX,webrush.net,国外
   - DOMAIN-SUFFIX,webs-tv.net,国外
   - DOMAIN-SUFFIX,websdr.org,国外
+  - DOMAIN-SUFFIX,webshare.io,国外
   - DOMAIN-SUFFIX,website.new,国外
   - DOMAIN-SUFFIX,websitepulse.com,国外
   - DOMAIN-SUFFIX,websnapr.com,国外
