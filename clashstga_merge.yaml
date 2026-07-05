@@ -11461,7 +11461,6 @@ rules:
   - DOMAIN,hub.slarker.me,国外
   - DOMAIN,i.jeded.com,国外
   - DOMAIN,imperial.insendi.com,国外
-  - DOMAIN,ingest.apple-studies.com,国外
   - DOMAIN,lgelectronics.122.2o7.net,国外
   - DOMAIN,linkedin.sc.omtrdc.net,国外
   - DOMAIN,live-patreon-marketing.pantheonsite.io,国外
@@ -13422,6 +13421,7 @@ rules:
   - DOMAIN-SUFFIX,apple-pay.wang,国外
   - DOMAIN-SUFFIX,apple-store.net,国外
   - DOMAIN-SUFFIX,apple-store.wang,国外
+  - DOMAIN-SUFFIX,apple-studies.com,国外
   - DOMAIN-SUFFIX,apple-usa.net,国外
   - DOMAIN-SUFFIX,apple.ae,国外
   - DOMAIN-SUFFIX,apple.at,国外
@@ -13951,6 +13951,7 @@ rules:
   - DOMAIN-SUFFIX,atlassian-dev.net,国外
   - DOMAIN-SUFFIX,atlassian.com,国外
   - DOMAIN-SUFFIX,atlassian.net,国外
+  - DOMAIN-SUFFIX,atmeta.com,国外
   - DOMAIN-SUFFIX,atokara.jp,国外
   - DOMAIN-SUFFIX,atom.io,国外
   - DOMAIN-SUFFIX,atomyze.ru,国外
@@ -14331,6 +14332,7 @@ rules:
   - DOMAIN-SUFFIX,aziani.com,国外
   - DOMAIN-SUFFIX,aznude.com,国外
   - DOMAIN-SUFFIX,azubu.tv,国外
+  - DOMAIN-SUFFIX,azure-api.net,国外
   - DOMAIN-SUFFIX,azure-devices-int.net,国外
   - DOMAIN-SUFFIX,azure-devices.net,国外
   - DOMAIN-SUFFIX,azure-dns.com,国外
@@ -14366,6 +14368,7 @@ rules:
   - DOMAIN-SUFFIX,azureserviceprofiler.com,国外
   - DOMAIN-SUFFIX,azuresmartspaces.net,国外
   - DOMAIN-SUFFIX,azurestackvalidation.com,国外
+  - DOMAIN-SUFFIX,azurestaticapps.net,国外
   - DOMAIN-SUFFIX,b-cdn.net,国外
   - DOMAIN-SUFFIX,b-eroland.net,国外
   - DOMAIN-SUFFIX,b-ok.africa,国外
