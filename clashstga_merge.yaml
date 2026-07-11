@@ -26875,6 +26875,7 @@ rules:
   - DOMAIN-SUFFIX,makearmanotwar.com,国外
   - DOMAIN-SUFFIX,makebettercode.com,国外
   - DOMAIN-SUFFIX,makecode.org,国外
+  - DOMAIN-SUFFIX,makeeu.com,国外
   - DOMAIN-SUFFIX,makeitopen.com,国外
   - DOMAIN-SUFFIX,makeitrealcontest.com,国外
   - DOMAIN-SUFFIX,makerepeater.jp,国外
@@ -27927,6 +27928,7 @@ rules:
   - DOMAIN-SUFFIX,mist.ac.uk,国外
   - DOMAIN-SUFFIX,mistresskym.com,国外
   - DOMAIN-SUFFIX,mit.net,国外
+  - DOMAIN-SUFFIX,mitao.bar,国外
   - DOMAIN-SUFFIX,miteam.com,国外
   - DOMAIN-SUFFIX,mitnaka.com,国外
   - DOMAIN-SUFFIX,mitpressjournals.org,国外
