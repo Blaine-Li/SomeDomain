@@ -11417,6 +11417,7 @@ rules:
   - IP-CIDR,142.250.0.0/16,国外,no-resolve
   - DOMAIN,1password.drift.click,国外
   - DOMAIN,adobeereg.com,国外
+  - DOMAIN,agb9r0ad.qllfkl.com,国外
   - DOMAIN,angle.com.tw,国外
   - DOMAIN,api-p.videomarket.jp,国外
   - DOMAIN,apple.com.akadns.net,国外
@@ -11457,6 +11458,7 @@ rules:
   - DOMAIN,github-api.arkoselabs.com,国外
   - DOMAIN,gog-cdn-lumen.secure2.footprint.net,国外
   - DOMAIN,gog.qtlglb.com,国外
+  - DOMAIN,hb4bbbbb.pmhcjk.com,国外
   - DOMAIN,holoxx.f5.si,国外
   - DOMAIN,hpstore.corpmerchandise.com,国外
   - DOMAIN,hub.slarker.me,国外
@@ -11468,6 +11470,7 @@ rules:
   - DOMAIN,medone-education.thieme.com,国外
   - DOMAIN,muse.jhu.edu,国外
   - DOMAIN,nationalaustraliaban.tt.omtrdc.net,国外
+  - DOMAIN,nbbb1bb7.pmhcjk.com,国外
   - DOMAIN,ntp-c.colorado.edu,国外
   - DOMAIN,ntp.time.nl,国外
   - DOMAIN,ntp0.ntp-servers.net,国外
@@ -11490,6 +11493,7 @@ rules:
   - DOMAIN,practivate.adobe.ntp,国外
   - DOMAIN,public-us-pingsx.api.clonoth.com,国外
   - DOMAIN,push-apple.com.akadns.net,国外
+  - DOMAIN,q676790b.pmhcjk.com,国外
   - DOMAIN,qualcomm.sc.omtrdc.net,国外
   - DOMAIN,roovza-launches.appsflyersdk.com,国外
   - DOMAIN,roovza.inapps.appsflyersdk.com,国外
@@ -12845,7 +12849,6 @@ rules:
   - DOMAIN-SUFFIX,alexanderlondoncollege.ac.uk,国外
   - DOMAIN-SUFFIX,alexanderstreet.com,国外
   - DOMAIN-SUFFIX,alfa.me,国外
-  - DOMAIN-SUFFIX,alfabank.oavdo.amc,国外
   - DOMAIN-SUFFIX,alfabank.ru,国外
   - DOMAIN-SUFFIX,alfabank.st,国外
   - DOMAIN-SUFFIX,alfadirect.ru,国外
@@ -15901,6 +15904,7 @@ rules:
   - DOMAIN-SUFFIX,bnef.com,国外
   - DOMAIN-SUFFIX,bntrace.com,国外
   - DOMAIN-SUFFIX,bnu.ac.uk,国外
+  - DOMAIN-SUFFIX,bnxz.net,国外
   - DOMAIN-SUFFIX,boa.ac.uk,国外
   - DOMAIN-SUFFIX,bobble.ac.uk,国外
   - DOMAIN-SUFFIX,boboporn.com,国外
@@ -16445,6 +16449,7 @@ rules:
   - DOMAIN-SUFFIX,byjhd.com,国外
   - DOMAIN-SUFFIX,bymj.io,国外
   - DOMAIN-SUFFIX,byspotify.com,国外
+  - DOMAIN-SUFFIX,bystys.tech,国外
   - DOMAIN-SUFFIX,bytick.com,国外
   - DOMAIN-SUFFIX,byzantine-ahrb-centre.ac.uk,国外
   - DOMAIN-SUFFIX,byzantium.ac.uk,国外
@@ -17051,6 +17056,7 @@ rules:
   - DOMAIN-SUFFIX,chatango.com,国外
   - DOMAIN-SUFFIX,chatgpt.com,国外
   - DOMAIN-SUFFIX,chatgpt.livekit.cloud,国外
+  - DOMAIN-SUFFIX,chatgpt.site,国外
   - DOMAIN-SUFFIX,chatgptvideo.xyz,国外
   - DOMAIN-SUFFIX,chatgptvideob.buzz,国外
   - DOMAIN-SUFFIX,chatsex.xxx,国外
@@ -25780,6 +25786,7 @@ rules:
   - DOMAIN-SUFFIX,khotruyentranhx.com,国外
   - DOMAIN-SUFFIX,kiad.ac.uk,国外
   - DOMAIN-SUFFIX,kichikuou.com,国外
+  - DOMAIN-SUFFIX,kick.com,国外
   - DOMAIN-SUFFIX,kickporn.com,国外
   - DOMAIN-SUFFIX,kickshatchannel.com,国外
   - DOMAIN-SUFFIX,kicksnike1.com,国外
@@ -26321,6 +26328,11 @@ rules:
   - DOMAIN-SUFFIX,lightxxxtube.com,国外
   - DOMAIN-SUFFIX,lihe.ac.uk,国外
   - DOMAIN-SUFFIX,lihksnap.com,国外
+  - DOMAIN-SUFFIX,like-video.com,国外
+  - DOMAIN-SUFFIX,likee.com,国外
+  - DOMAIN-SUFFIX,likeeapp.ru,国外
+  - DOMAIN-SUFFIX,likeevideo.com,国外
+  - DOMAIN-SUFFIX,likeevideo.ru,国外
   - DOMAIN-SUFFIX,likeseiyu.com,国外
   - DOMAIN-SUFFIX,liketruyen.net,国外
   - DOMAIN-SUFFIX,liketwice.com,国外
@@ -30269,6 +30281,7 @@ rules:
   - DOMAIN-SUFFIX,overthumbs.com,国外
   - DOMAIN-SUFFIX,owl-elearning.ac.uk,国外
   - DOMAIN-SUFFIX,owsc.ac.uk,国外
+  - DOMAIN-SUFFIX,owxd.xyz,国外
   - DOMAIN-SUFFIX,ox.ac.uk,国外
   - DOMAIN-SUFFIX,oxademy.ac.uk,国外
   - DOMAIN-SUFFIX,oxahsc.ac.uk,国外
@@ -36460,6 +36473,7 @@ rules:
   - DOMAIN-SUFFIX,uxbridgecollege.ac.uk,国外
   - DOMAIN-SUFFIX,uxthemes.com,国外
   - DOMAIN-SUFFIX,uxxxporn.com,国外
+  - DOMAIN-SUFFIX,uxzw.club,国外
   - DOMAIN-SUFFIX,uyghurcanadian.ca,国外
   - DOMAIN-SUFFIX,v-av.com,国外
   - DOMAIN-SUFFIX,v-has.com,国外
@@ -39224,6 +39238,7 @@ rules:
   - DOMAIN-SUFFIX,ysvia.com,国外
   - DOMAIN-SUFFIX,yswet.com,国外
   - DOMAIN-SUFFIX,ysx-mm.com,国外
+  - DOMAIN-SUFFIX,yucf.top,国外
   - DOMAIN-SUFFIX,yuenuge113.xyz,国外
   - DOMAIN-SUFFIX,yuenuge18.cc,国外
   - DOMAIN-SUFFIX,yugioh-card.com,国外
