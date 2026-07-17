@@ -14363,6 +14363,7 @@ rules:
   - DOMAIN-SUFFIX,azuredns-prd.info,国外
   - DOMAIN-SUFFIX,azuredns-prd.org,国外
   - DOMAIN-SUFFIX,azureedge-test.net,国外
+  - DOMAIN-SUFFIX,azureedge.us,国外
   - DOMAIN-SUFFIX,azurefd.net,国外
   - DOMAIN-SUFFIX,azureiotcentral.com,国外
   - DOMAIN-SUFFIX,azureiotsolutions.com,国外
@@ -17722,6 +17723,7 @@ rules:
   - DOMAIN-SUFFIX,coova.net,国外
   - DOMAIN-SUFFIX,coova.org,国外
   - DOMAIN-SUFFIX,copac.ac.uk,国外
+  - DOMAIN-SUFFIX,copilot-stg.com,国外
   - DOMAIN-SUFFIX,copilot.com,国外
   - DOMAIN-SUFFIX,copim.ac.uk,国外
   - DOMAIN-SUFFIX,copior.ac.uk,国外
@@ -27449,6 +27451,7 @@ rules:
   - DOMAIN-SUFFIX,mhcb.ru,国外
   - DOMAIN-SUFFIX,mhcbr.ru,国外
   - DOMAIN-SUFFIX,mhdss.ac.uk,国外
+  - DOMAIN-SUFFIX,mhgui.com,国外
   - DOMAIN-SUFFIX,mhhanman.xyz,国外
   - DOMAIN-SUFFIX,mhie.ac.uk,国外
   - DOMAIN-SUFFIX,mhqwe.xyz,国外
@@ -28984,6 +28987,7 @@ rules:
   - DOMAIN-SUFFIX,netvideogirls.com,国外
   - DOMAIN-SUFFIX,netvigator.com,国外
   - DOMAIN-SUFFIX,netwise.ac.uk,国外
+  - DOMAIN-SUFFIX,netxh.blog,国外
   - DOMAIN-SUFFIX,netzerobuildings.com,国外
   - DOMAIN-SUFFIX,netzerobuildingstudio.com,国外
   - DOMAIN-SUFFIX,netzwerkdeutsch.ac.uk,国外
@@ -34445,6 +34449,7 @@ rules:
   - DOMAIN-SUFFIX,stargazer-games.com,国外
   - DOMAIN-SUFFIX,stark-verlag.ch,国外
   - DOMAIN-SUFFIX,starlink.ac.uk,国外
+  - DOMAIN-SUFFIX,starlink.com,国外
   - DOMAIN-SUFFIX,starott.com,国外
   - DOMAIN-SUFFIX,starplus.com,国外
   - DOMAIN-SUFFIX,stars.ac.uk,国外
