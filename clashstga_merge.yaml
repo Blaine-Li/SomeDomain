@@ -11648,7 +11648,6 @@ rules:
   - DOMAIN-SUFFIX,18comic-god.xyz,国外
   - DOMAIN-SUFFIX,18comic.cc,国外
   - DOMAIN-SUFFIX,18comic.company,国外
-  - DOMAIN-SUFFIX,18comic.vip,国外
   - DOMAIN-SUFFIX,18commic.com,国外
   - DOMAIN-SUFFIX,18doujin.com,国外
   - DOMAIN-SUFFIX,18doujinshi.xyz,国外
@@ -31810,6 +31809,7 @@ rules:
   - DOMAIN-SUFFIX,qmw.ac.uk,国外
   - DOMAIN-SUFFIX,qmzdd.com,国外
   - DOMAIN-SUFFIX,qnap.com,国外
+  - DOMAIN-SUFFIX,qnapsupport.net,国外
   - DOMAIN-SUFFIX,qobuz.com,国外
   - DOMAIN-SUFFIX,qombol.com,国外
   - DOMAIN-SUFFIX,qoo-app.com,国外
@@ -39463,6 +39463,7 @@ rules:
   - DOMAIN-SUFFIX,18board.com,国外
   - DOMAIN-SUFFIX,18board.info,国外
   - DOMAIN-SUFFIX,18comic.org,国外
+  - DOMAIN-SUFFIX,18comic.vip,国外
   - DOMAIN-SUFFIX,18mh.net,国外
   - DOMAIN-SUFFIX,18onlygirls.com,国外
   - DOMAIN-SUFFIX,18p2p.com,国外
