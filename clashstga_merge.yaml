@@ -45034,6 +45034,7 @@ rules:
   - DOMAIN-SUFFIX,toh.info,国外
   - DOMAIN-SUFFIX,token.im,国外
   - DOMAIN-SUFFIX,tokenlon.im,国外
+  - DOMAIN-SUFFIX,tokenplus.app,国外
   - DOMAIN-SUFFIX,tokyo-247.com,国外
   - DOMAIN-SUFFIX,tokyo-hot.com,国外
   - DOMAIN-SUFFIX,tokyocn.com,国外
@@ -46052,6 +46053,7 @@ rules:
   - DOMAIN-SUFFIX,zello.com,国外
   - DOMAIN-SUFFIX,zengjinyan.org,国外
   - DOMAIN-SUFFIX,zenmate.com,国外
+  - DOMAIN-SUFFIX,zenmux.ai,国外
   - DOMAIN-SUFFIX,zerohedge.com,国外
   - DOMAIN-SUFFIX,zeronet.io,国外
   - DOMAIN-SUFFIX,zeutch.com,国外
