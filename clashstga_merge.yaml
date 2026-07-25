@@ -18972,6 +18972,7 @@ rules:
   - DOMAIN-SUFFIX,doclercdn.com,国外
   - DOMAIN-SUFFIX,docs.com,国外
   - DOMAIN-SUFFIX,docs.rs,国外
+  - DOMAIN-SUFFIX,docs.rw,国外
   - DOMAIN-SUFFIX,doctor-videos.com,国外
   - DOMAIN-SUFFIX,documentforce.com,国外
   - DOMAIN-SUFFIX,docusend.ac.uk,国外
@@ -26512,6 +26513,7 @@ rules:
   - DOMAIN-SUFFIX,localxlist.org,国外
   - DOMAIN-SUFFIX,locate.ac.uk,国外
   - DOMAIN-SUFFIX,lockssalliance.ac.uk,国外
+  - DOMAIN-SUFFIX,log.rw,国外
   - DOMAIN-SUFFIX,logi.com,国外
   - DOMAIN-SUFFIX,logic.ac.uk,国外
   - DOMAIN-SUFFIX,logicool.co.jp,国外
@@ -35826,6 +35828,7 @@ rules:
   - DOMAIN-SUFFIX,truyenkk1.com,国外
   - DOMAIN-SUFFIX,truyentranh86.com,国外
   - DOMAIN-SUFFIX,truyenwk.com,国外
+  - DOMAIN-SUFFIX,try.rw,国外
   - DOMAIN-SUFFIX,tryalias.com,国外
   - DOMAIN-SUFFIX,tryboobs.com,国外
   - DOMAIN-SUFFIX,trycloudflare.com,国外
@@ -40531,6 +40534,7 @@ rules:
   - DOMAIN-SUFFIX,cienen.com,国外
   - DOMAIN-SUFFIX,cineastentreff.de,国外
   - DOMAIN-SUFFIX,cipfg.org,国外
+  - DOMAIN-SUFFIX,circle19.org,国外
   - DOMAIN-SUFFIX,circlethebayfortibet.org,国外
   - DOMAIN-SUFFIX,cirosantilli.com,国外
   - DOMAIN-SUFFIX,citizencn.com,国外
@@ -42546,6 +42550,7 @@ rules:
   - DOMAIN-SUFFIX,kanzhongguo.eu,国外
   - DOMAIN-SUFFIX,kaotic.com,国外
   - DOMAIN-SUFFIX,karayou.com,国外
+  - DOMAIN-SUFFIX,kards.com,国外
   - DOMAIN-SUFFIX,karkhung.com,国外
   - DOMAIN-SUFFIX,karmapa-teachings.org,国外
   - DOMAIN-SUFFIX,karmapa.org,国外
