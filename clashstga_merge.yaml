@@ -12250,6 +12250,7 @@ rules:
   - DOMAIN-SUFFIX,acsis.ac.uk,国外
   - DOMAIN-SUFFIX,actalis.com,国外
   - DOMAIN-SUFFIX,actalis.it,国外
+  - DOMAIN-SUFFIX,actifio.com,国外
   - DOMAIN-SUFFIX,activatelearning.ac.uk,国外
   - DOMAIN-SUFFIX,activelearnprimary.co.uk,国外
   - DOMAIN-SUFFIX,activelearnprimary.com.au,国外
@@ -17002,7 +17003,6 @@ rules:
   - DOMAIN-SUFFIX,ceramics-cadcam.com,国外
   - DOMAIN-SUFFIX,cercia.ac.uk,国外
   - DOMAIN-SUFFIX,cerdas.com,国外
-  - DOMAIN-SUFFIX,cerebras.ai,国外
   - DOMAIN-SUFFIX,ceredigion.ac.uk,国外
   - DOMAIN-SUFFIX,ceri.ac.uk,国外
   - DOMAIN-SUFFIX,cerlim.ac.uk,国外
@@ -17234,7 +17234,6 @@ rules:
   - DOMAIN-SUFFIX,chroniclesec.com,国外
   - DOMAIN-SUFFIX,chrysaliscourses.ac.uk,国外
   - DOMAIN-SUFFIX,chs.ac.uk,国外
-  - DOMAIN-SUFFIX,cht.com.tw,国外
   - DOMAIN-SUFFIX,chtf.org.tw,国外
   - DOMAIN-SUFFIX,chuangb15.xyz,国外
   - DOMAIN-SUFFIX,chubbypornonly.com,国外
@@ -25383,7 +25382,10 @@ rules:
   - DOMAIN-SUFFIX,jetbrains.ai,国外
   - DOMAIN-SUFFIX,jetbrains.cloud,国外
   - DOMAIN-SUFFIX,jetbrains.com,国外
+  - DOMAIN-SUFFIX,jetbrains.dev,国外
   - DOMAIN-SUFFIX,jetbrains.net,国外
+  - DOMAIN-SUFFIX,jetbrains.org,国外
+  - DOMAIN-SUFFIX,jetbrains.ru,国外
   - DOMAIN-SUFFIX,jetbrains.space,国外
   - DOMAIN-SUFFIX,jetbrains.team,国外
   - DOMAIN-SUFFIX,jetfuelapp.com,国外
@@ -25970,6 +25972,8 @@ rules:
   - DOMAIN-SUFFIX,koshelek.app,国外
   - DOMAIN-SUFFIX,koskade.com,国外
   - DOMAIN-SUFFIX,kostenlosepornoclips.com,国外
+  - DOMAIN-SUFFIX,kotl.in,国外
+  - DOMAIN-SUFFIX,kotlinconf.com,国外
   - DOMAIN-SUFFIX,kotlinlang.org,国外
   - DOMAIN-SUFFIX,koubaibu.jp,国外
   - DOMAIN-SUFFIX,koukoku.jp,国外
@@ -25996,6 +26000,7 @@ rules:
   - DOMAIN-SUFFIX,kssdeanery.ac.uk,国外
   - DOMAIN-SUFFIX,ksyp10.com,国外
   - DOMAIN-SUFFIX,ktech.team,国外
+  - DOMAIN-SUFFIX,ktor.io,国外
   - DOMAIN-SUFFIX,ktvu.com,国外
   - DOMAIN-SUFFIX,ku77.xyz,国外
   - DOMAIN-SUFFIX,kuaimao-app.com,国外
@@ -28289,6 +28294,7 @@ rules:
   - DOMAIN-SUFFIX,mozilla-europe.org,国外
   - DOMAIN-SUFFIX,mozilla-hispano.org,国外
   - DOMAIN-SUFFIX,mozilla-mexico.org,国外
+  - DOMAIN-SUFFIX,mozilla.ai,国外
   - DOMAIN-SUFFIX,mozilla.com,国外
   - DOMAIN-SUFFIX,mozilla.community,国外
   - DOMAIN-SUFFIX,mozilla.cz,国外
@@ -28586,6 +28592,7 @@ rules:
   - DOMAIN-SUFFIX,myhulu.com,国外
   - DOMAIN-SUFFIX,myicloud.net,国外
   - DOMAIN-SUFFIX,myipod.net,国外
+  - DOMAIN-SUFFIX,myjetbrains.com,国外
   - DOMAIN-SUFFIX,myjkwd.com,国外
   - DOMAIN-SUFFIX,mylabnotebook.ac.uk,国外
   - DOMAIN-SUFFIX,mylcb.ac.uk,国外
@@ -30185,6 +30192,7 @@ rules:
   - DOMAIN-SUFFIX,openweather.co.uk,国外
   - DOMAIN-SUFFIX,openweathermap.org,国外
   - DOMAIN-SUFFIX,openweave.io,国外
+  - DOMAIN-SUFFIX,openxla.org,国外
   - DOMAIN-SUFFIX,opera-archive.ac.uk,国外
   - DOMAIN-SUFFIX,opera-mini.net,国外
   - DOMAIN-SUFFIX,opinionjournal.com,国外
@@ -35022,6 +35030,7 @@ rules:
   - DOMAIN-SUFFIX,talentlens.com,国外
   - DOMAIN-SUFFIX,taleofthenight.com,国外
   - DOMAIN-SUFFIX,talkinghealthmatters.ac.uk,国外
+  - DOMAIN-SUFFIX,talkingkotlin.com,国外
   - DOMAIN-SUFFIX,talksport.com,国外
   - DOMAIN-SUFFIX,tamescol.ac.uk,国外
   - DOMAIN-SUFFIX,tameside-acl.ac.uk,国外
@@ -40424,6 +40433,7 @@ rules:
   - DOMAIN-SUFFIX,centerforhumanreprod.com,国外
   - DOMAIN-SUFFIX,centralnation.com,国外
   - DOMAIN-SUFFIX,centurys.net,国外
+  - DOMAIN-SUFFIX,cerebras.ai,国外
   - DOMAIN-SUFFIX,certificate-transparency.org,国外
   - DOMAIN-SUFFIX,cex.io,国外
   - DOMAIN-SUFFIX,cfhks.org.hk,国外
@@ -40548,6 +40558,7 @@ rules:
   - DOMAIN-SUFFIX,chromercise.com,国外
   - DOMAIN-SUFFIX,chromestatus.com,国外
   - DOMAIN-SUFFIX,chromium.org,国外
+  - DOMAIN-SUFFIX,cht.com.tw,国外
   - DOMAIN-SUFFIX,chuang-yen.org,国外
   - DOMAIN-SUFFIX,chubold.com,国外
   - DOMAIN-SUFFIX,chubun.com,国外
@@ -43152,7 +43163,6 @@ rules:
   - DOMAIN-SUFFIX,movements.org,国外
   - DOMAIN-SUFFIX,moves-export.com,国外
   - DOMAIN-SUFFIX,moviefap.com,国外
-  - DOMAIN-SUFFIX,mozilla.ai,国外
   - DOMAIN-SUFFIX,mozilla.org,国外
   - DOMAIN-SUFFIX,moztw.org,国外
   - DOMAIN-SUFFIX,mp3buscador.com,国外
@@ -43473,6 +43483,7 @@ rules:
   - DOMAIN-SUFFIX,ntdtv.jp,国外
   - DOMAIN-SUFFIX,ntdtv.ru,国外
   - DOMAIN-SUFFIX,ntdtvla.com,国外
+  - DOMAIN-SUFFIX,nthlink.com,国外
   - DOMAIN-SUFFIX,ntrfun.com,国外
   - DOMAIN-SUFFIX,ntu.edu.tw,国外
   - DOMAIN-SUFFIX,nu.nl,国外
@@ -44033,7 +44044,6 @@ rules:
   - DOMAIN-SUFFIX,radio.garden,国外
   - DOMAIN-SUFFIX,radioaustralia.net.au,国外
   - DOMAIN-SUFFIX,radiohilight.net,国外
-  - DOMAIN-SUFFIX,radiojar.com,国外
   - DOMAIN-SUFFIX,radioline.co,国外
   - DOMAIN-SUFFIX,radiotime.com,国外
   - DOMAIN-SUFFIX,radiovaticana.org,国外
@@ -45840,7 +45850,6 @@ rules:
   - DOMAIN-SUFFIX,wuyanblog.com,国外
   - DOMAIN-SUFFIX,wwe.com,国外
   - DOMAIN-SUFFIX,wwitv.com,国外
-  - DOMAIN-SUFFIX,www.clashverge.dev,国外
   - DOMAIN-SUFFIX,www1.biz,国外
   - DOMAIN-SUFFIX,wwwhost.biz,国外
   - DOMAIN-SUFFIX,wxw.cat,国外
