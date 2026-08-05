@@ -18307,6 +18307,8 @@ rules:
   - DOMAIN-SUFFIX,deepfreeze.tech,国外
   - DOMAIN-SUFFIX,deeping.ac.uk,国外
   - DOMAIN-SUFFIX,deepl.com,国外
+  - DOMAIN-SUFFIX,deepwiki.com,国外
+  - DOMAIN-SUFFIX,deepwiki.org,国外
   - DOMAIN-SUFFIX,deeside.ac.uk,国外
   - DOMAIN-SUFFIX,defac.ac.uk,国外
   - DOMAIN-SUFFIX,defenceacademy.ac.uk,国外
@@ -21128,8 +21130,11 @@ rules:
   - DOMAIN-SUFFIX,fluids.ac.uk,国外
   - DOMAIN-SUFFIX,flutter.dev,国外
   - DOMAIN-SUFFIX,flutterapp.com,国外
+  - DOMAIN-SUFFIX,fly.dev,国外
+  - DOMAIN-SUFFIX,fly.io,国外
   - DOMAIN-SUFFIX,flyflv.com,国外
   - DOMAIN-SUFFIX,flyingjizz.com,国外
+  - DOMAIN-SUFFIX,flyio.net,国外
   - DOMAIN-SUFFIX,flyyindh-cc.sbs,国外
   - DOMAIN-SUFFIX,fm4.jp,国外
   - DOMAIN-SUFFIX,fmav.top,国外
@@ -22081,6 +22086,7 @@ rules:
   - DOMAIN-SUFFIX,glenfife.ac.uk,国外
   - DOMAIN-SUFFIX,glenrothes-college.ac.uk,国外
   - DOMAIN-SUFFIX,glhl.ac.uk,国外
+  - DOMAIN-SUFFIX,glitchwave.com,国外
   - DOMAIN-SUFFIX,gllm.ac.uk,国外
   - DOMAIN-SUFFIX,global-sci.org,国外
   - DOMAIN-SUFFIX,global.market.xiaomi.com,国外
@@ -30357,14 +30363,17 @@ rules:
   - DOMAIN-SUFFIX,ozon-credit.ru,国外
   - DOMAIN-SUFFIX,ozon-dostavka.ru,国外
   - DOMAIN-SUFFIX,ozon-tech.ru,国外
+  - DOMAIN-SUFFIX,ozon.app,国外
   - DOMAIN-SUFFIX,ozon.by,国外
   - DOMAIN-SUFFIX,ozon.com,国外
   - DOMAIN-SUFFIX,ozon.com.by,国外
   - DOMAIN-SUFFIX,ozon.com.kz,国外
   - DOMAIN-SUFFIX,ozon.dev,国外
   - DOMAIN-SUFFIX,ozon.express,国外
+  - DOMAIN-SUFFIX,ozon.global,国外
   - DOMAIN-SUFFIX,ozon.kz,国外
   - DOMAIN-SUFFIX,ozon.li,国外
+  - DOMAIN-SUFFIX,ozon.market,国外
   - DOMAIN-SUFFIX,ozon.ru,国外
   - DOMAIN-SUFFIX,ozon.tech,国外
   - DOMAIN-SUFFIX,ozon.tm,国外
@@ -32749,6 +32758,7 @@ rules:
   - DOMAIN-SUFFIX,rutracker.me,国外
   - DOMAIN-SUFFIX,rutracker.nl,国外
   - DOMAIN-SUFFIX,rutrecker.net,国外
+  - DOMAIN-SUFFIX,rutube.sport,国外
   - DOMAIN-SUFFIX,rutubelist.ru,国外
   - DOMAIN-SUFFIX,ruvideos.net,国外
   - DOMAIN-SUFFIX,rvc.ac.uk,国外
@@ -32757,6 +32767,7 @@ rules:
   - DOMAIN-SUFFIX,rwbautomation.tech,国外
   - DOMAIN-SUFFIX,rwbgeo.ru,国外
   - DOMAIN-SUFFIX,rwcmd.ac.uk,国外
+  - DOMAIN-SUFFIX,rym.fm,国外
   - DOMAIN-SUFFIX,ryokoyomiuri.co.jp,国外
   - DOMAIN-SUFFIX,ryukyubank.co.jp,国外
   - DOMAIN-SUFFIX,rzr.to,国外
@@ -33962,6 +33973,7 @@ rules:
   - DOMAIN-SUFFIX,snk-corp.co.jp,国外
   - DOMAIN-SUFFIX,snk-corp.info,国外
   - DOMAIN-SUFFIX,snkplaymore.info,国外
+  - DOMAIN-SUFFIX,snmc.io,国外
   - DOMAIN-SUFFIX,snow.me,国外
   - DOMAIN-SUFFIX,snowcorp.com,国外
   - DOMAIN-SUFFIX,snowmiku.com,国外
@@ -34036,6 +34048,8 @@ rules:
   - DOMAIN-SUFFIX,somanylolies.com,国外
   - DOMAIN-SUFFIX,somerset.ac.uk,国外
   - DOMAIN-SUFFIX,somersetcolleges.ac.uk,国外
+  - DOMAIN-SUFFIX,sonematic.net,国外
+  - DOMAIN-SUFFIX,sonemic.com,国外
   - DOMAIN-SUFFIX,sonorousporn.com,国外
   - DOMAIN-SUFFIX,sony-africa.com,国外
   - DOMAIN-SUFFIX,sony-asia.com,国外
