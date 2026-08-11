@@ -39754,6 +39754,7 @@ rules:
   - DOMAIN-SUFFIX,ai-wen.net,国外
   - DOMAIN-SUFFIX,ai.dev,国外
   - DOMAIN-SUFFIX,ai.studio,国外
+  - DOMAIN-SUFFIX,aihub.top,国外
   - DOMAIN-SUFFIX,aiosearch.com,国外
   - DOMAIN-SUFFIX,aiph.net,国外
   - DOMAIN-SUFFIX,airasia.com,国外
@@ -40971,6 +40972,7 @@ rules:
   - DOMAIN-SUFFIX,disqus.com,国外
   - DOMAIN-SUFFIX,disquscdn.com,国外
   - DOMAIN-SUFFIX,dit-inc.us,国外
+  - DOMAIN-SUFFIX,divdyn.com,国外
   - DOMAIN-SUFFIX,diyin.org,国外
   - DOMAIN-SUFFIX,dizhidizhi.com,国外
   - DOMAIN-SUFFIX,dizhuzhishang.com,国外
@@ -41240,6 +41242,7 @@ rules:
   - DOMAIN-SUFFIX,eromon.net,国外
   - DOMAIN-SUFFIX,eroprofile.com,国外
   - DOMAIN-SUFFIX,eroticsaloon.net,国外
+  - DOMAIN-SUFFIX,esim.redteago.com,国外
   - DOMAIN-SUFFIX,eslite.com,国外
   - DOMAIN-SUFFIX,esmtp.biz,国外
   - DOMAIN-SUFFIX,esurance.com,国外
