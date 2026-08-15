@@ -32685,6 +32685,7 @@ rules:
   - DOMAIN-SUFFIX,rscem.ac.uk,国外
   - DOMAIN-SUFFIX,rsd-exeter.ac.uk,国外
   - DOMAIN-SUFFIX,rse.ac.uk,国外
+  - DOMAIN-SUFFIX,rsg.ms,国外
   - DOMAIN-SUFFIX,rsg.sc,国外
   - DOMAIN-SUFFIX,rshb.ru,国外
   - DOMAIN-SUFFIX,rsk.co,国外
@@ -33043,6 +33044,8 @@ rules:
   - DOMAIN-SUFFIX,sbux.com.my,国外
   - DOMAIN-SUFFIX,sbuxcard.com,国外
   - DOMAIN-SUFFIX,sc-cdn.net,国外
+  - DOMAIN-SUFFIX,sc-gw.com,国外
+  - DOMAIN-SUFFIX,sc-static.net,国外
   - DOMAIN-SUFFIX,sc-toolkit.ac.uk,国外
   - DOMAIN-SUFFIX,sc.com,国外
   - DOMAIN-SUFFIX,sc1.ac.uk,国外
