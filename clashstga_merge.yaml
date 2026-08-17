@@ -32818,6 +32818,7 @@ rules:
   - DOMAIN-SUFFIX,rutracker.cr,国外
   - DOMAIN-SUFFIX,rutracker.me,国外
   - DOMAIN-SUFFIX,rutracker.nl,国外
+  - DOMAIN-SUFFIX,rutracker.wiki,国外
   - DOMAIN-SUFFIX,rutrecker.net,国外
   - DOMAIN-SUFFIX,rutube.sport,国外
   - DOMAIN-SUFFIX,rutubelist.ru,国外
