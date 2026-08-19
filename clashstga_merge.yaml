@@ -29567,6 +29567,7 @@ rules:
   - DOMAIN-SUFFIX,nonstopfap.com,国外
   - DOMAIN-SUFFIX,noodlemagazine.com,国外
   - DOMAIN-SUFFIX,noosferabank.ru,国外
+  - DOMAIN-SUFFIX,nordcdn.com,国外
   - DOMAIN-SUFFIX,norfolkcove.ac.uk,国外
   - DOMAIN-SUFFIX,norland.ac.uk,国外
   - DOMAIN-SUFFIX,normanmanagedservices.ac.uk,国外
@@ -37982,7 +37983,6 @@ rules:
   - DOMAIN-SUFFIX,windsor-forest.ac.uk,国外
   - DOMAIN-SUFFIX,windsurf.build,国外
   - DOMAIN-SUFFIX,windsurf.com,国外
-  - DOMAIN-SUFFIX,windy.com,国外
   - DOMAIN-SUFFIX,wing.com,国外
   - DOMAIN-SUFFIX,winhec.com,国外
   - DOMAIN-SUFFIX,winhec.net,国外
@@ -45876,6 +45876,7 @@ rules:
   - DOMAIN-SUFFIX,wilsoncenter.org,国外
   - DOMAIN-SUFFIX,windowsphoneme.com,国外
   - DOMAIN-SUFFIX,windscribe.com,国外
+  - DOMAIN-SUFFIX,windy.com,国外
   - DOMAIN-SUFFIX,wingamestore.com,国外
   - DOMAIN-SUFFIX,wingy.site,国外
   - DOMAIN-SUFFIX,winning11.com,国外
