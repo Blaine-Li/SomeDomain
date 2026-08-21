@@ -11923,6 +11923,7 @@ rules:
   - DOMAIN-SUFFIX,59mvmv.com,国外
   - DOMAIN-SUFFIX,5axis-machining.com,国外
   - DOMAIN-SUFFIX,5beatsbydre.com,国外
+  - DOMAIN-SUFFIX,5ch.io,国外
   - DOMAIN-SUFFIX,5ch.net,国外
   - DOMAIN-SUFFIX,5fang.cc,国外
   - DOMAIN-SUFFIX,5itv.tv,国外
@@ -13161,6 +13162,7 @@ rules:
   - DOMAIN-SUFFIX,amazontrust.com,国外
   - DOMAIN-SUFFIX,amazonvideo.cc,国外
   - DOMAIN-SUFFIX,amazonvideodirect.com,国外
+  - DOMAIN-SUFFIX,amazonwebservices.com,国外
   - DOMAIN-SUFFIX,amazonworkdocs.com,国外
   - DOMAIN-SUFFIX,ambs.ac.uk,国外
   - DOMAIN-SUFFIX,amc.com,国外
@@ -19147,6 +19149,7 @@ rules:
   - DOMAIN-SUFFIX,dream-cdt.ac.uk,国外
   - DOMAIN-SUFFIX,dreambmw.ca,国外
   - DOMAIN-SUFFIX,dreamforce.com,国外
+  - DOMAIN-SUFFIX,dreamgen.com,国外
   - DOMAIN-SUFFIX,dreammovies.com,国外
   - DOMAIN-SUFFIX,dreamorder.com,国外
   - DOMAIN-SUFFIX,dreamteamfc.com,国外
@@ -20737,6 +20740,7 @@ rules:
   - DOMAIN-SUFFIX,fans17.com,国外
   - DOMAIN-SUFFIX,fans66.tw,国外
   - DOMAIN-SUFFIX,fansking.tw,国外
+  - DOMAIN-SUFFIX,fansly.com,国外
   - DOMAIN-SUFFIX,fansnudes.com,国外
   - DOMAIN-SUFFIX,fansone.co,国外
   - DOMAIN-SUFFIX,fanspot.jp,国外
@@ -29276,6 +29280,8 @@ rules:
   - DOMAIN-SUFFIX,nicis.ac.uk,国外
   - DOMAIN-SUFFIX,nickscipio.com,国外
   - DOMAIN-SUFFIX,nicky.xxx,国外
+  - DOMAIN-SUFFIX,nico.ms,国外
+  - DOMAIN-SUFFIX,nicochannel.jp,国外
   - DOMAIN-SUFFIX,nicodic.jp,国外
   - DOMAIN-SUFFIX,nicolepeters.com,国外
   - DOMAIN-SUFFIX,nicomanga.jp,国外
@@ -29607,6 +29613,7 @@ rules:
   - DOMAIN-SUFFIX,northumbria.ac.uk,国外
   - DOMAIN-SUFFIX,norton.com,国外
   - DOMAIN-SUFFIX,norwichresearchpark.ac.uk,国外
+  - DOMAIN-SUFFIX,notegpt.io,国外
   - DOMAIN-SUFFIX,noticias-rt.com,国外
   - DOMAIN-SUFFIX,notimundo.press,国外
   - DOMAIN-SUFFIX,notion-static.com,国外
@@ -29630,6 +29637,7 @@ rules:
   - DOMAIN-SUFFIX,nottinghamtrentadfs.ac.uk,国外
   - DOMAIN-SUFFIX,nottm-coll.ac.uk,国外
   - DOMAIN-SUFFIX,nottsmaternity.ac.uk,国外
+  - DOMAIN-SUFFIX,novelai.net,国外
   - DOMAIN-SUFFIX,novella.ac.uk,国外
   - DOMAIN-SUFFIX,noveltrove.com,国外
   - DOMAIN-SUFFIX,novids.com,国外
@@ -35118,6 +35126,7 @@ rules:
   - DOMAIN-SUFFIX,talantix.ru,国外
   - DOMAIN-SUFFIX,talentlens.com,国外
   - DOMAIN-SUFFIX,taleofthenight.com,国外
+  - DOMAIN-SUFFIX,talkai.info,国外
   - DOMAIN-SUFFIX,talkinghealthmatters.ac.uk,国外
   - DOMAIN-SUFFIX,talkingkotlin.com,国外
   - DOMAIN-SUFFIX,talksport.com,国外
@@ -43658,6 +43667,7 @@ rules:
   - DOMAIN-SUFFIX,okpool.me,国外
   - DOMAIN-SUFFIX,okx.com,国外
   - DOMAIN-SUFFIX,old-cat.net,国外
+  - DOMAIN-SUFFIX,oldmapsonline.org,国外
   - DOMAIN-SUFFIX,olehdtv.com,国外
   - DOMAIN-SUFFIX,olelive.com,国外
   - DOMAIN-SUFFIX,olevod.com,国外
