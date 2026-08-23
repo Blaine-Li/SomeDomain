@@ -17084,7 +17084,6 @@ rules:
   - DOMAIN-SUFFIX,chatango.com,国外
   - DOMAIN-SUFFIX,chatgpt.com,国外
   - DOMAIN-SUFFIX,chatgpt.livekit.cloud,国外
-  - DOMAIN-SUFFIX,chatgpt.site,国外
   - DOMAIN-SUFFIX,chatgptvideo.xyz,国外
   - DOMAIN-SUFFIX,chatgptvideob.buzz,国外
   - DOMAIN-SUFFIX,chatsex.xxx,国外
@@ -33010,7 +33009,6 @@ rules:
   - DOMAIN-SUFFIX,saynow.com,国外
   - DOMAIN-SUFFIX,sb-mobile.jp,国外
   - DOMAIN-SUFFIX,sb-telecom.net,国外
-  - DOMAIN-SUFFIX,sb.sb,国外
   - DOMAIN-SUFFIX,sb24.com,国外
   - DOMAIN-SUFFIX,sbank.ir,国外
   - DOMAIN-SUFFIX,sbc.ac.uk,国外
@@ -40352,6 +40350,7 @@ rules:
   - DOMAIN-SUFFIX,breaking911.com,国外
   - DOMAIN-SUFFIX,breakingtweets.com,国外
   - DOMAIN-SUFFIX,breakwall.net,国外
+  - DOMAIN-SUFFIX,briarproject.org,国外
   - DOMAIN-SUFFIX,briefdream.com,国外
   - DOMAIN-SUFFIX,briian.com,国外
   - DOMAIN-SUFFIX,brill.com,国外
@@ -40566,6 +40565,7 @@ rules:
   - DOMAIN-SUFFIX,chapm25.com,国外
   - DOMAIN-SUFFIX,character.ai,国外
   - DOMAIN-SUFFIX,chat.com,国外
+  - DOMAIN-SUFFIX,chatgpt.site,国外
   - DOMAIN-SUFFIX,chatnook.com,国外
   - DOMAIN-SUFFIX,chatpdf.com,国外
   - DOMAIN-SUFFIX,chaturbate.com,国外
@@ -42128,6 +42128,7 @@ rules:
   - DOMAIN-SUFFIX,himemix.net,国外
   - DOMAIN-SUFFIX,hindustantimes.com,国外
   - DOMAIN-SUFFIX,hinet.net,国外
+  - DOMAIN-SUFFIX,historylines.net,国外
   - DOMAIN-SUFFIX,hitbtc.com,国外
   - DOMAIN-SUFFIX,hitomi.la,国外
   - DOMAIN-SUFFIX,hitun.io,国外
@@ -42740,6 +42741,7 @@ rules:
   - DOMAIN-SUFFIX,kir.jp,国外
   - DOMAIN-SUFFIX,kissjav.com,国外
   - DOMAIN-SUFFIX,kiwi.kz,国外
+  - DOMAIN-SUFFIX,kiwix.org,国外
   - DOMAIN-SUFFIX,kk-whys.co.jp,国外
   - DOMAIN-SUFFIX,kkbox.com,国外
   - DOMAIN-SUFFIX,kknews.cc,国外
@@ -43067,6 +43069,7 @@ rules:
   - DOMAIN-SUFFIX,mayimayi.com,国外
   - DOMAIN-SUFFIX,mcadforums.com,国外
   - DOMAIN-SUFFIX,mcaf.ee,国外
+  - DOMAIN-SUFFIX,mceindex.com,国外
   - DOMAIN-SUFFIX,mcfog.com,国外
   - DOMAIN-SUFFIX,mcreasite.com,国外
   - DOMAIN-SUFFIX,mcusercontent.com,国外
@@ -44364,6 +44367,7 @@ rules:
   - DOMAIN-SUFFIX,savevid.com,国外
   - DOMAIN-SUFFIX,say2.info,国外
   - DOMAIN-SUFFIX,sb-cd.com,国外
+  - DOMAIN-SUFFIX,sb.sb,国外
   - DOMAIN-SUFFIX,sbme.me,国外
   - DOMAIN-SUFFIX,sbs.com.au,国外
   - DOMAIN-SUFFIX,sbti.unun.dev,国外
