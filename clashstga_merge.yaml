@@ -12304,6 +12304,7 @@ rules:
   - DOMAIN-SUFFIX,adguard.info,国外
   - DOMAIN-SUFFIX,adguard.io,国外
   - DOMAIN-SUFFIX,adguardaccount.com,国外
+  - DOMAIN-SUFFIX,adguardaccount.net,国外
   - DOMAIN-SUFFIX,adguardcdn.com,国外
   - DOMAIN-SUFFIX,adguardvpn.com,国外
   - DOMAIN-SUFFIX,adhelpnews.com,国外
@@ -22807,6 +22808,7 @@ rules:
   - DOMAIN-SUFFIX,h-webtoon.com,国外
   - DOMAIN-SUFFIX,h0930.com,国外
   - DOMAIN-SUFFIX,h18ani1.vip,国外
+  - DOMAIN-SUFFIX,h264.io,国外
   - DOMAIN-SUFFIX,h2o.ai,国外
   - DOMAIN-SUFFIX,h2porn.com,国外
   - DOMAIN-SUFFIX,habr.com,国外
@@ -30370,6 +30372,7 @@ rules:
   - DOMAIN-SUFFIX,oursexgames.com,国外
   - DOMAIN-SUFFIX,ourshdtv.com,国外
   - DOMAIN-SUFFIX,ourshemales.com,国外
+  - DOMAIN-SUFFIX,ouryahoo.com,国外
   - DOMAIN-SUFFIX,oustudios.ac.uk,国外
   - DOMAIN-SUFFIX,out-app-purchase.com,国外
   - DOMAIN-SUFFIX,outbound.io,国外
@@ -38933,6 +38936,7 @@ rules:
   - DOMAIN-SUFFIX,yahoodns.net,国外
   - DOMAIN-SUFFIX,yahoofinance.com,国外
   - DOMAIN-SUFFIX,yahoohealth.com,国外
+  - DOMAIN-SUFFIX,yahooinc.com,国外
   - DOMAIN-SUFFIX,yahoomusic.com,国外
   - DOMAIN-SUFFIX,yahoosportsbook.com,国外
   - DOMAIN-SUFFIX,yaklass.ru,国外
