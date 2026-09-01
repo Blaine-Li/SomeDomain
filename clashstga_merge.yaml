@@ -29287,7 +29287,6 @@ rules:
   - DOMAIN-SUFFIX,nicolepeters.com,国外
   - DOMAIN-SUFFIX,nicomanga.jp,国外
   - DOMAIN-SUFFIX,niconico.com,国外
-  - DOMAIN-SUFFIX,nicoseiga.jp,国外
   - DOMAIN-SUFFIX,niees.ac.uk,国外
   - DOMAIN-SUFFIX,niesr.ac.uk,国外
   - DOMAIN-SUFFIX,night.livedoor.biz,国外
@@ -41811,6 +41810,7 @@ rules:
   - DOMAIN-SUFFIX,getlantern.org,国外
   - DOMAIN-SUFFIX,getmalus.com,国外
   - DOMAIN-SUFFIX,getmdl.io,国外
+  - DOMAIN-SUFFIX,getmonero.org,国外
   - DOMAIN-SUFFIX,getoutline.org,国外
   - DOMAIN-SUFFIX,getpricetag.com,国外
   - DOMAIN-SUFFIX,getsession.org,国外
@@ -43520,6 +43520,7 @@ rules:
   - DOMAIN-SUFFIX,nhncorp.jp,国外
   - DOMAIN-SUFFIX,nianticlabs.com,国外
   - DOMAIN-SUFFIX,nic.gov,国外
+  - DOMAIN-SUFFIX,nicoseiga.jp,国外
   - DOMAIN-SUFFIX,nicovideo.jp,国外
   - DOMAIN-SUFFIX,nighost.org,国外
   - DOMAIN-SUFFIX,nightlife141.com,国外
