@@ -78,6 +78,7 @@ proxy-groups:
 # ---------------------------------------------------
 
 rules:
+  - DST-PORT,1-79/81-442/444-7999/8001-8079/8081-8442/8444-65535,DIRECT
   - DOMAIN-SUFFIX,readpaper.com,国内
   - DOMAIN-SUFFIX,yunjie.art,国内
   - DOMAIN-SUFFIX,sslibrary.com,国内
@@ -18002,7 +18003,6 @@ rules:
   - DOMAIN-SUFFIX,ctan.org,国外
   - DOMAIN-SUFFIX,ctc.ac.uk,国外
   - DOMAIN-SUFFIX,ctcrm.ac.uk,国外
-  - DOMAIN-SUFFIX,ctee.com.tw,国外
   - DOMAIN-SUFFIX,ctfassets.net,国外
   - DOMAIN-SUFFIX,ctg.ac.uk,国外
   - DOMAIN-SUFFIX,ctk.ac.uk,国外
@@ -40863,6 +40863,7 @@ rules:
   - DOMAIN-SUFFIX,csw.org.uk,国外
   - DOMAIN-SUFFIX,ct.org.tw,国外
   - DOMAIN-SUFFIX,ctao.org,国外
+  - DOMAIN-SUFFIX,ctee.com.tw,国外
   - DOMAIN-SUFFIX,ctfriend.net,国外
   - DOMAIN-SUFFIX,ctinets.com,国外
   - DOMAIN-SUFFIX,ctinews.com,国外
@@ -42904,6 +42905,7 @@ rules:
   - DOMAIN-SUFFIX,linpie.com,国外
   - DOMAIN-SUFFIX,linux.do,国外
   - DOMAIN-SUFFIX,linux.org.hk,国外
+  - DOMAIN-SUFFIX,linux.sb,国外
   - DOMAIN-SUFFIX,linuxtoy.org,国外
   - DOMAIN-SUFFIX,lionsroar.com,国外
   - DOMAIN-SUFFIX,lipuman.com,国外
