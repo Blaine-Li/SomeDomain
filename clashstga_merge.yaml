@@ -29561,6 +29561,7 @@ rules:
   - DOMAIN-SUFFIX,nodequality.com,国外
   - DOMAIN-SUFFIX,nodereal.io,国外
   - DOMAIN-SUFFIX,nodes.ac.uk,国外
+  - DOMAIN-SUFFIX,nodeseek.org,国外
   - DOMAIN-SUFFIX,nodesnoop.com,国外
   - DOMAIN-SUFFIX,nodesource.com,国外
   - DOMAIN-SUFFIX,noisullifb.com,国外
