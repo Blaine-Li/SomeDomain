@@ -44147,6 +44147,7 @@ rules:
   - DOMAIN-SUFFIX,qstatus.com,国外
   - DOMAIN-SUFFIX,qtrac.eu,国外
   - DOMAIN-SUFFIX,qtweeter.com,国外
+  - DOMAIN-SUFFIX,quakemachinex.com,国外
   - DOMAIN-SUFFIX,quannengshen.org,国外
   - DOMAIN-SUFFIX,quantumbooter.net,国外
   - DOMAIN-SUFFIX,quay.io,国外
