@@ -34773,6 +34773,9 @@ rules:
   - DOMAIN-SUFFIX,stripe-terminal-local-reader.net,国外
   - DOMAIN-SUFFIX,stripe.ac.uk,国外
   - DOMAIN-SUFFIX,stripe.com,国外
+  - DOMAIN-SUFFIX,stripe.dev,国外
+  - DOMAIN-SUFFIX,stripe.events,国外
+  - DOMAIN-SUFFIX,stripe.global,国外
   - DOMAIN-SUFFIX,stripe.network,国外
   - DOMAIN-SUFFIX,stripecdn.com,国外
   - DOMAIN-SUFFIX,stripparadise.com,国外
