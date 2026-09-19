@@ -11060,6 +11060,7 @@ rules:
   - DOMAIN-SUFFIX,test-ipv6.com,国外
   - DOMAIN-SUFFIX,ipw.cn,国外
   - DOMAIN-SUFFIX,ipcheck.im,国外
+  - DOMAIN,challenges.cloudflare.com,国外
   - DOMAIN,speed.cloudflare.com,国外
   - DOMAIN-SUFFIX,fast.com,国外
   - DOMAIN-SUFFIX,speedcheck.org,国外
