@@ -17565,6 +17565,7 @@ rules:
   - DOMAIN-SUFFIX,code.org,国外
   - DOMAIN-SUFFIX,codeberg.org,国外
   - DOMAIN-SUFFIX,codeberg.page,国外
+  - DOMAIN-SUFFIX,codebuff.com,国外
   - DOMAIN-SUFFIX,codecademy.com,国外
   - DOMAIN-SUFFIX,codeforaliving.io,国外
   - DOMAIN-SUFFIX,codeforces.com,国外
@@ -21075,11 +21076,13 @@ rules:
   - DOMAIN-SUFFIX,fire-emblem-heroes.com,国外
   - DOMAIN-SUFFIX,firebase-settings.crashlytics.com,国外
   - DOMAIN-SUFFIX,firebase.com,国外
+  - DOMAIN-SUFFIX,firebase.dev,国外
   - DOMAIN-SUFFIX,firebase.io,国外
   - DOMAIN-SUFFIX,firebaseapp.com,国外
   - DOMAIN-SUFFIX,firech.at,国外
   - DOMAIN-SUFFIX,fireemblemawakening.com,国外
   - DOMAIN-SUFFIX,fireflyresearch.ac.uk,国外
+  - DOMAIN-SUFFIX,firefox-portal-detection.com,国外
   - DOMAIN-SUFFIX,firefox.hu,国外
   - DOMAIN-SUFFIX,firefoxtweetmachine.com,国外
   - DOMAIN-SUFFIX,firefoxusercontent.com,国外
@@ -21475,6 +21478,7 @@ rules:
   - DOMAIN-SUFFIX,freebigmovies.com,国外
   - DOMAIN-SUFFIX,freebs.com,国外
   - DOMAIN-SUFFIX,freebsd.org,国外
+  - DOMAIN-SUFFIX,freebuff.com,国外
   - DOMAIN-SUFFIX,freecamsfan.com,国外
   - DOMAIN-SUFFIX,freecamstars.com,国外
   - DOMAIN-SUFFIX,freecartoons.biz,国外
@@ -35375,6 +35379,7 @@ rules:
   - DOMAIN-SUFFIX,textminingcentre.ac.uk,国外
   - DOMAIN-SUFFIX,texttobuy.org,国外
   - DOMAIN-SUFFIX,texture.com,国外
+  - DOMAIN-SUFFIX,tfbnw.net,国外
   - DOMAIN-SUFFIX,tferwq.com,国外
   - DOMAIN-SUFFIX,tfsallin.net,国外
   - DOMAIN-SUFFIX,tgac.ac.uk,国外
