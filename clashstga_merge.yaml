@@ -40667,6 +40667,7 @@ rules:
   - DOMAIN-SUFFIX,chinesen.de,国外
   - DOMAIN-SUFFIX,chinesenews.net.au,国外
   - DOMAIN-SUFFIX,chinesepen.org,国外
+  - DOMAIN-SUFFIX,chineseposters.net,国外
   - DOMAIN-SUFFIX,chineseradioseattle.com,国外
   - DOMAIN-SUFFIX,chinesetalks.net,国外
   - DOMAIN-SUFFIX,chineseupress.com,国外
@@ -43587,6 +43588,7 @@ rules:
   - DOMAIN-SUFFIX,nordstromrack.com,国外
   - DOMAIN-SUFFIX,nordvpn.com,国外
   - DOMAIN-SUFFIX,nos.nl,国外
+  - DOMAIN-SUFFIX,note.com,国外
   - DOMAIN-SUFFIX,notepad-plus-plus.org,国外
   - DOMAIN-SUFFIX,notion.so,国外
   - DOMAIN-SUFFIX,nottinghampost.com,国外
