@@ -31930,7 +31930,6 @@ rules:
   - DOMAIN-SUFFIX,qmzdd.com,国外
   - DOMAIN-SUFFIX,qnap.com,国外
   - DOMAIN-SUFFIX,qnapsupport.net,国外
-  - DOMAIN-SUFFIX,qobuz.com,国外
   - DOMAIN-SUFFIX,qombol.com,国外
   - DOMAIN-SUFFIX,qoo-app.com,国外
   - DOMAIN-SUFFIX,qoo10.jp,国外
@@ -40448,6 +40447,7 @@ rules:
   - DOMAIN-SUFFIX,c-span.org,国外
   - DOMAIN-SUFFIX,c-spanvideo.org,国外
   - DOMAIN-SUFFIX,c.gle,国外
+  - DOMAIN-SUFFIX,c.go-mpulse.net,国外
   - DOMAIN-SUFFIX,c.mi.com,国外
   - DOMAIN-SUFFIX,c100tibet.org,国外
   - DOMAIN-SUFFIX,c2cx.com,国外
@@ -44151,6 +44151,7 @@ rules:
   - DOMAIN-SUFFIX,qiwen.lu,国外
   - DOMAIN-SUFFIX,qkshare.com,国外
   - DOMAIN-SUFFIX,qmp4.com,国外
+  - DOMAIN-SUFFIX,qobuz.com,国外
   - DOMAIN-SUFFIX,qoos.com,国外
   - DOMAIN-SUFFIX,qpoe.com,国外
   - DOMAIN-SUFFIX,qq.co.za,国外
@@ -45622,6 +45623,7 @@ rules:
   - DOMAIN-SUFFIX,vansky.com,国外
   - DOMAIN-SUFFIX,vaticannews.va,国外
   - DOMAIN-SUFFIX,vatn.org,国外
+  - DOMAIN-SUFFIX,vava8.com,国外
   - DOMAIN-SUFFIX,vbstatic.co,国外
   - DOMAIN-SUFFIX,vcf-online.org,国外
   - DOMAIN-SUFFIX,vcfbuilder.org,国外
@@ -46381,6 +46383,8 @@ rules:
   - IP-CIDR,125.6.190.0/24,国外,no-resolve
   - IP-CIDR,129.134.0.0/17,国外,no-resolve
   - IP-CIDR,129.226.0.0/16,国外,no-resolve
+  - IP-CIDR,13.251.24.0/24,国外,no-resolve
+  - IP-CIDR,13.251.41.0/24,国外,no-resolve
   - IP-CIDR,13.32.0.0/15,国外,no-resolve
   - IP-CIDR,13.35.0.0/17,国外,no-resolve
   - IP-CIDR,14.102.250.18/31,国外,no-resolve
@@ -46391,6 +46395,7 @@ rules:
   - IP-CIDR,158.85.46.128/27,国外,no-resolve
   - IP-CIDR,158.85.5.192/27,国外,no-resolve
   - IP-CIDR,169.45.248.118/32,国外,no-resolve
+  - IP-CIDR,17.252.156.0/23,国外,no-resolve
   - IP-CIDR,173.192.222.160/27,国外,no-resolve
   - IP-CIDR,173.192.231.32/27,国外,no-resolve
   - IP-CIDR,173.194.0.0/16,国外,no-resolve
