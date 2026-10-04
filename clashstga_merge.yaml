@@ -17411,6 +17411,7 @@ rules:
   - DOMAIN-SUFFIX,classymomsex.com,国外
   - DOMAIN-SUFFIX,clau.de,国外
   - DOMAIN-SUFFIX,claude.ai,国外
+  - DOMAIN-SUFFIX,claude.dev,国外
   - DOMAIN-SUFFIX,claudemcpclient.com,国外
   - DOMAIN-SUFFIX,claudemcpcontent.com,国外
   - DOMAIN-SUFFIX,claudeusercontent.com,国外
@@ -37583,7 +37584,6 @@ rules:
   - DOMAIN-SUFFIX,walker.ac.uk,国外
   - DOMAIN-SUFFIX,wallberis.ru,国外
   - DOMAIN-SUFFIX,wallet.com,国外
-  - DOMAIN-SUFFIX,wallhaven.cc,国外
   - DOMAIN-SUFFIX,walmart-content.com,国外
   - DOMAIN-SUFFIX,walmart.com,国外
   - DOMAIN-SUFFIX,walmart.pharmacy,国外
@@ -37943,7 +37943,6 @@ rules:
   - DOMAIN-SUFFIX,wikifeet.com,国外
   - DOMAIN-SUFFIX,wikihow.com,国外
   - DOMAIN-SUFFIX,wikimediacloud.org,国外
-  - DOMAIN-SUFFIX,wikimediafoundation.org,国外
   - DOMAIN-SUFFIX,wikiporn.tv,国外
   - DOMAIN-SUFFIX,wikisexguide.com,国外
   - DOMAIN-SUFFIX,wilberes.ru,国外
@@ -45782,6 +45781,7 @@ rules:
   - DOMAIN-SUFFIX,waiwaier.com,国外
   - DOMAIN-SUFFIX,walletconnect.com,国外
   - DOMAIN-SUFFIX,walletconnect.org,国外
+  - DOMAIN-SUFFIX,wallhaven.cc,国外
   - DOMAIN-SUFFIX,wallmama.com,国外
   - DOMAIN-SUFFIX,wallornot.org,国外
   - DOMAIN-SUFFIX,wallpapercasa.com,国外
@@ -45901,6 +45901,7 @@ rules:
   - DOMAIN-SUFFIX,wikia.com,国外
   - DOMAIN-SUFFIX,wikibooks.org,国外
   - DOMAIN-SUFFIX,wikidata.org,国外
+  - DOMAIN-SUFFIX,wikifunctions.org,国外
   - DOMAIN-SUFFIX,wikileaks-forum.com,国外
   - DOMAIN-SUFFIX,wikileaks.ch,国外
   - DOMAIN-SUFFIX,wikileaks.com,国外
@@ -45913,12 +45914,14 @@ rules:
   - DOMAIN-SUFFIX,wikilivres.info,国外
   - DOMAIN-SUFFIX,wikimapia.org,国外
   - DOMAIN-SUFFIX,wikimedia.org,国外
+  - DOMAIN-SUFFIX,wikimediafoundation.org,国外
   - DOMAIN-SUFFIX,wikinews.org,国外
   - DOMAIN-SUFFIX,wikipedia.com,国外
   - DOMAIN-SUFFIX,wikipedia.org,国外
   - DOMAIN-SUFFIX,wikiquote.org,国外
   - DOMAIN-SUFFIX,wikis.tw,国外
   - DOMAIN-SUFFIX,wikisource.org,国外
+  - DOMAIN-SUFFIX,wikispecies.org,国外
   - DOMAIN-SUFFIX,wikiunblocked.org,国外
   - DOMAIN-SUFFIX,wikiversity.org,国外
   - DOMAIN-SUFFIX,wikivoyage.org,国外
