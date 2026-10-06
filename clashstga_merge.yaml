@@ -22569,6 +22569,7 @@ rules:
   - DOMAIN-SUFFIX,googlepagecreator.com,国外
   - DOMAIN-SUFFIX,googlephotos.com,国外
   - DOMAIN-SUFFIX,googleplay.com,国外
+  - DOMAIN-SUFFIX,googleplaycensorship.com,国外
   - DOMAIN-SUFFIX,googleplex.com,国外
   - DOMAIN-SUFFIX,googleplus.com,国外
   - DOMAIN-SUFFIX,googlescholar.com,国外
