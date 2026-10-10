@@ -27436,6 +27436,7 @@ rules:
   - DOMAIN-SUFFIX,meetfasttrack.com,国外
   - DOMAIN-SUFFIX,meetsmartbook.com,国外
   - DOMAIN-SUFFIX,meetyourdevices.com,国外
+  - DOMAIN-SUFFIX,megaad.nz,国外
   - DOMAIN-SUFFIX,megacamz.com,国外
   - DOMAIN-SUFFIX,megaeth.com,国外
   - DOMAIN-SUFFIX,megafilmporno.com,国外
@@ -27446,10 +27447,12 @@ rules:
   - DOMAIN-SUFFIX,megamarket.ru,国外
   - DOMAIN-SUFFIX,megamarket.tech,国外
   - DOMAIN-SUFFIX,megamon.co.kr,国外
+  - DOMAIN-SUFFIX,megapay.nz,国外
   - DOMAIN-SUFFIX,megaphone.fm,国外
   - DOMAIN-SUFFIX,megapornfreehd.com,国外
   - DOMAIN-SUFFIX,megaporno.com.br,国外
   - DOMAIN-SUFFIX,megapornpics.com,国外
+  - DOMAIN-SUFFIX,megas4.com,国外
   - DOMAIN-SUFFIX,megasrv.de,国外
   - DOMAIN-SUFFIX,megatitsminka.com,国外
   - DOMAIN-SUFFIX,megogo.net,国外
@@ -31785,7 +31788,6 @@ rules:
   - DOMAIN-SUFFIX,proxyrarbg.org,国外
   - DOMAIN-SUFFIX,prpops.com,国外
   - DOMAIN-SUFFIX,prs-ltsn.ac.uk,国外
-  - DOMAIN-SUFFIX,prts.plus,国外
   - DOMAIN-SUFFIX,prucomm.ac.uk,国外
   - DOMAIN-SUFFIX,prvbank.ru,国外
   - DOMAIN-SUFFIX,ps-exchange.com,国外
@@ -35869,6 +35871,7 @@ rules:
   - DOMAIN-SUFFIX,transarmuito.com,国外
   - DOMAIN-SUFFIX,transcamslive.com,国外
   - DOMAIN-SUFFIX,transcocon.ac.uk,国外
+  - DOMAIN-SUFFIX,transfer.it,国外
   - DOMAIN-SUFFIX,transferwise.com,国外
   - DOMAIN-SUFFIX,transforming-musicology.ac.uk,国外
   - DOMAIN-SUFFIX,transformingmusicology.ac.uk,国外
