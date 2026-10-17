@@ -16292,6 +16292,7 @@ rules:
   - DOMAIN-SUFFIX,bsappapi.com,国外
   - DOMAIN-SUFFIX,bsaw.ac.uk,国外
   - DOMAIN-SUFFIX,bsbec.ac.uk,国外
+  - DOMAIN-SUFFIX,bscdnweb.com,国外
   - DOMAIN-SUFFIX,bsdc.ac.uk,国外
   - DOMAIN-SUFFIX,bsersd.xyz,国外
   - DOMAIN-SUFFIX,bsfc.ac.uk,国外
@@ -27539,8 +27540,6 @@ rules:
   - DOMAIN-SUFFIX,messybrainz.org,国外
   - DOMAIN-SUFFIX,messytube.com,国外
   - DOMAIN-SUFFIX,met-nude.com,国外
-  - DOMAIN-SUFFIX,meta.ai,国外
-  - DOMAIN-SUFFIX,metaaivm.com,国外
   - DOMAIN-SUFFIX,metabolomics.ac.uk,国外
   - DOMAIN-SUFFIX,metabora.io,国外
   - DOMAIN-SUFFIX,metabrainz.org,国外
@@ -33151,6 +33150,7 @@ rules:
   - DOMAIN-SUFFIX,sccjr.ac.uk,国外
   - DOMAIN-SUFFIX,scct.ac.uk,国外
   - DOMAIN-SUFFIX,scde.ac.uk,国外
+  - DOMAIN-SUFFIX,scea.com,国外
   - DOMAIN-SUFFIX,scene7.com,国外
   - DOMAIN-SUFFIX,scenesource.me,国外
   - DOMAIN-SUFFIX,scentro.ac.uk,国外
@@ -34237,6 +34237,7 @@ rules:
   - DOMAIN-SUFFIX,sony.com.pa,国外
   - DOMAIN-SUFFIX,sony.com.pe,国外
   - DOMAIN-SUFFIX,sony.com.ph,国外
+  - DOMAIN-SUFFIX,sony.com.py,国外
   - DOMAIN-SUFFIX,sony.com.sg,国外
   - DOMAIN-SUFFIX,sony.com.sv,国外
   - DOMAIN-SUFFIX,sony.com.tr,国外
@@ -34279,8 +34280,10 @@ rules:
   - DOMAIN-SUFFIX,sonydesign.com,国外
   - DOMAIN-SUFFIX,sonydna.com,国外
   - DOMAIN-SUFFIX,sonyglobalsolutions.jp,国外
+  - DOMAIN-SUFFIX,sonyinteractive.com,国外
   - DOMAIN-SUFFIX,sonykigyo.jp,国外
   - DOMAIN-SUFFIX,sonylatvija.com,国外
+  - DOMAIN-SUFFIX,sonymusic.com.hk,国外
   - DOMAIN-SUFFIX,sonynetwork.co.jp,国外
   - DOMAIN-SUFFIX,sonypcl.jp,国外
   - DOMAIN-SUFFIX,sonypictures.com,国外
@@ -39820,6 +39823,7 @@ rules:
   - DOMAIN-SUFFIX,7capture.com,国外
   - DOMAIN-SUFFIX,7cow.com,国外
   - DOMAIN-SUFFIX,7mmtv.tv,国外
+  - DOMAIN-SUFFIX,7x24hrs.com,国外
   - DOMAIN-SUFFIX,8-d.com,国外
   - DOMAIN-SUFFIX,85cc.net,国外
   - DOMAIN-SUFFIX,85cc.us,国外
@@ -43255,7 +43259,9 @@ rules:
   - DOMAIN-SUFFIX,meshrep.com,国外
   - DOMAIN-SUFFIX,mesotw.com,国外
   - DOMAIN-SUFFIX,messenger.com,国外
+  - DOMAIN-SUFFIX,meta.ai,国外
   - DOMAIN-SUFFIX,meta.com,国外
+  - DOMAIN-SUFFIX,metaaivm.com,国外
   - DOMAIN-SUFFIX,metacafe.com,国外
   - DOMAIN-SUFFIX,metacubex.one,国外
   - DOMAIN-SUFFIX,metafilter.com,国外
