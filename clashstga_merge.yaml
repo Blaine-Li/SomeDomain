@@ -13925,7 +13925,6 @@ rules:
   - DOMAIN-SUFFIX,asminternational.org,国外
   - DOMAIN-SUFFIX,asmrbuluo.com,国外
   - DOMAIN-SUFFIX,asn-online.org,国外
-  - DOMAIN-SUFFIX,asobostudio.com,国外
   - DOMAIN-SUFFIX,asp-cc.com,国外
   - DOMAIN-SUFFIX,asp.net,国外
   - DOMAIN-SUFFIX,aspbjournals.org,国外
@@ -14949,8 +14948,15 @@ rules:
   - DOMAIN-SUFFIX,beforeigners.com,国外
   - DOMAIN-SUFFIX,befuck.com,国外
   - DOMAIN-SUFFIX,befuck.net,国外
+  - DOMAIN-SUFFIX,beget.app,国外
+  - DOMAIN-SUFFIX,beget.cloud,国外
   - DOMAIN-SUFFIX,beget.com,国外
+  - DOMAIN-SUFFIX,beget.de,国外
+  - DOMAIN-SUFFIX,beget.hosting,国外
+  - DOMAIN-SUFFIX,beget.pro,国外
   - DOMAIN-SUFFIX,beget.ru,国外
+  - DOMAIN-SUFFIX,beget.tech,国外
+  - DOMAIN-SUFFIX,begetcdn.cloud,国外
   - DOMAIN-SUFFIX,begin-trade.com,国外
   - DOMAIN-SUFFIX,behaviour4learning.ac.uk,国外
   - DOMAIN-SUFFIX,behavioural-science.ac.uk,国外
@@ -14998,6 +15004,7 @@ rules:
   - DOMAIN-SUFFIX,beru.ru,国外
   - DOMAIN-SUFFIX,besa.ac.uk,国外
   - DOMAIN-SUFFIX,besc.ac.uk,国外
+  - DOMAIN-SUFFIX,beserver.ru,国外
   - DOMAIN-SUFFIX,beside.ac.uk,国外
   - DOMAIN-SUFFIX,bess.ac.uk,国外
   - DOMAIN-SUFFIX,best-sex-games.com,国外
@@ -15110,6 +15117,7 @@ rules:
   - DOMAIN-SUFFIX,bfmat.ac.uk,国外
   - DOMAIN-SUFFIX,bftv.ac.uk,国外
   - DOMAIN-SUFFIX,bgc.ac.uk,国外
+  - DOMAIN-SUFFIX,bget.ru,国外
   - DOMAIN-SUFFIX,bgicdn.com,国外
   - DOMAIN-SUFFIX,bgov.com,国外
   - DOMAIN-SUFFIX,bgr.in,国外
@@ -18112,6 +18120,7 @@ rules:
   - DOMAIN-SUFFIX,cursor.com,国外
   - DOMAIN-SUFFIX,cursor.sh,国外
   - DOMAIN-SUFFIX,cursorapi.com,国外
+  - DOMAIN-SUFFIX,cursorvm.com,国外
   - DOMAIN-SUFFIX,curve.fi,国外
   - DOMAIN-SUFFIX,curvybbwwives.com,国外
   - DOMAIN-SUFFIX,curvyerotic.com,国外
@@ -21188,7 +21197,6 @@ rules:
   - DOMAIN-SUFFIX,fli8.xyz,国外
   - DOMAIN-SUFFIX,flic.kr,国外
   - DOMAIN-SUFFIX,flickr.net,国外
-  - DOMAIN-SUFFIX,flightsimulator.com,国外
   - DOMAIN-SUFFIX,flipfap.com,国外
   - DOMAIN-SUFFIX,flipnotestudio.com,国外
   - DOMAIN-SUFFIX,flipshare.com,国外
@@ -30277,6 +30285,7 @@ rules:
   - DOMAIN-SUFFIX,opac-project.eu,国外
   - DOMAIN-SUFFIX,opdems.ac.uk,国外
   - DOMAIN-SUFFIX,open.ac.uk,国外
+  - DOMAIN-SUFFIX,openai.org,国外
   - DOMAIN-SUFFIX,openamt.com,国外
   - DOMAIN-SUFFIX,openapiplatform.com,国外
   - DOMAIN-SUFFIX,openapiservice.com,国外
@@ -31912,6 +31921,7 @@ rules:
   - DOMAIN-SUFFIX,pussyshine.info,国外
   - DOMAIN-SUFFIX,pussyspace.net,国外
   - DOMAIN-SUFFIX,putinho.net,国外
+  - DOMAIN-SUFFIX,pv-cdn.net,国外
   - DOMAIN-SUFFIX,pvp.net,国外
   - DOMAIN-SUFFIX,pvp.tv,国外
   - DOMAIN-SUFFIX,pvt.sexy,国外
@@ -33167,6 +33177,7 @@ rules:
   - DOMAIN-SUFFIX,school-economic-science.ac.uk,国外
   - DOMAIN-SUFFIX,schwab.com.sg,国外
   - DOMAIN-SUFFIX,schwabassetmanagement.com,国外
+  - DOMAIN-SUFFIX,schwabcdn.com,国外
   - DOMAIN-SUFFIX,schwabplan.com,国外
   - DOMAIN-SUFFIX,sci-hub.it.nf,国外
   - DOMAIN-SUFFIX,sci-hub.mksa.top,国外
@@ -34468,6 +34479,7 @@ rules:
   - DOMAIN-SUFFIX,springernature.com,国外
   - DOMAIN-SUFFIX,sprinklesapp.com,国外
   - DOMAIN-SUFFIX,sprint.ac.uk,国外
+  - DOMAIN-SUFFIX,sprut.io,国外
   - DOMAIN-SUFFIX,spsrn.ac.uk,国外
   - DOMAIN-SUFFIX,sptvbroadcast.com,国外
   - DOMAIN-SUFFIX,spurgeons.ac.uk,国外
@@ -35734,6 +35746,8 @@ rules:
   - DOMAIN-SUFFIX,timestalks.com,国外
   - DOMAIN-SUFFIX,timeweb.cloud,国外
   - DOMAIN-SUFFIX,timeweb.com,国外
+  - DOMAIN-SUFFIX,timeweb.tech,国外
+  - DOMAIN-SUFFIX,timewebcloud.kz,国外
   - DOMAIN-SUFFIX,timi1.me,国外
   - DOMAIN-SUFFIX,timo0.com,国外
   - DOMAIN-SUFFIX,ting53.xyz,国外
@@ -36251,6 +36265,7 @@ rules:
   - DOMAIN-SUFFIX,typeisbeautiful.com,国外
   - DOMAIN-SUFFIX,typekit.com,国外
   - DOMAIN-SUFFIX,typenetwork.com,国外
+  - DOMAIN-SUFFIX,typesafe.ai,国外
   - DOMAIN-SUFFIX,typesquare.com,国外
   - DOMAIN-SUFFIX,tyre-cadcam.com,国外
   - DOMAIN-SUFFIX,tyrecadcam.com,国外
@@ -38531,6 +38546,7 @@ rules:
   - DOMAIN-SUFFIX,xn--90ab.com,国外
   - DOMAIN-SUFFIX,xn--90ab2c.xn--p1ai,国外
   - DOMAIN-SUFFIX,xn--90absjljw3g.xn--p1ai,国外
+  - DOMAIN-SUFFIX,xn--90aefb9d.xn--p1ai,国外
   - DOMAIN-SUFFIX,xn--90aifd0az.shop,国外
   - DOMAIN-SUFFIX,xn--90aifd0azb.xn--p1acf,国外
   - DOMAIN-SUFFIX,xn--9kr7l.com,国外
