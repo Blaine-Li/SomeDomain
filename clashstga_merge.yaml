@@ -11449,6 +11449,7 @@ rules:
   - DOMAIN,crl.versign.net,国外
   - DOMAIN,databank.worldbank.org,国外
   - DOMAIN,datarouter.apps.netherrealm.com,国外
+  - DOMAIN,dc.services.visualstudio.com,国外
   - DOMAIN,deutschewelle.h-cdn.com,国外
   - DOMAIN,dl.begellhouse.com,国外
   - DOMAIN,ea.tt.omtrdc.net,国外
@@ -11517,6 +11518,7 @@ rules:
   - DOMAIN,rsshub.umzzz.com,国外
   - DOMAIN,rsshub.woodland.cafe,国外
   - DOMAIN,rsshub2.asailor.org,国外
+  - DOMAIN,rt.services.visualstudio.com,国外
   - DOMAIN,standchartbank.sc.omtrdc.net,国外
   - DOMAIN,standchartbank.tt.omtrdc.net,国外
   - DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com,国外
@@ -12294,6 +12296,7 @@ rules:
   - DOMAIN-SUFFIX,addison.ac.uk,国外
   - DOMAIN-SUFFIX,addthiscdn.com,国外
   - DOMAIN-SUFFIX,addtoany.com,国外
+  - DOMAIN-SUFFIX,addtodropbox.com,国外
   - DOMAIN-SUFFIX,addyoutube.com,国外
   - DOMAIN-SUFFIX,adelaidenow.com.au,国外
   - DOMAIN-SUFFIX,adeptt.ac.uk,国外
@@ -18284,6 +18287,7 @@ rules:
   - DOMAIN-SUFFIX,dasaob.online,国外
   - DOMAIN-SUFFIX,dasg.ac.uk,国外
   - DOMAIN-SUFFIX,dash-1.ac.uk,国外
+  - DOMAIN-SUFFIX,dash.ai,国外
   - DOMAIN-SUFFIX,dashly.app,国外
   - DOMAIN-SUFFIX,dashly.help,国外
   - DOMAIN-SUFFIX,dashly.io,国外
@@ -19087,6 +19091,7 @@ rules:
   - DOMAIN-SUFFIX,docs.com,国外
   - DOMAIN-SUFFIX,docs.rs,国外
   - DOMAIN-SUFFIX,docs.rw,国外
+  - DOMAIN-SUFFIX,docsend.com,国外
   - DOMAIN-SUFFIX,doctor-videos.com,国外
   - DOMAIN-SUFFIX,documentforce.com,国外
   - DOMAIN-SUFFIX,docusend.ac.uk,国外
@@ -19270,12 +19275,15 @@ rules:
   - DOMAIN-SUFFIX,dropboxapi.com,国外
   - DOMAIN-SUFFIX,dropboxbusiness.com,国外
   - DOMAIN-SUFFIX,dropboxcaptcha.com,国外
+  - DOMAIN-SUFFIX,dropboxexperiment.com,国外
   - DOMAIN-SUFFIX,dropboxforum.com,国外
   - DOMAIN-SUFFIX,dropboxforums.com,国外
   - DOMAIN-SUFFIX,dropboxinsiders.com,国外
+  - DOMAIN-SUFFIX,dropboxlegal.com,国外
   - DOMAIN-SUFFIX,dropboxmail.com,国外
   - DOMAIN-SUFFIX,dropboxpartners.com,国外
   - DOMAIN-SUFFIX,dropboxstatic.com,国外
+  - DOMAIN-SUFFIX,dropboxteam.com,国外
   - DOMAIN-SUFFIX,dropboxusercontent.com,国外
   - DOMAIN-SUFFIX,drpc.org,国外
   - DOMAIN-SUFFIX,drunk6.com,国外
@@ -23223,9 +23231,11 @@ rules:
   - DOMAIN-SUFFIX,heise360181.buzz,国外
   - DOMAIN-SUFFIX,heise360182.buzz,国外
   - DOMAIN-SUFFIX,helf.ac.uk,国外
+  - DOMAIN-SUFFIX,hellofax.com,国外
   - DOMAIN-SUFFIX,hellofuture.ac.uk,国外
   - DOMAIN-SUFFIX,hellokittybeats.com,国外
   - DOMAIN-SUFFIX,hellomoto.com,国外
+  - DOMAIN-SUFFIX,hellosign.com,国外
   - DOMAIN-SUFFIX,hellosmartbook.com,国外
   - DOMAIN-SUFFIX,hellporno.com,国外
   - DOMAIN-SUFFIX,hellven.net,国外
@@ -26474,6 +26484,7 @@ rules:
   - DOMAIN-SUFFIX,library.lol,国外
   - DOMAIN-SUFFIX,librarylovefest.com,国外
   - DOMAIN-SUFFIX,libraryofthumbs.com,国外
+  - DOMAIN-SUFFIX,librewolf.dev,国外
   - DOMAIN-SUFFIX,librewolf.net,国外
   - DOMAIN-SUFFIX,libsolutions.app,国外
   - DOMAIN-SUFFIX,libsolutions.domains,国外
